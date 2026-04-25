@@ -13,7 +13,9 @@ export default defineConfig({
       { text: 'Start', link: '/' },
       { text: 'Waffen', link: '/waffen/', activeMatch: '/waffen/' },
       { text: 'Builds', link: '/builds', activeMatch: '/builds' },
+      { text: 'Ausrüstung', link: '/ausruestung', activeMatch: '/ausruestung' },
       { text: 'Bosse', link: '/bosses/', activeMatch: '/bosses/' },
+      { text: 'Challenges', link: '/challenges', activeMatch: '/challenges' },
     ],
 
     sidebar: {
