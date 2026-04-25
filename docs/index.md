@@ -58,6 +58,8 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Video-Referenzen (19 Guides DE/EN)
 - [x] Mini-Bosse (20+ Elite-NPCs)
 - [x] Waffen-Skill-Matrix (alle bekannten Skills)
+- [x] Händler-Übersicht (NPCs, Materialien, Währungen)
+- [x] Glossar (Systeme & Zusammenhänge erklärt)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
