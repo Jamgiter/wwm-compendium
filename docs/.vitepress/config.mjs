@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'WWM Compendium',
+  appearance: 'dark',
   description: 'Where Winds Meet – Waffen-Guides, Boss-Strategien & Build-Optimierung',
   lang: 'de-DE',
   base: '/wwm-compendium/',
