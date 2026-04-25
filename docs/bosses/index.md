@@ -75,3 +75,11 @@ Diese Bosse müssen für den Story-Fortschritt besiegt werden:
 6. **Schwierigkeitsgrad wählbar** – Story, Recommended, Expert, Legend, Hardcore
 7. **Legend-Modus** – Kann nachträglich **nicht mehr geändert werden**! Vorsicht bei der Wahl
 8. **Waffenwechsel einplanen** – Zwei Waffen mitnehmen, je nach Phase anpassen
+
+---
+
+## 👤 Mini-Bosse
+
+Neben den großen Bossen gibt es über **20 Mini-Bosse / Elite-NPCs** in Qinghe, Kaifeng und anderen Regionen. Gut zum Farmen von EP, Währung und Ausrüstung.
+
+👉 [Alle Mini-Bosse ansehen →](./mini-bosse)
