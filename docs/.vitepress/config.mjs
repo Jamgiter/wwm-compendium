@@ -84,7 +84,7 @@ export default defineConfig({
 
     footer: {
       message: 'Fan-Projekt zu Where Winds Meet von NetEase',
-      copyright: 'MIT License',
+      copyright: 'Design & Creator J.Muck — DS v4',
     },
 
     search: {
