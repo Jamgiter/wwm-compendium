@@ -18,6 +18,7 @@ export default defineConfig({
       { text: 'Challenges', link: '/challenges', activeMatch: '/challenges' },
       { text: 'Videos', link: '/videos', activeMatch: '/videos' },
       { text: 'Mini-Bosse', link: '/bosses/mini-bosse', activeMatch: '/bosses/mini-bosse' },
+      { text: 'Skill-Matrix', link: '/skills', activeMatch: '/skills' },
     ],
 
     sidebar: {

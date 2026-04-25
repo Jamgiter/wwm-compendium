@@ -55,9 +55,10 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Ausrüstungs-Sets & Optimierung
 - [x] Boss-Guides (14 Story + 20+ Weltbosse)
 - [x] Challenge-Bosse (Patch 1.5)
-- [ ] Detaillierte Video-Referenzen & Taktik-Videos
-- [ ] Mini-Bosse (Elite-NPCs)
-- [ ] Waffen-Skill-Tree-Details (komplette Skill-Matrix)
+- [x] Video-Referenzen (19 Guides DE/EN)
+- [x] Mini-Bosse (20+ Elite-NPCs)
+- [x] Waffen-Skill-Matrix (alle bekannten Skills)
+- [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
 
