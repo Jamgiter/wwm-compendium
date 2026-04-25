@@ -62,3 +62,31 @@ Der **Dust-Pfad** glänzt, wenn viele Gegner auf einmal kommen. Mit dem Immerque
 1. Stapelbare Buffs aufbauen (durch Angriffe/Ausweichen)
 2. Cyclone Waltz / Scarlet Spin für maximalen AoE-Schaden
 3. Dreamwrought Bubbles für großen Flächenschaden
+
+---
+
+## ⚙️ Build-Empfehlung: Bamboocut – Dust
+
+### Empfohlene Innere Kampfkünste (Mystic Arts)
+
+| Mystic Art | Wirkung | Priorität |
+|-----------|---------|:---------:|
+| **Guardian Palm** | Überlebensfähigkeit beim AoE-Casten | ⭐⭐⭐ |
+| **Meridian Touch** | Boss-Unterbrechungen | ⭐⭐ |
+| **Cloud Steps** | Mobilität für Positionierung | ⭐⭐ |
+| **Leaping Toad** | Zusätzlicher AoE-Schaden | ⭐⭐ |
+
+### Boss-Matchups
+
+| Boss | Empfehlung | Begründung |
+|------|-----------|-----------|
+| **Gruppen-Herausforderungen** | ✅✅ Exzellent | Beste AoE-Kontrolle im Spiel |
+| **Ghost Master** | ✅✅ Ideal | Seine Geisterwellen mit AoE auslöschen |
+| **Einzel-Bosse** | ⚠️ Schwach | Weniger Einzelziel-Schaden als andere Pfade |
+
+### Stat-Priorität
+`AoE-Schaden > Buff-Dauer > Abklingzeit > Ausdauer`
+
+1. Stapelbare Buffs aufbauen (durch Angriffe/Ausweichen)
+2. Cyclone Waltz / Scarlet Spin für maximalen AoE-Schaden
+3. Dreamwrought Bubbles für großen Flächenschaden

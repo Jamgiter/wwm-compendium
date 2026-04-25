@@ -60,3 +60,31 @@ Umbra ist der Pfad für Spieler, die Geduld und Ausdauer belohnen wollen. **Wund
 1. Wunden anhäufen (3–5 Stacks)
 2. Distanz halten und ausweichen
 3. Erneut angreifen, bevor der Effekt abläuft
+
+---
+
+## ⚙️ Build-Empfehlung: Bellstrike – Umbra
+
+### Empfohlene Innere Kampfkünste (Mystic Arts)
+
+| Mystic Art | Wirkung | Priorität |
+|-----------|---------|:---------:|
+| **Meridian Touch** | Boss-Unterbrechungen – Zeit für Blutungs-Stacks gewinnen | ⭐⭐⭐ |
+| **Cloud Steps** | Extra Ausweichen zum Distanz-Halten | ⭐⭐⭐ |
+| **Guardian Palm** | Schild, während Blutung tickt | ⭐⭐ |
+| **Leaping Toad** | AoE-Bodenwelle für Gruppen-Blutungen | ⭐ |
+
+### Boss-Matchups
+
+| Boss | Empfehlung | Begründung |
+|------|-----------|-----------|
+| **Heartseeker** | ✅ Stark | Phase 2-Blitzsturm überleben, während Blutung tickt |
+| **Qianye** | ⚠️ Mittel | Ihre Beweglichkeit macht Blutungs-Stapel schwierig |
+| **Weltbosse mit viel HP** | ✅✅ Exzellent | Je mehr HP, desto wertvoller ist DoT |
+
+### Stat-Priorität
+`Blutungsschaden > Angriffskraft > Ausdauer > Überlebensfähigkeit`
+
+1. Wunden anhäufen (3–5 Stacks)
+2. Distanz halten und ausweichen
+3. Erneut angreifen, bevor der Effekt abläuft

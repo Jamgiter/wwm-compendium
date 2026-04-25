@@ -57,6 +57,37 @@ Der Einstiegspfad in Where Winds Meet. Splendor bietet zwei solide Waffen mit Fo
 
 ## Spielstil
 
+Das **Namenlose Schwert** ist ideal für aggressive Spieler, die schnell ein- und aussteigen wollen. Der **Namenlose Speer** bietet mehr Reichweite und Kontrolle.
+
+### Empfohlene Combos
+1. Schwert: Homeless Charge (aufladen) → Fearless Lunge → Shadow Step (Ausweichen)
+2. Speer: Qiankun's Lock (fixieren) → Legion Breaker (AoE)
+
+---
+
+## ⚙️ Build-Empfehlung: Bellstrike – Splendor
+
+### Empfohlene Innere Kampfkünste (Mystic Arts)
+
+| Mystic Art | Wirkung | Priorität |
+|-----------|---------|:---------:|
+| **Meridian Touch** | Kontert Projektile, unterbricht Boss-Angriffe | ⭐⭐⭐ |
+| **Cloud Steps** | Zusätzliche Ausweich-Charge für mehr Mobilität | ⭐⭐ |
+| **Guardian Palm** | Schadensschild für mehr Überlebensfähigkeit | ⭐⭐ |
+| **Leaping Toad** | Bodenwelle – gut für Gruppenkontrolle | ⭐ |
+
+### Boss-Matchups
+
+| Boss | Empfehlung | Begründung |
+|------|-----------|-----------|
+| **Heartseeker** | ⚠️ Mittel | Gut für Phase 1, braucht aber Heilung für Phase 2 |
+| **Qianye** | ✅ Gut | Hohe Mobilität hilft gegen ihre schnellen Angriffe |
+| **Weltbosse** | ✅ Gut | Solider Allrounder für Erkundung |
+
+### Stat-Priorität
+`Kritische Trefferrate > Kritischer Schaden > Angriffskraft > Geschwindigkeit`
+
+
 Das **Namenlose Schwert** ist ideal für aggressive Spieler, die schnell ein- und aussteigen wollen. Der **Namenlose Speer** bietet mehr Reichweite und Kontrolle. Im **Waffenwechsel** lassen sich beide kombinieren – Schwert für schnelle Kombos, Speer für Reichweite und AoE.
 
 ### Empfohlene Combos

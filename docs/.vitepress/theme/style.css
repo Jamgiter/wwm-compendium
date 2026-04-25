@@ -1,0 +1,259 @@
+/* ========================================
+   WWM Compendium – Custom Wuxia Theme
+   ======================================== */
+
+/* ---- Root Farben ---- */
+:root {
+  --vp-c-brand-1: #c83e3e;         /* Haupt-Rot – Wuxia-Akzent */
+  --vp-c-brand-2: #a83232;
+  --vp-c-brand-3: #e85a5a;
+  --vp-c-brand-soft: rgba(200, 62, 62, 0.14);
+
+  --vp-c-bg: #0d0d12;             /* Tiefes Schwarz-Blau */
+  --vp-c-bg-alt: #14141c;
+  --vp-c-bg-soft: #1a1a24;
+  --vp-c-bg-soft-up: #20202e;
+  --vp-c-bg-elv: #1e1e2a;
+  --vp-c-bg-elv-up: #262636;
+
+  --vp-c-text-1: #e8e4e0;
+  --vp-c-text-2: #a8a4a0;
+  --vp-c-text-3: #787470;
+
+  --vp-c-border: #2a2a3a;
+  --vp-c-divider: #222232;
+
+  --vp-c-glow: rgba(200, 62, 62, 0.08);
+}
+
+/* ---- Typografie ---- */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  letter-spacing: 0.01em;
+}
+
+.vp-doc h1, .vp-doc h2, .vp-doc h3 {
+  letter-spacing: 0.02em;
+}
+
+.vp-doc h1 {
+  border-bottom: 2px solid var(--vp-c-brand-1);
+  padding-bottom: 0.6rem;
+}
+
+.vp-doc h2 {
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 0.4rem;
+}
+
+/* ---- Links ---- */
+.vp-doc a {
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.vp-doc a:hover {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* ---- Navbar ---- */
+.VPNav {
+  border-bottom: 1px solid var(--vp-c-border);
+}
+
+.VPNavBar {
+  backdrop-filter: blur(12px) saturate(1.2);
+  background-color: rgba(13, 13, 18, 0.85) !important;
+}
+
+/* ---- Sidebar ---- */
+.VPSidebar {
+  border-right: 1px solid var(--vp-c-border) !important;
+}
+
+/* ---- Tabellen ---- */
+.vp-doc table {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+.vp-doc th {
+  background-color: var(--vp-c-brand-1) !important;
+  color: #fff !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+}
+
+.vp-doc tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+
+.vp-doc tr:hover {
+  background-color: rgba(200, 62, 62, 0.04);
+}
+
+/* ---- Code-Blöcke ---- */
+.vp-doc div[class*='language-'] {
+  border-radius: 8px;
+  border: 1px solid var(--vp-c-border);
+}
+
+/* ---- Badges (S/A/B/C Tier) ---- */
+.tier-s, .tier-a, .tier-b, .tier-c {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.tier-s {
+  background: linear-gradient(135deg, #f59e0b, #e85a5a);
+  color: #fff;
+  box-shadow: 0 0 10px rgba(245, 158, 11, 0.3);
+}
+
+.tier-a {
+  background: linear-gradient(135deg, #10b981, #059669);
+  color: #fff;
+}
+
+.tier-b {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+  color: #fff;
+}
+
+.tier-c {
+  background: linear-gradient(135deg, #6b7280, #4b5563);
+  color: #fff;
+}
+
+/* ---- Schwierigkeitsgrad-Badges ---- */
+.diff-easy, .diff-medium, .diff-hard, .diff-expert {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.75rem;
+}
+
+.diff-easy { background: #10b981; color: #fff; }
+.diff-medium { background: #f59e0b; color: #fff; }
+.diff-hard { background: #ef4444; color: #fff; }
+.diff-expert { background: #8b5cf6; color: #fff; }
+
+/* ---- Boss-Infobox ---- */
+.boss-infobox {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.5rem;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 8px;
+  background: var(--vp-c-bg-soft);
+  margin: 1.5rem 0;
+}
+
+.boss-infobox > div {
+  flex: 1;
+}
+
+.boss-infobox h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: var(--vp-c-brand-1);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ---- Waffen-Empfehlungskarten ---- */
+.weapon-card {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  margin: 0.2rem;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 6px;
+  background: var(--vp-c-bg-soft-up);
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+
+.weapon-card:hover {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+}
+
+.weapon-card .star {
+  color: #f59e0b;
+}
+
+/* ---- Homepage Hero-Anpassung ---- */
+.VPHomeHero .name {
+  color: var(--vp-c-text-1) !important;
+}
+
+.VPHomeHero .text {
+  background: linear-gradient(135deg, #e85a5a, #f59e0b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.VPHomeHero .actions .action:first-child .VPButton.primary {
+  background: linear-gradient(135deg, var(--vp-c-brand-1), #e85a5a);
+  border: none;
+}
+
+/* ---- Team-Mitglieder / Footer-Design ---- */
+.vp-doc hr {
+  border-color: var(--vp-c-border);
+  margin: 2rem 0;
+}
+
+/* ---- Glowing Akzente ---- */
+.vp-doc blockquote {
+  border-left: 3px solid var(--vp-c-brand-1);
+  background: rgba(200, 62, 62, 0.04);
+  border-radius: 0 6px 6px 0;
+  padding: 0.8rem 1.2rem;
+}
+
+/* ---- Suchleiste ---- */
+.DocSearch-Button {
+  border-radius: 6px !important;
+  border: 1px solid var(--vp-c-border) !important;
+  background: var(--vp-c-bg-soft-up) !important;
+}
+
+/* ---- Scrollbar ---- */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--vp-c-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--vp-c-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--vp-c-brand-1);
+}
+
+/* ---- Responsive Tipps ---- */
+@media (max-width: 768px) {
+  .boss-infobox {
+    flex-direction: column;
+  }
+}

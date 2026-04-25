@@ -58,6 +58,39 @@ Der Wind-Pfad von Bamboocut ist pure Aggression. Extrem schnelle Angriffe, hohe 
 
 ## Spielstil
 
+**Inferno-Zwillingsklingen** sind eine der stärksten DPS-Waffen im Spiel, aber erfordern perfektes Timing. Der Kern ist der **Flamelash-Burst**.
+
+### Empfohlene Rotation
+1. Addled Mind (3x aufladen, rein-dash)
+2. Calamity's Greed (Enlightened-Zustand)
+3. ⚡ **Flamelash aktivieren** – jetzt maximalen Schaden fahren
+
+---
+
+## ⚙️ Build-Empfehlung: Bamboocut – Wind
+
+### Empfohlene Innere Kampfkünste (Mystic Arts)
+
+| Mystic Art | Wirkung | Priorität |
+|-----------|---------|:---------:|
+| **Guardian Palm** ⭐ | Schadensschild – überlebenskritisch für aggressiven Spielstil | ⭐⭐⭐ |
+| **Meridian Touch** | Unterbrechungen + Projektil-Konter | ⭐⭐⭐ |
+| **Cloud Steps** | Extra Ausweichen für Risiko-Management | ⭐⭐ |
+| **Blazing Wrath Boost** | Passt den Stil an, um Kampfwut schneller zu füllen | ⭐⭐ |
+
+### Boss-Matchups
+
+| Boss | Empfehlung | Begründung |
+|------|-----------|-----------|
+| **Heartseeker** | ✅ Stark | Phase 1 schnell bursten – Phase 2 vorsichtig! |
+| **Qianye** | ⚠️ Mittel | Ihre schnellen Angriffe können dich in Flamelash unterbrechen |
+| **Ye Wanshan** | ✅ Stark | Kurzer Burst-Fight – ideal für Twinblades |
+| **Weltbosse** | ✅✅ Exzellent | Die meisten Weltbosse fallen dem Flamelash-Burst zum Opfer |
+
+### Stat-Priorität
+`Angriffskraft > Kritischer Schaden > Kritische Trefferrate > Angriffsgeschwindigkeit`
+
+
 **Inferno-Zwillingsklingen** sind eine der stärksten DPS-Waffen im Spiel, aber erfordern perfektes Timing. Der Kern ist der **Flamelash-Burst** – sobald Blazing Wrath voll ist, verwandelst du dich und rottest alles nieder.
 
 ### Empfohlene Rotation

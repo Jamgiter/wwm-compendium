@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: 'Start', link: '/' },
       { text: 'Waffen', link: '/waffen/', activeMatch: '/waffen/' },
+      { text: 'Builds', link: '/builds', activeMatch: '/builds' },
       { text: 'Bosse', link: '/bosses/', activeMatch: '/bosses/' },
     ],
 

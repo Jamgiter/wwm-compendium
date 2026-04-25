@@ -61,6 +61,38 @@ Der Fernkampf-DPS-Pfad von Silkbind. Setzt auf **Luftkampf**, Wasser-Klone und h
 
 ## Spielstil
 
+Der **Jade-Pfad** belohnt aggressive Spieler, die den Luftkampf meistern. Gegner hochschleudern und in der Luft zerstören.
+
+### Empfohlene Combos
+1. Peak's Springless Silence (hochwerfen) → Moon Shatter Spring (Luftkombo)
+2. Jadewind Shield (defensiv) → Enhanced Ballistics (Luft-Geschosse)
+
+---
+
+## ⚙️ Build-Empfehlung: Silkbind – Jade
+
+### Empfohlene Innere Kampfkünste (Mystic Arts)
+
+| Mystic Art | Wirkung | Priorität |
+|-----------|---------|:---------:|
+| **Meridian Touch** | Boss-Unterbrechungen für Luft-Combo-Fenster | ⭐⭐⭐ |
+| **Cloud Steps** ⭐ | Extra Ausweichen – wichtig für Positioning im Fernkampf | ⭐⭐⭐ |
+| **Guardian Palm** | Überlebensfähigkeit für den Fall, dass Boss zu nahe kommt | ⭐⭐ |
+| **Leaping Toad** | Zusätzlicher Launch für Luftkombos | ⭐ |
+
+### Boss-Matchups
+
+| Boss | Empfehlung | Begründung |
+|------|-----------|-----------|
+| **Heartseeker** | ✅✅ Exzellent | Sicherer Fernkampf – Blitzsturm ignorieren! |
+| **Qianye** | ✅ Stark | Ihre Wellenangriffe aus der Distanz kontern |
+| **Coffin Master** | ✅ Stark | Fernkampf ideal gegen seine Nahkampf-Angriffe |
+| **Weltbosse generell** | ✅✅ Exzellent | Sicherster PvE-Stil für Boss-Erkundung |
+
+### Stat-Priorität
+`Angriffskraft > Kritischer Schaden > Elementarschaden > Geschwindigkeit`
+
+
 Der **Jade-Pfad** belohnt aggressive Spieler, die den Luftkampf meistern. Das Ziel ist es, Gegner **hochzuschleudern** und in der Luft zu zerstören. Der Tuschefässchen-Fächer ist die erste Wahl für reinen Schaden, der Frühlings-Schirm bietet mehr defensive Optionen.
 
 ### Empfohlene Combos

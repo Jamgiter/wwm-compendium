@@ -71,3 +71,33 @@ Als **Tank** bist du die Frontlinie. Der Sturmbringer-Speer ist deine Hauptwaffe
 3. Fury Spear (aufgeladener Schaden)
 4. Thunder Shock (Vulnerability-Debuff für Gruppe)
 5. Bei Bedarf: Thundercry Blade-Wechsel für Konter
+
+---
+
+## ⚙️ Build-Empfehlung: Stonesplit – Might
+
+### Empfohlene Innere Kampfkünste (Mystic Arts)
+
+| Mystic Art | Wirkung | Priorität |
+|-----------|---------|:---------:|
+| **Guardian Palm** ⭐ | Extra-Schadensschild + Schadensreduktion | ⭐⭐⭐ |
+| **Meridian Touch** | Boss unterbrechen, um Gruppe zu schützen | ⭐⭐⭐ |
+| **Cloud Steps** | Mobilität für Positionierung | ⭐⭐ |
+| **Leaping Toad** | Zusätzliche AoE-Bedrohung | ⭐ |
+
+### Boss-Matchups
+
+| Boss | Empfehlung | Begründung |
+|------|-----------|-----------|
+| **Heartseeker** | ✅✅ Stark | Taunt unterbricht Blitzsturm-Vorbereitung? |
+| **Twin Lions** | ✅✅✅ **Idealer Tank** | Zwei Gegner gleichzeitig taunten |
+| **Jeder Gruppen-Boss** | ✅ Pflicht | Unverzichtbar in Hard-Content-Gruppen |
+
+### Stat-Priorität
+`Verteidigung > Ausdauer > Bedrohung > Schadensreduktion`
+
+1. Storm Roar (Aggro holen + Schadensreduktion)
+2. Gegner gruppieren
+3. Fury Spear (aufgeladener Schaden)
+4. Thunder Shock (Vulnerability-Debuff für Gruppe)
+5. Bei Bedarf: Thundercry Blade-Wechsel für Konter
