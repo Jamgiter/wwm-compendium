@@ -65,6 +65,18 @@ Heartseeker ist einer der ersten großen Prüfsteine in Where Winds Meet. Der Bo
 
 ---
 
+## 🎥 Video-Referenzen
+
+| Sprache | Video | Länge |
+|:-------:|-------|:-----:|
+| 🇬🇧 EN | [Heartseeker Boss Fight Guide – HeyranLy](https://www.youtube.com/watch?v=xaEPEbA57ys) | 4:03 |
+| 🇩🇪 DE | [Herzsucher Kurzanleitung – PazarGamingGuides](https://www.youtube.com/watch?v=Q0WjIgGMrOI) | 2:42 |
+| 🇩🇪 DE | [Heartseeker Fundort & Komplettlösung – Shark R](https://www.youtube.com/watch?v=PnXY8jCu3ag) | 8:55 |
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/xaEPEbA57ys" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Belohnungen
 
 - Quest-Belohnungen aus "Still Shore"-Abschluss

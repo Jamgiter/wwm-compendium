@@ -16,6 +16,7 @@ export default defineConfig({
       { text: 'Ausrüstung', link: '/ausruestung', activeMatch: '/ausruestung' },
       { text: 'Bosse', link: '/bosses/', activeMatch: '/bosses/' },
       { text: 'Challenges', link: '/challenges', activeMatch: '/challenges' },
+      { text: 'Videos', link: '/videos', activeMatch: '/videos' },
     ],
 
     sidebar: {

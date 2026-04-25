@@ -57,6 +57,18 @@ Qianye ist ein agiler Schwertkämpfer mit **zwei Phasen**. In Phase 2 wechselt s
 
 ---
 
+## 🎥 Video-Referenzen
+
+| Sprache | Video | Länge |
+|:-------:|-------|:-----:|
+| 🇬🇧 EN | [Qianye Boss Guide – GuidingLight](https://www.youtube.com/watch?v=E7LloM6cjJo) | 6:58 |
+| 🇩🇪 DE | [Qianye-Boss-Leitfaden – Gamer Guides](https://www.youtube.com/watch?v=r93yopgDLiI) | 3:34 |
+| 🇬🇧 EN | [Qianye in 4K – All The Shinies](https://www.youtube.com/watch?v=nxBKaabuadk) | 8:09 |
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/E7LloM6cjJo" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ## Belohnungen
 
 - Quest-Belohnungen aus "Blissful Retreat"
