@@ -83,7 +83,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Fan-Projekt zu Where Winds Meet von NetEase',
+      message: 'Fan-Projekt zu Where Winds Meet von NetEase | <a href="/wwm-compendium/impressum">Impressum & Datenschutz</a>',
       copyright: 'Design & Creator J.Muck — DS v4',
     },
 
