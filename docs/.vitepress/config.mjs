@@ -4,9 +4,10 @@ export default defineConfig({
   title: 'WWM Compendium',
   description: 'Where Winds Meet – Waffen-Guides, Boss-Strategien & Build-Optimierung',
   lang: 'de-DE',
+  base: '/wwm-compendium/',
 
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/wwm-compendium/logo.svg',
 
     nav: [
       { text: 'Start', link: '/' },
