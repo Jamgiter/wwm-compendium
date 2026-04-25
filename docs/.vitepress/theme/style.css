@@ -226,7 +226,7 @@ body:has(.VPContent .vp-doc h1:first-child)::before {
   height: 100vh;
   background: 
     linear-gradient(180deg, rgba(13,13,18,0.90) 0%, rgba(13,13,18,0.70) 50%, rgba(13,13,18,0.90) 100%),
-    url('/wwm-compendium/wwm-bg.jpg') center center / cover no-repeat;
+    url('/wwm-compendium/wwm-bg.png') center center / cover no-repeat;
   z-index: -1;
   pointer-events: none;
 }
