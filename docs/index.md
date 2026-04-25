@@ -15,13 +15,13 @@ Waffen-Analysen, Boss-Strategien und optimierte Builds.
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">⚔️ Waffen</h3>
 <p>Alle Waffentypen im Detail: Skills, Stärken, Schwächen und empfohlene Builds.</p>
-<a href="/waffen/">Zu den Waffen →</a>
+<a href="/wwm-compendium/waffen/">Zu den Waffen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">👹 Bosse</h3>
 <p>Taktiken, Schwachstellen und optimale Waffen-Konfigurationen für jeden Boss.</p>
-<a href="/bosses/">Zu den Bossen →</a>
+<a href="/wwm-compendium/bosses/">Zu den Bossen →</a>
 </div>
 
 </div>
