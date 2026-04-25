@@ -41,9 +41,32 @@ export default defineConfig({
       ],
       '/bosses/': [
         {
-          text: 'Bosse',
+          text: 'Story-Bosse',
           items: [
             { text: 'Übersicht', link: '/bosses/' },
+            { text: 'Heartseeker', link: '/bosses/heartseeker' },
+            { text: 'Qianye', link: '/bosses/qianye' },
+            { text: 'Ye Wanshan', link: '/bosses/ye-wanshan' },
+            { text: 'The Void King', link: '/bosses/void-king' },
+            { text: 'Lucky Seventeen', link: '/bosses/lucky-seventeen' },
+            { text: 'Tian Ying', link: '/bosses/tian-ying' },
+            { text: 'Dao Lord', link: '/bosses/dao-lord' },
+            { text: 'Zheng the Frostwing', link: '/bosses/zheng-frostwing' },
+            { text: 'Murong Yuan', link: '/bosses/murong-yuan' },
+            { text: 'God of Avarice', link: '/bosses/god-of-avarice' },
+            { text: 'River Master', link: '/bosses/river-master' },
+            { text: 'Guo Xin', link: '/bosses/guo-xin' },
+            { text: 'Wucan', link: '/bosses/wucan' },
+            { text: 'Town Gate Roar', link: '/bosses/town-gate-roar' },
+          ],
+        },
+        {
+          text: 'Weltbosse',
+          items: [
+            { text: 'Qinghe-Region', link: '/bosses/weltbosse-qinghe' },
+            { text: 'Kaifeng-Region', link: '/bosses/weltbosse-kaifeng' },
+            { text: 'Hexi-Region', link: '/bosses/weltbosse-hexi' },
+            { text: 'Liangzhou-Region', link: '/bosses/weltbosse-liangzhou' },
           ],
         },
       ],
