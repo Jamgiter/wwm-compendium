@@ -32,6 +32,7 @@ export default defineConfig({
         text: 'Items',
         items: [
           { text: 'Ausrüstung', link: '/ausruestung' },
+          { text: 'Kuriositäten', link: '/kuriositaeten' },
           { text: 'Händler', link: '/haendler' },
           { text: 'Reittiere', link: '/pferde' },
           { text: 'Materialien', link: '/materialien' },
