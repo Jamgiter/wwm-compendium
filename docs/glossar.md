@@ -169,7 +169,7 @@ Das Aufwertungs-System für Ausrüstung – alle Begriffe im Überblick:
 ### Pass Law (传律) – Der Gamechanger 🔥
 Dieses System erlaubt es, **Set-Boni zwischen Items zu übertragen**.  
 Dadurch kannst du die Boni von **2 verschiedenen Sets kombinieren**:  
-Z.B. 2-teilig Goldschatten + 2-teilig Tausendfache Kraft = maximaler Burst.
+Z.B. 2-teilig Adlererhebung + 2-teilig Formbiegung = solide Basis-Defensive mit Schild-Verlängerung.
 
 **Das ist der Schlüssel für High-End-Builds!**
 
