@@ -29,6 +29,7 @@ export default defineConfig({
         ],
       },
       { text: 'Quests', link: '/quests' },
+      { text: 'Sekten', link: '/sekten' },
       {
         text: 'Items',
         items: [

@@ -84,6 +84,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/housing">Zu Housing →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🏯 Sekten</h3>
+<p>Sekten & Soziales – alle beitretbaren Fraktionen, Beitritt, Ränge, Voting, Brotherhood & Empfehlungen.</p>
+<a href="/wwm-compendium/sekten">Zu den Sekten →</a>
+</div>
+
 </div>
 
 ---
@@ -109,6 +115,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Kuriositäten (Oddities & Melodies of Peace)
 - [x] Quests (Hauptstory, Campaigns, Jianghu Legacy, Exploration)
 - [x] Housing (Bauen, Mieten, Blueprints, NPCs, Production)
+- [x] Sekten (Fraktionen, Beitritt, Ränge, Voting, Brotherhood)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
