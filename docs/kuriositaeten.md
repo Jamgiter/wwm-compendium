@@ -16,7 +16,7 @@
 | **Markierung** | In der Hauptkarte **nicht** markiert – nur Minimap + **Wind Sense** in der Nähe |
 | **Sammelmethode** | Pro Art ein eigenes Minispiel (Käfer jagen, Schmetterlinge schießen, Grille fangen, …) |
 | **Respawn** | ❌ Nein – jedes Stück ist **einmalig** |
-| **Abgabe** | Bei regionalen NPC-Sammlern (Qi Sheng / Bai Ji) |
+| **Abgabe** | Bei regionalen NPC-Sammlern (Qi Sheng / Bai Ji / Qi Xian) |
 | **Belohnung** | „Melodies of Peace“ – Talentbaum mit permanenten Boni |
 
 ---
@@ -55,7 +55,33 @@ Auch in Kaifeng gibt es **5 Arten** mit eigenen Minispiel-Mechaniken (strukturel
 
 ## 🏜️ Regionale Kuriositäten (Hexi)
 
-Die Hexi-Region enthält weitere Kuriositäten (mit Patch 1.4+ hinzugekommen). Der NPC-Sammler für Hexi ist noch nicht dokumentiert.
+Die Wüsten-Region Hexi (auch **Jade Gate Pass** / Liangzhou) enthält **3 einzigartige Kuriositäten-Typen** mit insgesamt **ca. 42–47 Stück**. Sie erscheinen auf der Karte als **🦋 Schmetterlings-Symbol**.
+
+| Deutsch | Englisch | Sammelmethode | Ca. Anzahl | Aussehen / Hinweis |
+|:--------|:---------|:--------------|:----------:|:--------------------|
+| **Udumbara-Blume** 🌸 | Udumbara Flower | Nähern → Illusionen erscheinen → echte Blume schnell finden (güldene Ranken + tiefes Geräusch) | ~15 | Leuchtend violette Blume auf Sand, Ruinen oder goldenen Bäumen |
+| **Schattenflosse** 🌊 | Shadowfin | Stein-Fragmente finden → mit Tai Chi (G-Taste) reparieren, wenn Shadowfin vorbeizieht | ~16 | Lila-blaue schwebende Entität bei zerbrochenen Steinen im Sand |
+| **Apsara-Hase** 🐇 | Apsara Hare | Hasen folgen → grüne Kreise springen, um hochzukommen und ihn einzuholen | ~16 | Süßer schwebender Hase mit Instrument über Gebäuden/Ruinen |
+
+### NPC-Sammler (Hexi)
+
+| NPC | Ort | Voraussetzung |
+|:----|:----|:--------------|
+| **Qi Xian** (奇贤) | **Karez** – nördlich des Karez-Grenzsteins (Boundary Stone) | Erkundungsquest **„Melodies of Peace: Hexi“** abschließen |
+
+---
+
+## 🛍️ Versteckte Händler in Hexi
+
+Neben dem Oddity-Sammler **Qi Xian** gibt es in Hexi weitere lohnenswerte Händler:
+
+| Händler | Standort | Angebot / Währung | Besonderheit |
+|:--------|:---------|:------------------|:-------------|
+| **Chen Qiqi** (versteckt) 🌳 | **Poplar Bazaar** – rechts im Baum | **Prismatic Essence** (Five-Colored Glaze) → Kosmetik, Inner Way Notes, Dye uvm. | Sehr nützlich! |
+| Normale Händler | Poplar Bazaar | Normale Waren, Materialien | Viele Stände |
+| Versteckte Vendoren | Verschiedene Orte in Hexi | Buff-Items, OP-Materialien | Oft nicht auf der Karte markiert |
+
+**Prismatic Essence (Fünf-Farben-Glasur)** farmst du am besten über das Event **„Shadows in the Sandstorm“** – stelle die Uhrzeit auf Wu-Stunde (Mitternacht) und relogge.
 
 ---
 
@@ -129,11 +155,12 @@ Gesammelte Kuriositäten werden bei den regionalen Sammlern abgegeben und schalt
 ## 💡 Tipps zum Sammeln
 
 1. **Wind Sense aktivieren** – Diese Erkundungsfähigkeit highlightet Kuriositäten in der Nähe
-2. **Minimap beobachten** – Kuriositäten erscheinen als spezielle Symbole auf der Minimap, sobald du in der Nähe bist
+2. **Minimap beobachten** – Kuriositäten erscheinen als spezielle Symbole auf der Minimap: 🦋 **Schmetterling** in Hexi, andere Symbole in Qinghe/Kaifeng
 3. **Systematisch vorgehen** – Jede Region komplett absuchen, da die Dinger nicht respawnen
 4. **Contortion besorgen** – Für die speziellen Kuriositäten (Patch 1.3) unbedingt die Mystic Skill freischalten
 5. **Früh abgeben** – Die Melodies of Peace-Boni (v. a. HP und Beute-Chance) helfen enorm beim Leveln
+6. **Hexi-Quest abschließen** – Vor dem Abgeben in Hexi zuerst die Erkundungsquest **„Melodies of Peace: Hexi“** erledigen
 
 ---
 
-> 🔄 **Diese Seite wird erweitert, sobald genauere Fundorte und Koordinaten verfügbar sind.**
+> 🔄 **Diese Seite wird erweitert, sobald genauere Koordinaten für einzelne Fundorte verfügbar sind.**
