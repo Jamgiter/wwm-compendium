@@ -12,17 +12,39 @@ export default defineConfig({
 
     nav: [
       { text: 'Start', link: '/' },
-      { text: 'Waffen', link: '/waffen/', activeMatch: '/waffen/' },
-      { text: 'Pfade', link: '/builds', activeMatch: '/builds' },
-      { text: 'Ausrüstung', link: '/ausruestung', activeMatch: '/ausruestung' },
-      { text: 'Bosse', link: '/bosses/', activeMatch: '/bosses/' },
-      { text: 'Herausforderungen', link: '/challenges', activeMatch: '/challenges' },
-      { text: 'Videos', link: '/videos', activeMatch: '/videos' },
-      { text: 'Mini-Bosse', link: '/bosses/mini-bosse', activeMatch: '/bosses/mini-bosse' },
-      { text: 'Händler', link: '/haendler', activeMatch: '/haendler' },
-      { text: 'Karten', link: '/karten', activeMatch: '/karten' },
-      { text: 'Glossar', link: '/glossar', activeMatch: '/glossar' },
-      { text: 'Fähigkeiten', link: '/skills', activeMatch: '/skills' },
+      {
+        text: 'Waffen',
+        items: [
+          { text: 'Übersicht', link: '/waffen/' },
+          { text: 'Pfade', link: '/builds' },
+          { text: 'Fähigkeiten', link: '/skills' },
+        ],
+      },
+      {
+        text: 'Bosse',
+        items: [
+          { text: 'Übersicht', link: '/bosses/' },
+          { text: 'Mini-Bosse', link: '/bosses/mini-bosse' },
+          { text: 'Herausforderungen', link: '/challenges' },
+        ],
+      },
+      {
+        text: 'Items',
+        items: [
+          { text: 'Ausrüstung', link: '/ausruestung' },
+          { text: 'Händler', link: '/haendler' },
+          { text: 'Materialien', link: '/materialien' },
+        ],
+      },
+      {
+        text: 'Info',
+        items: [
+          { text: 'Karten', link: '/karten' },
+          { text: 'Glossar', link: '/glossar' },
+          { text: 'Videos', link: '/videos' },
+          { text: 'Impressum', link: '/impressum' },
+        ],
+      },
     ],
 
     sidebar: {

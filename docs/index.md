@@ -42,6 +42,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/challenges">Zu den Herausforderungen →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🧰 Materialien</h3>
+<p>Währungen, Erze, Kräuter, Tränke, Tuning-Mats, Skill-Items – was du wofür brauchst.</p>
+<a href="/wwm-compendium/materialien">Zu den Materialien →</a>
+</div>
+
 </div>
 
 ---
@@ -59,6 +65,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Mini-Bosse (20+ Elite-NPCs)
 - [x] Waffen-Fähigkeiten (alle bekannten Skills)
 - [x] Händler-Übersicht (NPCs, Materialien, Währungen)
+- [x] Materialien & Ressourcen (Crafting, Tuning, Tränke)
 - [x] Glossar (Systeme & Zusammenhänge erklärt)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
