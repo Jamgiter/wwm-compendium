@@ -96,6 +96,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/kompendium">Zum Kompendium →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">⚡ Mystische Künste</h3>
+<p>Mystic Arts – alle aktiven Fähigkeiten unabhängig von der Waffe: Meridian Touch, Guardian Palm, Wallstride, Contortion & mehr.</p>
+<a href="/wwm-compendium/mystische-kuenste">Zu den Mystischen Künsten →</a>
+</div>
+
 </div>
 
 ---
@@ -123,6 +129,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Housing (Bauen, Mieten, Blueprints, NPCs, Production)
 - [x] Sekten (Fraktionen, Beitritt, Ränge, Voting, Brotherhood)
 - [x] Kompendium (16 Kategorien, Punkte-System, Meilensteine)
+- [x] Mystische Künste (Mystic Arts – Meridian Touch, Wallstride, Contortion uvm.)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

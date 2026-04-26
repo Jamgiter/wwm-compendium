@@ -49,6 +49,7 @@ export default defineConfig({
           { text: 'Karten', link: '/karten' },
           { text: 'Glossar', link: '/glossar' },
           { text: 'Kompendium', link: '/kompendium' },
+          { text: 'Mystische Künste', link: '/mystische-kuenste' },
           { text: 'Videos', link: '/videos' },
           { text: 'Impressum', link: '/impressum' },
         ],
