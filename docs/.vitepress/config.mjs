@@ -37,6 +37,7 @@ export default defineConfig({
           { text: 'Händler', link: '/haendler' },
           { text: 'Reittiere', link: '/pferde' },
           { text: 'Materialien', link: '/materialien' },
+          { text: 'Housing', link: '/housing' },
         ],
       },
       {
