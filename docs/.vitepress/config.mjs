@@ -83,7 +83,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/thor/wwm-compendium' },
+      { icon: 'github', link: 'https://github.com/Jamgiter/wwm-compendium' },
     ],
 
     footer: {
