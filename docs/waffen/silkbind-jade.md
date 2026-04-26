@@ -6,7 +6,7 @@ Der Fernkampf-DPS-Pfad von Silkbind. Setzt auf **Luftkampf**, Wasser-Klone und h
 
 ---
 
-## Tuschefässchen-Fächer (Inkwell Fan) ⭐ Fernkampf-DPS
+## Tintenfässchen-Fächer (Inkwell Fan) ⭐ Fernkampf-DPS
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -93,7 +93,7 @@ Der **Jade-Pfad** belohnt aggressive Spieler, die den Luftkampf meistern. Gegner
 `Angriffskraft > Kritischer Schaden > Elementarschaden > Geschwindigkeit`
 
 
-Der **Jade-Pfad** belohnt aggressive Spieler, die den Luftkampf meistern. Das Ziel ist es, Gegner **hochzuschleudern** und in der Luft zu zerstören. Der Tuschefässchen-Fächer ist die erste Wahl für reinen Schaden, der Frühlings-Schirm bietet mehr defensive Optionen.
+Der **Jade-Pfad** belohnt aggressive Spieler, die den Luftkampf meistern. Das Ziel ist es, Gegner **hochzuschleudern** und in der Luft zu zerstören. Der Tintenfässchen-Fächer ist die erste Wahl für reinen Schaden, der Frühlings-Schirm bietet mehr defensive Optionen.
 
 ### Empfohlene Combos
 1. Peak's Springless Silence (hochwerfen) → Moon Shatter Spring (Luftkombo)

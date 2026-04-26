@@ -38,7 +38,7 @@ Ein harter Einzelkampf gegen einen geschickten Mönch. Setzt auf schnelle Kombos
 **Taktik:**
 - **Paraden** sind der Schlüssel – seine Angriffe sind schnell, aber alle parierbar
 - Nach seinen 3-Schlag-Kombos gibt es ein großes Konter-Fenster
-- Empfohlene Waffen: **[Schneespaltende Klinge](./waffen/stonesplit-strength)** (Stagger) oder **[Tuschefässchen-Fächer](./waffen/silkbind-jade)** (Fernkampf)
+- Empfohlene Waffen: **[Schneespaltende Klinge](./waffen/stonesplit-strength)** (Stagger) oder **[Tintenfässchen-Fächer](./waffen/silkbind-jade)** (Fernkampf)
 
 ---
 

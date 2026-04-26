@@ -61,7 +61,7 @@ Heartseeker ist einer der ersten großen Prüfsteine in Where Winds Meet. Der Bo
 | **Panacea Fan ⭐** | Heilung in Phase 2 ist fast Pflicht – der Blitzsturm macht enormen Schaden |
 | **Infernal Twinblades** | Hoher Burst in Phase-1-Parade-Fenstern |
 | **Schneespaltende Klinge** | Stagger aufbauen und Phase 1 schnell beenden |
-| **Tuschefässchen-Fächer** | Sicherer Fernkampf, gut zum Ausweichen des Blitzsturms |
+| **Tintenfässchen-Fächer** | Sicherer Fernkampf, gut zum Ausweichen des Blitzsturms |
 
 ---
 

@@ -40,7 +40,7 @@ Finde die optimale Waffen-Konfiguration + Innere Kampfkünste für jeden Boss.
 ### 🎯 Safe-Build (Empfohlen für: Bosserkundung, erste Versuche)
 | Slot | Empfehlung |
 |------|-----------|
-| **Hauptwaffe** | Tuschefässchen-Fächer |
+| **Hauptwaffe** | Tintenfässchen-Fächer |
 | **Sekundär** | Panacea Fan |
 | **Mystic Arts** | Cloud Steps, Meridian Touch, Guardian Palm |
 | **Spielstil** | Aus der Distanz angreifen, heilen wenn getroffen |

@@ -59,7 +59,7 @@ Die Qinghe-Region beherbergt einige der bekanntesten Weltbosse. Alle sind **opti
 1. **Vorbereitung ist alles** – Heilitems und Essensbuffs einpacken
 2. **Mobilität** – Viele dieser Bosse haben große AoE-Angriffe
 3. **Empfohlene Waffen:**
-   - **Fernkampf** (Tuschefässchen-Fächer) für sicheres Poking
+   - **Fernkampf** (Tintenfässchen-Fächer) für sicheres Poking
    - **Schneespaltende Klinge** für Stagger
    - **Panacea Fan** für längere Kämpfe
 4. **Meridian Touch** – Gegen Projektile und zum Unterbrechen

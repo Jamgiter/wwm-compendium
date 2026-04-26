@@ -13,7 +13,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | [Bellstrike – Splendor](./bellstrike-splendor) | Namenloses Schwert + Namenloser Speer | Mobiler DPS | ⭐⭐ |
 | [Bellstrike – Umbra](./bellstrike-umbra) | Strategisches Schwert + Himmelserschütterer-Speer | Blutungs-DPS | ⭐⭐⭐ |
 | [Silkbind – Deluge](./silkbind-deluge) | Allheilmittel-Fächer + Seelenschatten-Schirm | **Heiler / Support** | ⭐⭐⭐ |
-| [Silkbind – Jade](./silkbind-jade) | Tuschefässchen-Fächer + Frühlings-Schirm | Fernkampf-DPS | ⭐⭐⭐⭐⭐ |
+| [Silkbind – Jade](./silkbind-jade) | Tintenfässchen-Fächer + Frühlings-Schirm | Fernkampf-DPS | ⭐⭐⭐⭐⭐ |
 | [Bamboocut – Wind](./bamboocut-wind) | Inferno-Zwillingsklingen + Sterblicher Seilpfeil | Aggro-Burst-DPS | ⭐⭐⭐⭐ |
 | [Bamboocut – Dust](./bamboocut-dust) | Immerquell-Schirm + Ungezügelter Seilpfeil | AoE-Kontrolle | ⭐⭐⭐⭐ |
 | [Stonesplit – Might](./stonesplit-might) | Sturmbringer-Speer + Donnerschrei-Klinge | **Tank** | ⭐⭐⭐ |
@@ -31,7 +31,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | Himmelserschütterer-Speer | Umbra | Lang | A | B | B | C |
 | Allheilmittel-Fächer | Deluge | Fern | D | C | C | **S** |
 | Seelenschatten-Schirm | Deluge | Fern | C | C | B | A |
-| Tuschefässchen-Fächer | Jade | Fern | **S** | S | B | C |
+| Tintenfässchen-Fächer | Jade | Fern | **S** | S | B | C |
 | Frühlings-Schirm | Jade | Fern/Mittel | A | A | B | C |
 | Inferno-Zwillingsklingen | Wind | Kurz | **S** | S | A | D |
 | Sterblicher Seilpfeil | Wind | Mittel | A | A | B | C |
@@ -52,7 +52,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 
 | Tier | Waffen | Begründung |
 |------|--------|-----------|
-| <span class="tier-s">S-Tier</span> | Schneespaltende Klinge, Inferno-Zwillingsklingen, Tuschefässchen-Fächer | Stagger gegen Bosse (einzigartig!), extrem hoher Burst-DPS, sicherer Fernkampf |
+| <span class="tier-s">S-Tier</span> | Schneespaltende Klinge, Inferno-Zwillingsklingen, Tintenfässchen-Fächer | Stagger gegen Bosse (einzigartig!), extrem hoher Burst-DPS, sicherer Fernkampf |
 | <span class="tier-a">A-Tier</span> | Allheilmittel-Fächer + Seelenschatten-Schirm, Namenloses Schwert/Speer, Frühlings-Schirm | Unverzichtbar im Group-Content, solider DPS, flexibler Fernkampf mit Schirm-Konter |
 | <span class="tier-b">B-Tier</span> | Sturmbringer-Speer + Donnerschrei-Klinge, Strategisches Schwert/Speer | Starke Tanks, gute Blutungs-Waffen |
 | <span class="tier-c">C-Tier</span> | Immerquell-Schirm + Ungezügelter Seilpfeil | Situativ nützlich, aber schwächer im Einzelziel |

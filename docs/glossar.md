@@ -119,7 +119,7 @@ Jede Waffe hat eine **eigene Ressource**, die sich durch Aktionen füllt:
 | **Inferno-Zwillingsklingen** | Blazing Wrath (Kampfwut) | **Flamelash** – Burst-Modus mit Lebensraub |
 | **Schneespaltende Klinge** | Blade Momentum | Verstärkte Stagger-Angriffe |
 | **Panacea Fan** | Dewdrops (Tautropfen) | Heilung verstärken, Auferstehung |
-| **Tuschefässchen-Fächer** | Riding the Wind | Luftkombos verstärken |
+| **Tintenfässchen-Fächer** | Riding the Wind | Luftkombos verstärken |
 | **Stormbreaker Speer** | Fighting Spirit | Schilde + Taunt verstärken |
 | **Thundercry Blade** | Battle Will | Konter-Mechaniken verstärken |
 

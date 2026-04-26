@@ -66,7 +66,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🧵 Silkbind – Jade (Fernkampf-DPS)
 
-### Tuschefässchen-Fächer (Inkwell Fan)
+### Tintenfässchen-Fächer (Inkwell Fan)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|

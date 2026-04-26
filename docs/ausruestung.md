@@ -88,7 +88,7 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 |:---------:|------|:---------:|
 | 1 | Kritischer Schaden | Inferno-Zwillingsklingen |
 | 2 | Angriffskraft | Alle Burst-Waffen |
-| 3 | Kritische Trefferrate | Tuschefässchen-Fächer |
+| 3 | Kritische Trefferrate | Tintenfässchen-Fächer |
 | 4 | Elementarschaden | Schneespaltende Klinge |
 
 ### 🛡️ Sustain/Stagger-Build
