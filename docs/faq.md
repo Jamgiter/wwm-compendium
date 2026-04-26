@@ -90,9 +90,9 @@ Als Einsteiger reicht jedes Set, das du bekommst. Aber wenn du gezielt farmen wi
 
 | Build | Bestes Set | Fundort |
 |-------|:----------:|---------|
-| **Burst-DPS** | 鸣金影 (Ming Jin Ying) | Weltbosse / Dungeons |
-| **Tank** | 金缕衣 (Jin Lü Yi) | Twin Lions / Qianye |
-| **Heiler** | 妙手回春 (Miao Shou Hui Chun) | Gruppen-Dungeons |
+| **Burst-DPS** | 鸣金影 (Goldschatten) | Weltbosse / Dungeons |
+| **Tank** | 金缕衣 (Goldfaden-Gewand) | Twin Lions / Qianye |
+| **Heiler** | 妙手回春 (Heilende Hand) | Gruppen-Dungeons |
 
 ### Wie funktioniert das Tuning-System?
 

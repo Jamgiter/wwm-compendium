@@ -11,13 +11,13 @@ Jedes Set gibt Boni beim Tragen von 2 bzw. 4 Teilen. Hier die wichtigsten Sets (
 
 | Set | 2er-Bonus | 4er-Bonus | Ideal für |
 |-----|:---------:|:---------:|:---------:|
-| **鸣金影 – Ming Jin Ying** | +12% Schaden gegen markierte Ziele | Skills gegen markierte Ziele: +30% Schaden + Energie-Rückgewinnung | <span class="tier-s">Burst-DPS</span> |
-| **裂石威 – Lie Shi Wei** | +15% Stagger-Schaden | Nach Stagger-Bruch: +40% Schaden für 8s | <span class="tier-s">Sustain/Stagger</span> |
-| **千钧力 – Qian Jun Li** | +8% Angriffskraft | Krit. Treffer: +5% ATK (stackt 3x) | <span class="tier-a">Burst-DPS</span> |
-| **金缕衣 – Jin Lü Yi** | +10% max. HP | +25% erhaltene Heilung, -15% Schaden unter 50% HP | <span class="tier-a">Tank</span> |
-| **妙手回春 – Miao Shou Hui Chun** | +12% Heilung | Verbündete erhalten 8% HP alle 5s | <span class="tier-b">Heiler</span> |
-| **九曲天河 – Jiu Qu Tian He** | +20% Ausdauer-Reg. | -30% Ausweichverbrauch, +10% Bewegungsgeschwindigkeit | <span class="tier-b">Mobility</span> |
-| **苍龙吟 – Cang Long Yin** | +10% Elementarschaden | Elementar-Fähigkeiten: Druckwelle (200% Schaden) | <span class="tier-b">Elementar-DPS</span> |
+| **Goldschatten** (鸣金影 – Míng Jīn Yǐng) | +12% Schaden gegen markierte Ziele | Skills gegen markierte Ziele: +30% Schaden + Energie-Rückgewinnung | <span class="tier-s">Burst-DPS</span> |
+| **Felsbrecher** (裂石威 – Liè Shí Wēi) | +15% Stagger-Schaden | Nach Stagger-Bruch: +40% Schaden für 8s | <span class="tier-s">Sustain/Stagger</span> |
+| **Tausendfache Kraft** (千钧力 – Qiān Jūn Lì) | +8% Angriffskraft | Krit. Treffer: +5% ATK (stackt 3x) | <span class="tier-a">Burst-DPS</span> |
+| **Goldfaden-Gewand** (金缕衣 – Jīn Lǚ Yī) | +10% max. HP | +25% erhaltene Heilung, -15% Schaden unter 50% HP | <span class="tier-a">Tank</span> |
+| **Heilende Hand** (妙手回春 – Miào Shǒu Huí Chūn) | +12% Heilung | Verbündete erhalten 8% HP alle 5s | <span class="tier-b">Heiler</span> |
+| **Milchstraße** (九曲天河 – Jiǔ Qū Tiān Hé) | +20% Ausdauer-Reg. | -30% Ausweichverbrauch, +10% Bewegungsgeschwindigkeit | <span class="tier-b">Mobility</span> |
+| **Drachensang** (苍龙吟 – Cāng Lóng Yín) | +10% Elementarschaden | Elementar-Fähigkeiten: Druckwelle (200% Schaden) | <span class="tier-b">Elementar-DPS</span> |
 
 ---
 
@@ -121,12 +121,12 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 
 | Build | Bestes Set | Alternative | Farmort |
 |-------|:----------:|:-----------:|:--------:|
-| **Burst-DPS** | 鸣金影 (Ming Jin Ying) | 千钧力 (Qian Jun Li) | Weltbosse / Dungeons |
-| **Sustain/Stagger** | 裂石威 (Lie Shi Wei) | 千钧力 | Heartseeker / Wucan |
-| **Tank** | 金缕衣 (Jin Lü Yi) | 裂石威 | Twin Lions / Qianye |
-| **Heiler** | 妙手回春 (Miao Shou Hui Chun) | 金缕衣 | Gruppen-Dungeons |
-| **Mobility** | 九曲天河 (Jiu Qu Tian He) | 苍龙吟 | Qinghe-Weltbosse |
+| **Burst-DPS** | 鸣金影 (Goldschatten) | 千钧力 (Tausendfache Kraft) | Weltbosse / Dungeons |
+| **Sustain/Stagger** | 裂石威 (Felsbrecher) | 千钧力 | Heartseeker / Wucan |
+| **Tank** | 金缕衣 (Goldfaden-Gewand) | 裂石威 | Twin Lions / Qianye |
+| **Heiler** | 妙手回春 (Heilende Hand) | 金缕衣 | Gruppen-Dungeons |
+| **Mobility** | 九曲天河 (Milchstraße) | 苍龙吟 | Qinghe-Weltbosse |
 
 ---
 
-> 💡 **Pro-Tipp:** Mit dem **传律 (Pass Law)**-System kannst du Set-Boni zwischen Items übertragen. So kannst du die Boni von 2 verschiedenen Sets kombinieren – z.B. 2-teilig Ming Jin Ying + 2-teilig Qian Jun Li für maximalen Burst!
+> 💡 **Pro-Tipp:** Mit dem **传律 (Pass Law)**-System kannst du Set-Boni zwischen Items übertragen. So kannst du die Boni von 2 verschiedenen Sets kombinieren – z.B. 2-teilig Goldschatten + 2-teilig Tausendfache Kraft für maximalen Burst!
