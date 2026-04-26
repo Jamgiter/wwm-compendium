@@ -73,7 +73,7 @@ Er verkauft **goldene Mentaltechniken (Innere Kampfkünste)**, darunter die bege
 |---------|-----|------|:-------:|
 | **Grenzhändler** | Festungen | Gold-Ausrüstung, Set-Items | Lang Zhu + Ruf |
 | **Grabräuber-Händler** | Versteckt – Höhlen | Seltene Tuning-Mats | Kupfer + Quest |
-| **Challenge-Belohnungs-Händler** | Liangzhou-Stadt | Belohnungen für Challenges | Challenge-Tokens |
+| **Challenge-Belohnungs-Händler** | Liangzhou-Stadt | Belohnungen für Herausforderungen | Challenge-Tokens |
 
 ---
 

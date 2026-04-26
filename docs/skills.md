@@ -1,5 +1,5 @@
 
-# 📜 Skill-Matrix
+# 📜 Fähigkeiten
 
 Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.  
 *Exakte Cooldowns und Level-Anforderungen müssen aus dem Spiel ergänzt werden.*

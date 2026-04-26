@@ -1,4 +1,4 @@
-# 🏗️ Build-Planer
+# 🏗️ Pfad-Planer
 
 Finde die optimale Waffen-Konfiguration + Innere Kampfkünste für jeden Boss.
 

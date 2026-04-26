@@ -4,7 +4,7 @@
 Dein deutscher Guide zu **Where Winds Meet** – dem Open-World Wuxia-RPG von NetEase.
 
 Hier findest du alles, was du als Spieler brauchst:
-Waffen-Analysen, Boss-Strategien und optimierte Builds.
+Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 
 ---
 
@@ -19,9 +19,9 @@ Waffen-Analysen, Boss-Strategien und optimierte Builds.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
-<h3 style="margin-top: 0">🏗️ Build-Planer</h3>
+<h3 style="margin-top: 0">🏗️ Pfad-Planer</h3>
 <p>Welche Waffe für welchen Boss? Mit Boss-Matchups & Mystic-Arts-Ranking.</p>
-<a href="/wwm-compendium/builds">Zu den Builds →</a>
+<a href="/wwm-compendium/builds">Zu den Pfaden →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
@@ -37,9 +37,9 @@ Waffen-Analysen, Boss-Strategien und optimierte Builds.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
-<h3 style="margin-top: 0">⚡ Challenges</h3>
-<p>12 Liangzhou-Challenges aus Patch 1.5 – Skinny Arhat, The Blade Awaits & mehr.</p>
-<a href="/wwm-compendium/challenges">Zu den Challenges →</a>
+<h3 style="margin-top: 0">⚡ Herausforderungen</h3>
+<p>12 Liangzhou-Herausforderungen aus Patch 1.5 – Skinny Arhat, The Blade Awaits & mehr.</p>
+<a href="/wwm-compendium/challenges">Zu den Herausforderungen →</a>
 </div>
 
 </div>
@@ -51,13 +51,13 @@ Waffen-Analysen, Boss-Strategien und optimierte Builds.
 Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 
 - [x] Waffen-Grundlagen (14 Waffen, 7 Pfade)
-- [x] Builds + Innere Kampfkünste
+- [x] Pfade + Innere Kampfkünste
 - [x] Ausrüstungs-Sets & Optimierung
 - [x] Boss-Guides (14 Story + 20+ Weltbosse)
 - [x] Challenge-Bosse (Patch 1.5)
 - [x] Video-Referenzen (19 Guides DE/EN)
 - [x] Mini-Bosse (20+ Elite-NPCs)
-- [x] Waffen-Skill-Matrix (alle bekannten Skills)
+- [x] Waffen-Fähigkeiten (alle bekannten Skills)
 - [x] Händler-Übersicht (NPCs, Materialien, Währungen)
 - [x] Glossar (Systeme & Zusammenhänge erklärt)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)

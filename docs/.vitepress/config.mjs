@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'WWM Compendium',
   appearance: 'dark',
-  description: 'Where Winds Meet – Waffen-Guides, Boss-Strategien & Build-Optimierung',
+  description: 'Where Winds Meet – Waffen-Guides, Boss-Strategien & Pfad-Optimierung',
   lang: 'de-DE',
   base: '/wwm-compendium/',
 
@@ -13,16 +13,16 @@ export default defineConfig({
     nav: [
       { text: 'Start', link: '/' },
       { text: 'Waffen', link: '/waffen/', activeMatch: '/waffen/' },
-      { text: 'Builds', link: '/builds', activeMatch: '/builds' },
+      { text: 'Pfade', link: '/builds', activeMatch: '/builds' },
       { text: 'Ausrüstung', link: '/ausruestung', activeMatch: '/ausruestung' },
       { text: 'Bosse', link: '/bosses/', activeMatch: '/bosses/' },
-      { text: 'Challenges', link: '/challenges', activeMatch: '/challenges' },
+      { text: 'Herausforderungen', link: '/challenges', activeMatch: '/challenges' },
       { text: 'Videos', link: '/videos', activeMatch: '/videos' },
       { text: 'Mini-Bosse', link: '/bosses/mini-bosse', activeMatch: '/bosses/mini-bosse' },
       { text: 'Händler', link: '/haendler', activeMatch: '/haendler' },
       { text: 'Karten', link: '/karten', activeMatch: '/karten' },
       { text: 'Glossar', link: '/glossar', activeMatch: '/glossar' },
-      { text: 'Skill-Matrix', link: '/skills', activeMatch: '/skills' },
+      { text: 'Fähigkeiten', link: '/skills', activeMatch: '/skills' },
     ],
 
     sidebar: {

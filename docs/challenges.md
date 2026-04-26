@@ -1,11 +1,11 @@
 
-# ⚡ Challenge-Bosse
+# ⚡ Herausforderungen
 
 Herausforderungskämpfe aus **Patch 1.5 "As Snow Falls" (Liangzhou)** und anderen Regionen. Diese Bosse sind **optional** und bieten die größte Herausforderung im Spiel.
 
 ---
 
-## Liangzhou-Challenges (Patch 1.5)
+## Liangzhou-Herausforderungen (Patch 1.5)
 
 Mit Patch 1.5 kamen zahlreiche Challenge-Kämpfe in der Liangzhou-Wüstenregion. Hier die Übersicht:
 
