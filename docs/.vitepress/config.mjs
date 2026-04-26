@@ -19,6 +19,7 @@ export default defineConfig({
       { text: 'Videos', link: '/videos', activeMatch: '/videos' },
       { text: 'Mini-Bosse', link: '/bosses/mini-bosse', activeMatch: '/bosses/mini-bosse' },
       { text: 'Händler', link: '/haendler', activeMatch: '/haendler' },
+      { text: 'Karten', link: '/karten', activeMatch: '/karten' },
       { text: 'Glossar', link: '/glossar', activeMatch: '/glossar' },
       { text: 'Skill-Matrix', link: '/skills', activeMatch: '/skills' },
     ],
