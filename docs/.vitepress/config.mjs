@@ -39,6 +39,7 @@ export default defineConfig({
       {
         text: 'Info',
         items: [
+          { text: 'FAQ', link: '/faq' },
           { text: 'Karten', link: '/karten' },
           { text: 'Glossar', link: '/glossar' },
           { text: 'Videos', link: '/videos' },
