@@ -53,9 +53,9 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | Tier | Waffen | Begründung |
 |------|--------|-----------|
 | <span class="tier-s">S-Tier</span> | Schneespaltende Klinge, Inferno-Zwillingsklingen, Tuschefässchen-Fächer | Stagger gegen Bosse (einzigartig!), extrem hoher Burst-DPS, sicherer Fernkampf |
-| <span class="tier-a">A-Tier</span> | Allheilmittel-Fächer + Seelenschatten-Schirm, Namenloses Schwert/Speer | Unverzichtbar im Group-Content, solider DPS |
+| <span class="tier-a">A-Tier</span> | Allheilmittel-Fächer + Seelenschatten-Schirm, Namenloses Schwert/Speer, Frühlings-Schirm | Unverzichtbar im Group-Content, solider DPS, flexibler Fernkampf mit Schirm-Konter |
 | <span class="tier-b">B-Tier</span> | Sturmbringer-Speer + Donnerschrei-Klinge, Strategisches Schwert/Speer | Starke Tanks, gute Blutungs-Waffen |
-| <span class="tier-c">C-Tier</span> | Immerquell-Schirm + Ungezügelter Seilpfeil, Frühlings-Schirm | Situativ nützlich, aber schwächer im Einzelziel |
+| <span class="tier-c">C-Tier</span> | Immerquell-Schirm + Ungezügelter Seilpfeil | Situativ nützlich, aber schwächer im Einzelziel |
 
 ---
 
