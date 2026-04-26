@@ -1,23 +1,39 @@
-
 # ⚙️ Ausrüstung & Optimierung
 
-Der letzte Baustein für den perfekten Build: **Rüstungs-Sets, Waffen-Affixe, Verbrauchsgüter und das Tuning-System**.
+Der letzte Baustein für den perfekten Build: **Rüstungs-Sets, Waffen-Sets, Verbrauchsgüter und das Tuning-System**.
 
 ---
 
-## 📦 Rüstungs-Sets
+## 📦 Rüstungs-Sets (Armor Sets)
 
-Jedes Set gibt Boni beim Tragen von 2 bzw. 4 Teilen. Hier die wichtigsten Sets (Stand Patch 1.5):
+Es gibt **zwei große Kategorien** von Gear Sets, die du **gleichzeitig** tragen kannst:
+- **Offensive Sets** (Waffe + Accessoires: Pendant + Disc) – 4-Teile-Bonus
+- **Defensive Sets** (Rüstung: Helm, Brust, Armschienen, Beinschienen) – 4-Teile-Bonus
 
-| Set | 2er-Bonus | 4er-Bonus | Ideal für |
-|-----|:---------:|:---------:|:---------:|
-| **Goldschatten** (鸣金影 – Míng Jīn Yǐng) | +12% Schaden gegen markierte Ziele | Skills gegen markierte Ziele: +30% Schaden + Energie-Rückgewinnung | <span class="tier-s">Burst-DPS</span> |
-| **Felsbrecher** (裂石威 – Liè Shí Wēi) | +15% Stagger-Schaden | Nach Stagger-Bruch: +40% Schaden für 8s | <span class="tier-s">Sustain/Stagger</span> |
-| **Tausendfache Kraft** (千钧力 – Qiān Jūn Lì) | +8% Angriffskraft | Krit. Treffer: +5% ATK (stackt 3x) | <span class="tier-a">Burst-DPS</span> |
-| **Goldfaden-Gewand** (金缕衣 – Jīn Lǚ Yī) | +10% max. HP | +25% erhaltene Heilung, -15% Schaden unter 50% HP | <span class="tier-a">Tank</span> |
-| **Heilende Hand** (妙手回春 – Miào Shǒu Huí Chūn) | +12% Heilung | Verbündete erhalten 8% HP alle 5s | <span class="tier-b">Heiler</span> |
-| **Milchstraße** (九曲天河 – Jiǔ Qū Tiān Hé) | +20% Ausdauer-Reg. | -30% Ausweichverbrauch, +10% Bewegungsgeschwindigkeit | <span class="tier-b">Mobility</span> |
-| **Drachensang** (苍龙吟 – Cāng Lóng Yín) | +10% Elementarschaden | Elementar-Fähigkeiten: Druckwelle (200% Schaden) | <span class="tier-b">Elementar-DPS</span> |
+Du aktivierst also **beide 4-Piece-Boni parallel** – ein offensives + ein defensives Set.
+
+### Defensive Rüstungssets
+
+| Set (DE) | Set (EN) | 2er-Bonus | 4er-Bonus | Empfohlen für |
+|:--------|:---------|:---------:|:----------|:--------------|
+| **Formbiegung** | Formbend | +13 Physische Verteidigung | Schilddauer +2 s; bei hohem Qi 20 % weniger Schaden | Melee-DPS (Nameless Sword/Spear), Mobile Builds |
+| **Ruhige Wasser** | Calmwaters | +13 Physische Verteidigung | Perfektes Ausweichen heilt + regeneriert Ausdauer | Assassin-/Dodge-Builds (Bamboocut) |
+| **Adlererhebung** | Eaglerise | +1 Physische Verteidigung | Stapelbare Schadensreduktion + starker Einmal-Schutz | Solo-DPS / Sustain (meiste Builds) |
+| **Mondflamme** | Moonflare | +40 Max‑HP | Schild beim Angriff im Block | Tank / HP-Builds (Stonesplit) |
+| **Wirbelnder Schnee** | Whirlsnow | +1 Physische Verteidigung | Notfall-Heilung bei niedrigem HP | Healer / Sustain |
+| **Jenseits der Kälte** | Beyond the Chill | +40 Max‑HP | Starke Schadensreduktion zu Kampfbeginn | Ranged-DPS (Silkbind-Jade) |
+| **Geschmeidige Schritte** | Agile Steps | +40 Max‑HP | Reduktion nach erfolgreichem Abwehren | Mobility-Builds |
+| **Makellose Verteidigung** | Flawless Defense | +1 Physische Verteidigung | Permanente Schadensreduktion + Extra bei niedrigem HP | Tank / Defensive |
+
+### Offensive Sets (Waffe & Accessoires)
+
+| Set (DE) | Set (EN) | Kurzbeschreibung | Empfohlen für |
+|:--------|:---------|:-----------------|:--------------|
+| **Jadegeschirr** | Jadeware | Affinity-Schaden + Martial‑Skill‑Bonus | Nameless Sword / Spear |
+| **Falkenflügel** | Hawkwing / Hawking | Affinity-Rate + stapelbarer ATK‑Buff | Strategic Sword / Heavenquaker |
+| **Regenflüstern** | Rainwhisper | HP + Crit‑Damage / Heilung | Thundercry Blade |
+| **Schleier der Weide** | Veil of the Willow | Light‑/Heavy‑Attack‑Synergie | Fan / Umbrella (DPS) |
+| **Elfenbeinblüte** | Ivorybloom | Crit‑Rate + starke Crit‑Heilung | Healer (Panacea / Soulshade) |
 
 ---
 
@@ -43,6 +59,7 @@ Die richtigen Substats auf deiner Waffe sind entscheidend. Hier die wichtigsten 
 Das Aufwertungssystem in Where Winds Meet heißt **调律 (Tiáo Lǜ)** und hat mehrere Untersysteme:
 
 ### Basis-Upgrades
+
 | Mechanik | Funktion |
 |----------|---------|
 | **调律 (Tuning)** | Basis-Upgrade: Ausrüstung leveln mit XP-Material (狗粮 – Dog Food) |
@@ -52,6 +69,7 @@ Das Aufwertungssystem in Where Winds Meet heißt **调律 (Tiáo Lǜ)** und hat 
 | **传律 (Pass Law)** | Überträgt Set-Boni zwischen Items → **erlaubt gemischte Sets!** |
 
 ### Fortgeschritten
+
 | Mechanik | Funktion |
 |----------|---------|
 | **定音 (Fixed Tune)** | Fixiert einen Substats auf max. Wert |
@@ -59,6 +77,7 @@ Das Aufwertungssystem in Where Winds Meet heißt **调律 (Tiáo Lǜ)** und hat 
 | **武库 (Armory)** | Aufbewahrung: Slots für verschiedene Builds |
 
 ### Seltenheitsstufen
+
 `Grün → Blau → Lila → Gold → 🔴 Legendär`
 
 ---
@@ -84,6 +103,7 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 ## 📊 Stat-Priorität nach Build
 
 ### ⚡ Burst-Build
+
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
 | 1 | Kritischer Schaden | Höllische Zwillingsklingen |
@@ -92,6 +112,7 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 | 4 | Elementarschaden | Schnee-trennende Klinge |
 
 ### 🛡️ Sustain/Stagger-Build
+
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
 | 1 | Parade-Schaden | Schnee-trennende Klinge |
@@ -100,6 +121,7 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 | 4 | LP-Regeneration | Längere Kämpfe |
 
 ### 🪨 Tank-Build
+
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
 | 1 | Maximale HP | Sturmbrecher-Speer |
@@ -108,6 +130,7 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 | 4 | Heilungs-Bonus | Selbstheilung |
 
 ### 💚 Heiler-Build
+
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
 | 1 | Heilungs-Bonus | Panacea Fan |
@@ -119,14 +142,16 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 
 ## 🏆 Set-Empfehlungen nach Build
 
-| Build | Bestes Set | Alternative | Farmort |
-|-------|:----------:|:-----------:|:--------:|
-| **Burst-DPS** | 鸣金影 (Goldschatten) | 千钧力 (Tausendfache Kraft) | Weltbosse / Dungeons |
-| **Sustain/Stagger** | 裂石威 (Felsbrecher) | 千钧力 | Heartseeker / Wucan |
-| **Tank** | 金缕衣 (Goldfaden-Gewand) | 裂石威 | Twin Lions / Qianye |
-| **Heiler** | 妙手回春 (Heilende Hand) | 金缕衣 | Gruppen-Dungeons |
-| **Mobility** | 九曲天河 (Milchstraße) | 苍龙吟 | Qinghe-Weltbosse |
+| Build | Defensives Set | Offensives Set | Kurzbegründung |
+|:------|:--------------:|:--------------:|:---------------|
+| **Allround-DPS** | **Adlererhebung** (Eaglerise) | **Falkenflügel** (Hawkwing) | Stapelbare Schadensreduktion + Affinity-Buff – die gängigste Meta-Kombi |
+| **Melee-Burst** | **Formbiegung** (Formbend) | **Jadegeschirr** (Jadeware) | Verlängerter Schild + Martial‑Skill-Schaden – ideal für Spear/Nameless Sword |
+| **Tank** | **Makellose Verteidigung** (Flawless Defense) | **Regenflüstern** (Rainwhisper) | Permanente Reduktion + HP/Crit‑Synergie |
+| **Healer** | **Wirbelnder Schnee** (Whirlsnow) | **Elfenbeinblüte** (Ivorybloom) | Notfall-Heilung + starke Crit‑Heilung |
+| **Assassin/Dodge** | **Ruhige Wasser** (Calmwaters) | **Schleier der Weide** (Veil of the Willow) | Ausweichen heilt + Light‑/Heavy‑Attack-Synergie |
+| **Ranged-DPS** | **Jenseits der Kälte** (Beyond the Chill) | **Falkenflügel** (Hawkwing) | Starke Anfangsreduktion + Affinity für Silkbind-Jade |
+| **Mobility** | **Geschmeidige Schritte** (Agile Steps) | **Falkenflügel** (Hawkwing) | Abwehr-Buff + ATK-Buff für flinke Builds |
 
 ---
 
-> 💡 **Pro-Tipp:** Mit dem **传律 (Pass Law)**-System kannst du Set-Boni zwischen Items übertragen. So kannst du die Boni von 2 verschiedenen Sets kombinieren – z.B. 2-teilig Goldschatten + 2-teilig Tausendfache Kraft für maximalen Burst!
+> 💡 **Pro-Tipp:** Mit dem **传律 (Pass Law)**-System kannst du Set-Boni zwischen Items übertragen. So lassen sich z. B. 2-teilig Adlererhebung + 2-teilig Formbiegung kombinieren. In der aktuellen Meta (Patch 1.5) dominieren **Adlererhebung + Falkenflügel** (Allround) und **Formbiegung + Jadegeschirr** (Melee).
