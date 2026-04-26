@@ -86,13 +86,13 @@ Das sind **aktive Fähigkeiten** unabhängig von deiner Waffe. Die wichtigste f�
 
 ### Welches Rüstungs-Set soll ich zuerst farmen?
 
-Als Einsteiger reicht jedes Set, das du bekommst. Aber wenn du gezielt farmen willst:
+Als Einsteiger reicht jedes Set, das du bekommst. Aber wenn du gezielt farmen willst – du kannst **ein defensives + ein offensives Set gleichzeitig** tragen:
 
-| Build | Bestes Set | Fundort |
-|-------|:----------:|---------|
-| **Burst-DPS** | 鸣金影 (Goldschatten) | Weltbosse / Dungeons |
-| **Tank** | 金缕衣 (Goldfaden-Gewand) | Twin Lions / Qianye |
-| **Heiler** | 妙手回春 (Heilende Hand) | Gruppen-Dungeons |
+| Build | Defensives Set | Offensives Set | Fundort |
+|:------|:--------------:|:--------------:|---------|
+| **Allround-DPS** | **Adlererhebung** (Eaglerise) | **Falkenflügel** (Hawkwing) | Weltbosse / Dungeons |
+| **Tank** | **Makellose Verteidigung** (Flawless Defense) | **Mondflamme** (Moonflare) | Weltbosse / Dungeons |
+| **Heiler** | **Wirbelnder Schnee** (Whirlsnow) | **Elfenbeinblüte** (Ivorybloom) | Gruppen-Dungeons |
 
 ### Wie funktioniert das Tuning-System?
 
