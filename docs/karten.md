@@ -5,17 +5,12 @@ Hier findest du alle wichtigen Karten für **Where Winds Meet** – perfekt zum 
 
 ---
 
-## 🌍 Interaktive Weltkarte
+## 🌍 Interaktive Weltkarten
 
-Die beste Anlaufstelle für eine vollständige, interaktive Karte mit allen POIs:
-
-[**➡️ Where Winds Meet auf MapGenie**](https://mapgenie.io/where-winds-meet/maps/world)
-
-Dort kannst du:
-- Nach Kategorien filtern (Bosse, Händler, Aktivitäten, Sammelobjekte …)
-- Marker anklicken für Details & Screenshots
-- Gefundene Items abhaken
-- Zwischen **Overworld** und **Underground** umschalten
+| Karte | Besonderheiten |
+|-------|---------------|
+| [**➡️ MapGenie – Where Winds Meet**](https://mapgenie.io/where-winds-meet/maps/world) | Große POI-Datenbank, Kategorien-Filter, Abhaken-Funktion, Overworld/Underground-Umschaltung |
+| [**➡️ Boarhat.gg – Interactive Map**](https://boarhat.gg/games/where-winds-meet/interactive-map/) | Community-getrieben, basiert auf CN-Quellen, regelmäßige Updates (aktuell v1.6), Qinchuan bereits enthalten |
 
 ---
 
