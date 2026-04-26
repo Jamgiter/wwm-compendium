@@ -50,6 +50,8 @@ export default defineConfig({
           { text: 'Glossar', link: '/glossar' },
           { text: 'Kompendium', link: '/kompendium' },
           { text: 'Mystische Künste', link: '/mystische-kuenste' },
+          { text: 'Innere Wege', link: '/innere-wege' },
+          { text: 'Tägliches', link: '/daily-guide' },
           { text: 'Videos', link: '/videos' },
           { text: 'Impressum', link: '/impressum' },
         ],

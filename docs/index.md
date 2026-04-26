@@ -102,6 +102,18 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/mystische-kuenste">Zu den Mystischen Künsten →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🧘 Innere Wege</h3>
+<p>Passives Talent-System – 37 Pfade, bis zu 4 gleichzeitig, Mentaltechniken, Recycling & Build-Empfehlungen.</p>
+<a href="/wwm-compendium/innere-wege">Zu den Inneren Wegen →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">📅 Tägliches</h3>
+<p>Tägliche & wöchentliche To-dos mit Prioritäten – Händler, Bosse, Tuning, Kuriositäten, Inner Way & mehr.</p>
+<a href="/wwm-compendium/daily-guide">Zum Täglichen →</a>
+</div>
+
 </div>
 
 ---
@@ -130,6 +142,8 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Sekten (Fraktionen, Beitritt, Ränge, Voting, Brotherhood)
 - [x] Kompendium (16 Kategorien, Punkte-System, Meilensteine)
 - [x] Mystische Künste (Mystic Arts – Meridian Touch, Wallstride, Contortion uvm.)
+- [x] Innere Wege (37 Pfade, Mentaltechniken, Recycling, Builds)
+- [x] Täglicher & wöchentlicher Guide (Prioritäten nach Spielphase)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
