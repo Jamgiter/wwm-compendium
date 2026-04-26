@@ -44,9 +44,45 @@ Danach kannst du **jederzeit** in den Baumodus wechseln.
 | **Recycling-Modus** | Bauteile wieder abbauen → zurück ins Inventar |
 | **Auto-Crafting** | Items werden automatisch gefertigt, wenn genug Material vorhanden |
 
-### Blueprints
+### Blueprints & Diagramme
 
-Du kannst eigene Blaupausen **erstellen und speichern** oder fertige **Blueprint-Codes** aus der Community importieren (Bilibili, Discord, Reddit). Das spart enorm Zeit!
+Du kannst eigene Blaupausen **erstellen und speichern** oder fertige **Blueprint-Codes** aus der Community importieren – das spart enorm Zeit!
+
+**Zugriff:** Baumodus (F4) → **Diagram / Blueprint Tab** → Gallery oder Import.
+
+#### Ingame-Presets (Diagram Presets)
+Diese findest du direkt im Baumodus – **kein Code nötig**:
+
+| Preset | Beschreibung |
+|:-------|:-------------|
+| **Low-Level Inn Design** 🏮 | Einfaches Gasthaus – gut für Anfänger |
+| **Multi-Story House Design** 🏠 | Mehrstöckiges Haus |
+| **Pavilion / Tower Presets** 🗼 | Pavillons und Türme |
+| **Maze / Labyrinth** 🌀 | Labyrinth-Designs |
+| **Stilt House** 🌊 | Pfahlbau – ideal für Wasser |
+
+#### Beliebte Community-Blueprints
+
+| Stil | Empfohlen für | Hinweis |
+|:-----|:--------------|:--------|
+| **Wasserfall-Haus / Cliffside Villa** 🏔️ | Ästhetik, entspannt | Suche auf Bilibili „WWM Wasserfall Haus“ – sehr beliebt in Hexi |
+| **Chinesischer Hof / Courtyard Mansion** 🏯 | Klassisch Wuxia | Ingame-Preset + Recycling aus gemieteten Kaifeng-Häusern |
+| **Floating Island / Schwebende Insel** 🏝️ | Kreativ / Endgame | Community-Galerie (oft 2–3 Etagen) |
+| **Wüsten-Oase / Hexi Villa** 🏜️ | Hexi-Region | Tang Qi in Karez verkauft passende Rezepte |
+| **Japanisch inspirierter Pavillon** 🎋 | Minimalistisch | Viele CN-Community-Codes |
+| **Luxus-Mansion mit Innenhof** 👑 | Social / Fotos | Miete erst in Kaifeng → recycle Möbel |
+
+#### Wo findest du aktuelle Codes?
+
+| Quelle | Suche |
+|:-------|:------|
+| **Bilibili** 🇨🇳 | „WWM 蓝图代码“ oder „Where Winds Meet blueprint code“ |
+| **Discord** 💬 | Offizielle WWM-Server oder große Guilds |
+| **TikTok / YouTube** 🎥 | „WWM best blueprint 2026“ |
+| **Reddit** 📱 | r/WhereWindsMeet – oft Posts mit Codes |
+
+#### Pro-Tipp: Kaifeng-Möbel recyceln
+Miete zuerst Häuser in **Kaifeng** (Feng's Tradehall) → geh in den **Recycle Mode** und sammle alle Möbel/Rezepte. Das ist der schnellste Weg zu schönen Designs ohne viel Farmen.
 
 ---
 
