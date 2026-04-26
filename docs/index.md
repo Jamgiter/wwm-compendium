@@ -55,6 +55,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🏺 Kuriositäten</h3>
+<p>Oddities, Melodies of Peace-Baum, regionale & spezielle Fundstücke und Belohnungen.</p>
+<a href="/wwm-compendium/kuriositaeten">Zu den Kuriositäten →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🐎 Reittiere</h3>
 <p>Pferde-Rassen, Zähmung, Zubehör, Kampf zu Pferd und Pflege – alles zu Reittieren.</p>
 <a href="/wwm-compendium/pferde">Zu den Reittieren →</a>
@@ -88,6 +94,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] FAQ für Einsteiger
 - [x] Mini-Spiele & Aktivitäten (Bogenschießen, Schach, Angeln uvm.)
 - [x] Reittiere & Pferde (Rassen, Zähmung, Zubehör)
+- [x] Kuriositäten (Oddities & Melodies of Peace)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
