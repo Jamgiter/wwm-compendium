@@ -72,6 +72,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/minispiele">Zu den Mini-Spielen →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">📜 Quests</h3>
+<p>Hauptstory, Campaigns, Jianghu Legacy & Exploration – alle wichtigen Quests pro Region.</p>
+<a href="/wwm-compendium/quests">Zu den Quests →</a>
+</div>
+
 </div>
 
 ---
@@ -95,6 +101,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Mini-Spiele & Aktivitäten (Bogenschießen, Schach, Angeln uvm.)
 - [x] Reittiere & Pferde (Rassen, Zähmung, Zubehör)
 - [x] Kuriositäten (Oddities & Melodies of Peace)
+- [x] Quests (Hauptstory, Campaigns, Jianghu Legacy, Exploration)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

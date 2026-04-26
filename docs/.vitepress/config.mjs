@@ -28,6 +28,7 @@ export default defineConfig({
           { text: 'Herausforderungen', link: '/challenges' },
         ],
       },
+      { text: 'Quests', link: '/quests' },
       {
         text: 'Items',
         items: [
