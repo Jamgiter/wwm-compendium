@@ -48,6 +48,7 @@ export default defineConfig({
           { text: 'Mini-Spiele', link: '/minispiele' },
           { text: 'Karten', link: '/karten' },
           { text: 'Glossar', link: '/glossar' },
+          { text: 'Kompendium', link: '/kompendium' },
           { text: 'Videos', link: '/videos' },
           { text: 'Impressum', link: '/impressum' },
         ],

@@ -90,6 +90,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/sekten">Zu den Sekten →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">📖 Kompendium</h3>
+<p>Das Ingame-Kompendium – 16 Kategorien, Punkte-System, Meilenstein-Belohnungen und Tipps für 100%.</p>
+<a href="/wwm-compendium/kompendium">Zum Kompendium →</a>
+</div>
+
 </div>
 
 ---
@@ -116,6 +122,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Quests (Hauptstory, Campaigns, Jianghu Legacy, Exploration)
 - [x] Housing (Bauen, Mieten, Blueprints, NPCs, Production)
 - [x] Sekten (Fraktionen, Beitritt, Ränge, Voting, Brotherhood)
+- [x] Kompendium (16 Kategorien, Punkte-System, Meilensteine)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
