@@ -23,7 +23,7 @@
 
 ## 🌾 Regionale Kuriositäten (Qinghe)
 
-In Qinghe gibt es **5 Arten** mit mehreren Fundorten pro Art:
+In Qinghe gibt es **5 Arten** mit mehreren Fundorten pro Art (insgesamt **ca. 30–35 Stück**):
 
 | Deutsche Übersetzung | Englischer Name | Sammelmethode |
 |:--------------------|:----------------|:--------------|
@@ -35,9 +35,16 @@ In Qinghe gibt es **5 Arten** mit mehreren Fundorten pro Art:
 
 ### NPC-Sammler (Qinghe)
 
-| NPC | Ort | 
-|:----|:----|
-| **Qi Sheng** | Straße zum General's Shrine (Verdant Wilds, Norden) |
+| NPC | Ort | Hinweis |
+|:----|:----|:--------|
+| **Qi Sheng** | Straße zum General's Shrine (Verdant Wilds, Norden) | Spricht dich an → Tutorial-Quest beginnt |
+
+### Walkthrough
+
+1. **Sprich mit Qi Sheng** – er startet die Tutorial-Quest für das Oddity-System.
+2. **Sammle Oddities** in ganz Qinghe (🦋 Schmetterlings-Symbol auf der Minimap).
+3. **Gib sie bei Qi Sheng ab** – schalte Knoten im Melodies of Peace-Baum frei.
+4. **Quest „Oddity: Melodies of Peace“** – sammle genug Oddities, erhalte ein **Bronze Bell Fragment** und repariere damit die **Friedensglocke (Peace Bell Tower)**.
 
 ---
 
@@ -47,9 +54,11 @@ Auch in Kaifeng gibt es **5 Arten** mit eigenen Minispiel-Mechaniken (strukturel
 
 ### NPC-Sammler (Kaifeng)
 
-| NPC | Ort |
-|:----|:----|
-| **Bai Ji** | Nordwestliche Ecke der Kaifeng City |
+| NPC | Ort | Hinweis |
+|:----|:----|:--------|
+| **Bai Ji** | Zuerst am **Stadteingang von Kaifeng**, später im **Palace of Supreme Oneness** (Nordwesten) | Kleine Einführungsquest (z. B. Rat fangen) nötig |
+
+**Wichtig:** Für den vollen Handel mit Bai Ji musst du die Quest **„Oddity: Mystery of Five Tones“** abschließen.
 
 ---
 
@@ -67,7 +76,17 @@ Die Wüsten-Region Hexi (auch **Jade Gate Pass** / Liangzhou) enthält **3 einzi
 
 | NPC | Ort | Voraussetzung |
 |:----|:----|:--------------|
-| **Qi Xian** (奇贤) | **Karez** – nördlich des Karez-Grenzsteins (Boundary Stone) | Erkundungsquest **„Melodies of Peace: Hexi“** abschließen |
+| **Qi Xian** (奇贤) | Zunächst in **Lost Crossing** (nahe Karez-Grenzstein), später in **Karez** (nördlich des Grenzsteins) | Siehe Walkthrough |
+
+### Walkthrough (Hexi)
+
+1. **Qi Xian finden** – er liegt im Sand bei **Lost Crossing**, nahe des Karez Boundary Stone.
+2. **Shadowfin fangen** – Qi Xian bittet um Hilfe beim Fangen einer Shadowfin:
+   - Gehe zum nahen Shadowfin-Spawn-Punkt.
+   - Nutze **Cosmic Reversal** (Tai Chi / G-Taste), um die Shadowfin gegen einen großen Stein zu treiben und einzufangen.
+3. **Zurück zu Qi Xian** – bringe die gefangene Shadowfin zu seiner **Malerhütte (Painting Shed)** in der Nähe.
+4. **Quest abgeschlossen** – Qi Xian wird zum permanenten Oddity-Händler in **Karez**.
+5. **Sammle & gib ab** – alle Hexi-Oddities sammeln und bei Qi Xian gegen Melodies of Peace-Upgrades eintauschen.
 
 ---
 
@@ -102,6 +121,8 @@ Mit Patch 1.3 wurde eine besondere Art von Kuriositäten eingeführt. Diese erfo
 ## 🎵 Melodies of Peace – Der Belohnungsbaum
 
 Gesammelte Kuriositäten werden bei den regionalen Sammlern abgegeben und schalten Knoten im **„Melodies of Peace“**-Talentbaum frei. Jede Region (Qinghe, Kaifeng, Hexi) hat einen eigenen Baum mit identischer Struktur, aber regionsspezifischen Boni.
+
+> **Wie es funktioniert:** Die Knoten sind **miteinander verbunden** – du musst vorherige Knoten freischalten, um zu den nächsten zu gelangen. Es zählt **nur die Anzahl** der abgegebenen Oddities, nicht der Typ. Jede abgegebene Kuriosität ist also gleich viel wert.
 
 ### Status-Boni
 
@@ -160,6 +181,7 @@ Gesammelte Kuriositäten werden bei den regionalen Sammlern abgegeben und schalt
 4. **Contortion besorgen** – Für die speziellen Kuriositäten (Patch 1.3) unbedingt die Mystic Skill freischalten
 5. **Früh abgeben** – Die Melodies of Peace-Boni (v. a. HP und Beute-Chance) helfen enorm beim Leveln
 6. **Hexi-Quest abschließen** – Vor dem Abgeben in Hexi zuerst die Erkundungsquest **„Melodies of Peace: Hexi“** erledigen
+7. **Knoten-System beachten** – Die Melodies of Peace-Knoten sind **verkettet**. Schalte vorherige Knoten frei, um an die großen Belohnungen (Wallstride-Skills, Waffen) zu kommen. Es zählt nur die **Anzahl**, nicht der Typ der Oddities
 
 ---
 
