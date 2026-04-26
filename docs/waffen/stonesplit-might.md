@@ -6,7 +6,7 @@ Der Tank-Pfad von Stonesplit. Bietet **Schilde, Schadensreduktion, Taunt** und d
 
 ---
 
-## Sturmbringer-Speer (Stormbreaker Spear) ⭐ Main Tank
+## Sturmbrecher-Speer (Stormbreaker Spear) ⭐ Main Tank
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -34,7 +34,7 @@ Der Tank-Pfad von Stonesplit. Bietet **Schilde, Schadensreduktion, Taunt** und d
 
 ---
 
-## Donnerschrei-Klinge (Thundercry Blade) ⭐ Off-Tank
+## Donnerklage-Klinge (Thundercry Blade) ⭐ Off-Tank
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -63,7 +63,7 @@ Der Tank-Pfad von Stonesplit. Bietet **Schilde, Schadensreduktion, Taunt** und d
 
 ## Spielstil
 
-Als **Tank** bist du die Frontlinie. Der Sturmbringer-Speer ist deine Hauptwaffe für Bedrohung und Gruppierung. Wechsle zur Donnerschrei-Klinge, wenn du mehr Konter brauchst oder der Speer gerade abklingt.
+Als **Tank** bist du die Frontlinie. Der Sturmbrecher-Speer ist deine Hauptwaffe für Bedrohung und Gruppierung. Wechsle zur Donnerklage-Klinge, wenn du mehr Konter brauchst oder der Speer gerade abklingt.
 
 ### Empfohlene Rotation
 1. Storm Roar (Aggro holen + Schadensreduktion)

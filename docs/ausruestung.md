@@ -86,15 +86,15 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 ### ⚡ Burst-Build
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
-| 1 | Kritischer Schaden | Inferno-Zwillingsklingen |
+| 1 | Kritischer Schaden | Höllische Zwillingsklingen |
 | 2 | Angriffskraft | Alle Burst-Waffen |
-| 3 | Kritische Trefferrate | Tintenfässchen-Fächer |
-| 4 | Elementarschaden | Schneespaltende Klinge |
+| 3 | Kritische Trefferrate | Tintenfass-Fächer |
+| 4 | Elementarschaden | Schnee-trennende Klinge |
 
 ### 🛡️ Sustain/Stagger-Build
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
-| 1 | Parade-Schaden | Schneespaltende Klinge |
+| 1 | Parade-Schaden | Schnee-trennende Klinge |
 | 2 | Stagger-Aufbau | Alle Stagger-Waffen |
 | 3 | Ausdauer | Heartseeker, Wucan |
 | 4 | LP-Regeneration | Längere Kämpfe |
@@ -102,7 +102,7 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 ### 🪨 Tank-Build
 | Priorität | Stat | Ideal für |
 |:---------:|------|:---------:|
-| 1 | Maximale HP | Sturmbringer-Speer |
+| 1 | Maximale HP | Sturmbrecher-Speer |
 | 2 | Verteidigung (DEF) | Alle Tank-Waffen |
 | 3 | Schadensreduktion | Twin Lions, Hard-Content |
 | 4 | Heilungs-Bonus | Selbstheilung |

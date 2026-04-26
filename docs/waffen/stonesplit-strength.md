@@ -6,7 +6,7 @@ Der anspruchsvollste Pfad im Spiel, eingeführt mit **Patch 1.5 "As Snow Falls"*
 
 ---
 
-## Schneespaltende Klinge (Snowparting Blade) ⭐ Sekiro-DPS
+## Schnee-trennende Klinge (Snowparting Blade) ⭐ Sekiro-DPS
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -36,7 +36,7 @@ Der anspruchsvollste Pfad im Spiel, eingeführt mit **Patch 1.5 "As Snow Falls"*
 
 ---
 
-## Phalanxbrecher-Klinge (Phalanxbane Blade)
+## Phalanx-Brecher-Klinge (Phalanxbane Blade)
 
 | Eigenschaft | Details |
 |------------|---------|

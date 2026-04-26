@@ -22,9 +22,9 @@ Details zu seinen genauen Angriffsmustern folgen.
 | Waffe | Begründung |
 |-------|-----------|
 | **Panacea Fan** | Heiler – für längere Kämpfe empfohlen |
-| **Schneespaltende Klinge** | Stagger-DPS (stark wenn Boss-Mechaniken bekannt sind) |
-| **Inferno-Zwillingsklingen** | Burst-DPS für aggressive Spieler |
-| **Sturmbringer-Speer** | Tank – mehr Überlebensfähigkeit beim Erlernen der Muster |
+| **Schnee-trennende Klinge** | Stagger-DPS (stark wenn Boss-Mechaniken bekannt sind) |
+| **Höllische Zwillingsklingen** | Burst-DPS für aggressive Spieler |
+| **Sturmbrecher-Speer** | Tank – mehr Überlebensfähigkeit beim Erlernen der Muster |
 
 ---
 

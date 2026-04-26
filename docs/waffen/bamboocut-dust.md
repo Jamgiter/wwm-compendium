@@ -6,7 +6,7 @@ Der Dust-Pfad von Bamboocut ist spezialisiert auf Flächenschaden und Kontrolle.
 
 ---
 
-## Immerquell-Schirm (Everspring Umbrella)
+## Ewiger-Frühlings-Schirm (Everspring Umbrella)
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -31,7 +31,7 @@ Der Dust-Pfad von Bamboocut ist spezialisiert auf Flächenschaden und Kontrolle.
 
 ---
 
-## Ungezügelter Seilpfeil (Unfettered Rope Dart)
+## Ungebundener Seilpfeil (Unfettered Rope Dart)
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -56,7 +56,7 @@ Der Dust-Pfad von Bamboocut ist spezialisiert auf Flächenschaden und Kontrolle.
 
 ## Spielstil
 
-Der **Dust-Pfad** glänzt, wenn viele Gegner auf einmal kommen. Mit dem Immerquell-Schirm hältst du Gruppen in Schach, während der Ungezügelte Seilpfeil flexible Angriffsmuster aus verschiedenen Distanzen bietet.
+Der **Dust-Pfad** glänzt, wenn viele Gegner auf einmal kommen. Mit dem Ewiger-Frühlings-Schirm hältst du Gruppen in Schach, während der Ungezügelte Seilpfeil flexible Angriffsmuster aus verschiedenen Distanzen bietet.
 
 ### Taktik
 1. Stapelbare Buffs aufbauen (durch Angriffe/Ausweichen)

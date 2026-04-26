@@ -38,7 +38,7 @@ Die häufigsten Fragen zu **Where Winds Meet** – kurz und direkt beantwortet.
 2. Bei voller Leiste wird der Boss **betäubt**
 3. Riesiges Schadensfenster für dich und dein Team
 
-👉 Die **Schneespaltende Klinge** (Stonesplit – Strength) ist die einzige Waffe mit einem aktiven Stagger-Build – extrem stark im Endgame.
+👉 Die **Schnee-trennende Klinge** (Stonesplit – Strength) ist die einzige Waffe mit einem aktiven Stagger-Build – extrem stark im Endgame.
 
 ---
 

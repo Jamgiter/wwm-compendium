@@ -6,7 +6,7 @@ Der Wind-Pfad von Bamboocut ist pure Aggression. Extrem schnelle Angriffe, hohe 
 
 ---
 
-## Inferno-Zwillingsklingen (Infernal Twinblades) ⭐ Burst-DPS
+## Höllische Zwillingsklingen (Infernal Twinblades) ⭐ Burst-DPS
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -34,7 +34,7 @@ Der Wind-Pfad von Bamboocut ist pure Aggression. Extrem schnelle Angriffe, hohe 
 
 ---
 
-## Sterblicher Seilpfeil (Mortal Rope Dart)
+## Tödlicher Seilpfeil (Mortal Rope Dart)
 
 | Eigenschaft | Details |
 |------------|---------|
@@ -58,7 +58,7 @@ Der Wind-Pfad von Bamboocut ist pure Aggression. Extrem schnelle Angriffe, hohe 
 
 ## Spielstil
 
-**Inferno-Zwillingsklingen** sind eine der stärksten DPS-Waffen im Spiel, aber erfordern perfektes Timing. Der Kern ist der **Flamelash-Burst**.
+**Höllische Zwillingsklingen** sind eine der stärksten DPS-Waffen im Spiel, aber erfordern perfektes Timing. Der Kern ist der **Flamelash-Burst**.
 
 ### Empfohlene Rotation
 1. Addled Mind (3x aufladen, rein-dash)
@@ -91,7 +91,7 @@ Der Wind-Pfad von Bamboocut ist pure Aggression. Extrem schnelle Angriffe, hohe 
 `Angriffskraft > Kritischer Schaden > Kritische Trefferrate > Angriffsgeschwindigkeit`
 
 
-**Inferno-Zwillingsklingen** sind eine der stärksten DPS-Waffen im Spiel, aber erfordern perfektes Timing. Der Kern ist der **Flamelash-Burst** – sobald Blazing Wrath voll ist, verwandelst du dich und rottest alles nieder.
+**Höllische Zwillingsklingen** sind eine der stärksten DPS-Waffen im Spiel, aber erfordern perfektes Timing. Der Kern ist der **Flamelash-Burst** – sobald Blazing Wrath voll ist, verwandelst du dich und rottest alles nieder.
 
 ### Empfohlene Rotation
 1. Addled Mind (3x aufladen, rein-dash)

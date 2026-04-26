@@ -1,7 +1,7 @@
 
 # ⚔️ Waffen-Übersicht
 
-In **Where Winds Meet** gibt es **14 Waffen**, aufgeteilt in **7 Kampfkunst-Pfade (Martial Arts Paths)**.
+In **Where Winds Meet** gibt es **16 Waffen**, aufgeteilt in **7 Kampfkunst-Pfade (Martial Arts Paths)**.
 Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedlichen Spezialisierungen.
 
 ---
@@ -12,12 +12,12 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 |----------------|--------|-------|:-------------:|
 | [Bellstrike – Splendor](./bellstrike-splendor) | Namenloses Schwert + Namenloser Speer | Mobiler DPS | ⭐⭐ |
 | [Bellstrike – Umbra](./bellstrike-umbra) | Strategisches Schwert + Himmelserschütterer-Speer | Blutungs-DPS | ⭐⭐⭐ |
-| [Silkbind – Deluge](./silkbind-deluge) | Allheilmittel-Fächer + Seelenschatten-Schirm | **Heiler / Support** | ⭐⭐⭐ |
-| [Silkbind – Jade](./silkbind-jade) | Tintenfässchen-Fächer + Frühlings-Schirm | Fernkampf-DPS | ⭐⭐⭐⭐⭐ |
-| [Bamboocut – Wind](./bamboocut-wind) | Inferno-Zwillingsklingen + Sterblicher Seilpfeil | Aggro-Burst-DPS | ⭐⭐⭐⭐ |
-| [Bamboocut – Dust](./bamboocut-dust) | Immerquell-Schirm + Ungezügelter Seilpfeil | AoE-Kontrolle | ⭐⭐⭐⭐ |
-| [Stonesplit – Might](./stonesplit-might) | Sturmbringer-Speer + Donnerschrei-Klinge | **Tank** | ⭐⭐⭐ |
-| [Stonesplit – Strength](./stonesplit-strength) | Schneespaltende Klinge + Phalanxbrecher-Klinge | Parade/Stagger-DPS | ⭐⭐⭐⭐⭐ |
+| [Silkbind – Deluge](./silkbind-deluge) | Allheil-Fächer + Seelenschatten-Schirm | **Heiler / Support** | ⭐⭐⭐ |
+| [Silkbind – Jade](./silkbind-jade) | Tintenfass-Fächer + Frühlingsschirm | Fernkampf-DPS | ⭐⭐⭐⭐⭐ |
+| [Bamboocut – Wind](./bamboocut-wind) | Höllische Zwillingsklingen + Tödlicher Seilpfeil | Aggro-Burst-DPS | ⭐⭐⭐⭐ |
+| [Bamboocut – Dust](./bamboocut-dust) | Ewiger-Frühlings-Schirm + Ungebundener Seilpfeil | AoE-Kontrolle | ⭐⭐⭐⭐ |
+| [Stonesplit – Might](./stonesplit-might) | Sturmbrecher-Speer + Donnerklage-Klinge | **Tank** | ⭐⭐⭐ |
+| [Stonesplit – Strength](./stonesplit-strength) | Schnee-trennende Klinge + Phalanx-Brecher-Klinge | Parade/Stagger-DPS | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -29,18 +29,18 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | Namenloser Speer | Splendor | Lang | B | A | C | C |
 | Strategisches Schwert | Umbra | Mittel | A | A | B | C |
 | Himmelserschütterer-Speer | Umbra | Lang | A | B | B | C |
-| Allheilmittel-Fächer | Deluge | Fern | D | C | C | **S** |
+| Allheil-Fächer | Deluge | Fern | D | C | C | **S** |
 | Seelenschatten-Schirm | Deluge | Fern | C | C | B | A |
-| Tintenfässchen-Fächer | Jade | Fern | **S** | S | B | C |
-| Frühlings-Schirm | Jade | Fern/Mittel | A | A | B | C |
-| Inferno-Zwillingsklingen | Wind | Kurz | **S** | S | A | D |
-| Sterblicher Seilpfeil | Wind | Mittel | A | A | B | C |
-| Immerquell-Schirm | Dust | Fern | C | B | **S** | B |
-| Ungezügelter Seilpfeil | Dust | Mittel | B | A | A | B |
-| Sturmbringer-Speer | Might | Lang | B | C | **S** | **S** |
-| Donnerschrei-Klinge | Might | Mittel | A | B | A | **S** |
-| Schneespaltende Klinge | Strength | Mittel | **S** | A | **S** | B |
-| Phalanxbrecher-Klinge | Strength | Mittel | **S** | B | A | B |
+| Tintenfass-Fächer | Jade | Fern | **S** | S | B | C |
+| Frühlingsschirm | Jade | Fern/Mittel | A | A | B | C |
+| Höllische Zwillingsklingen | Wind | Kurz | **S** | S | A | D |
+| Tödlicher Seilpfeil | Wind | Mittel | A | A | B | C |
+| Ewiger-Frühlings-Schirm | Dust | Fern | C | B | **S** | B |
+| Ungebundener Seilpfeil | Dust | Mittel | B | A | A | B |
+| Sturmbrecher-Speer | Might | Lang | B | C | **S** | **S** |
+| Donnerklage-Klinge | Might | Mittel | A | B | A | **S** |
+| Schnee-trennende Klinge | Strength | Mittel | **S** | A | **S** | B |
+| Phalanx-Brecher-Klinge | Strength | Mittel | **S** | B | A | B |
 
 > *S = Hervorragend, A = Stark, B = Gut, C = Durchschnitt, D = Schwach*
 
@@ -52,10 +52,10 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 
 | Tier | Waffen | Begründung |
 |------|--------|-----------|
-| <span class="tier-s">S-Tier</span> | Schneespaltende Klinge, Inferno-Zwillingsklingen, Tintenfässchen-Fächer | Stagger gegen Bosse (einzigartig!), extrem hoher Burst-DPS, sicherer Fernkampf |
-| <span class="tier-a">A-Tier</span> | Allheilmittel-Fächer + Seelenschatten-Schirm, Namenloses Schwert/Speer, Frühlings-Schirm | Unverzichtbar im Group-Content, solider DPS, flexibler Fernkampf mit Schirm-Konter |
-| <span class="tier-b">B-Tier</span> | Sturmbringer-Speer + Donnerschrei-Klinge, Strategisches Schwert/Speer | Starke Tanks, gute Blutungs-Waffen |
-| <span class="tier-c">C-Tier</span> | Immerquell-Schirm + Ungezügelter Seilpfeil | Situativ nützlich, aber schwächer im Einzelziel |
+| <span class="tier-s">S-Tier</span> | Schnee-trennende Klinge, Höllische Zwillingsklingen, Tintenfass-Fächer | Stagger gegen Bosse (einzigartig!), extrem hoher Burst-DPS, sicherer Fernkampf |
+| <span class="tier-a">A-Tier</span> | Allheil-Fächer + Seelenschatten-Schirm, Namenloses Schwert/Speer, Frühlingsschirm | Unverzichtbar im Group-Content, solider DPS, flexibler Fernkampf mit Schirm-Konter |
+| <span class="tier-b">B-Tier</span> | Sturmbrecher-Speer + Donnerklage-Klinge, Strategisches Schwert/Speer | Starke Tanks, gute Blutungs-Waffen |
+| <span class="tier-c">C-Tier</span> | Ewiger-Frühlings-Schirm + Ungebundener Seilpfeil | Situativ nützlich, aber schwächer im Einzelziel |
 
 ---
 

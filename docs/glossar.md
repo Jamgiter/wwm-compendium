@@ -34,7 +34,7 @@ Kampfkunst-Pfad (Bellstrike / Silkbind / Bamboocut / Stonesplit)
 ## ⚔️ Kampfsystem
 
 ### Kampfkunst-Pfad (Martial Arts Path)
-Ein Pfad ist eine **Schule** mit 2 dazugehörigen Waffen, einem gemeinsamen Kampfstil und spezifischen Inneren Wegen. Es gibt **4 Pfade** mit je 2 Varianten = 8 Wege / 14 Waffen.
+Ein Pfad ist eine **Schule** mit 2 dazugehörigen Waffen, einem gemeinsamen Kampfstil und spezifischen Inneren Wegen. Es gibt **4 Pfade** mit je 2 Varianten = 8 Wege / 16 Waffen.
 
 | Pfad | Varianten | Waffen | Rolle |
 |:----:|:---------:|:-------|:-----:|
@@ -74,7 +74,7 @@ Du kannst **2 Waffen** gleichzeitig ausrüsten und während des Kampfes wechseln
 - **Same-Path-Wechsel:** Beide Waffen aus demselben Pfad → Synergie-Boni
 - **Cross-Path-Wechsel:** Waffen aus verschiedenen Pfaden → flexibler, aber ohne Synergie
 
-**Tipp:** Z.B. Schneespaltende Klinge (Stagger) + Panacea Fan (Heilung) = flexibler Sustain-Build
+**Tipp:** Z.B. Schnee-trennende Klinge (Stagger) + Panacea Fan (Heilung) = flexibler Sustain-Build
 
 ---
 
@@ -90,7 +90,7 @@ Ein passives Talent-System, ähnlich einem Skill-Tree für deinen gesamten Chara
 - **Entscheidung:** Du kannst in mehrere Wege investieren, aber nie alle maxen
 
 **Zusammenhang:** Dein Inner Way sollte zu deinen Waffen passen.  
-Beispiel: Stagger-Build (Schneespaltende Klinge) → Inner Way mit Parade-Schaden-Boni
+Beispiel: Stagger-Build (Schnee-trennende Klinge) → Inner Way mit Parade-Schaden-Boni
 
 ---
 
@@ -116,10 +116,10 @@ Jede Waffe hat eine **eigene Ressource**, die sich durch Aktionen füllt:
 
 | Waffe | Ressource | Effekt (wenn voll) |
 |:-----|:---------:|:-------------------|
-| **Inferno-Zwillingsklingen** | Blazing Wrath (Kampfwut) | **Flamelash** – Burst-Modus mit Lebensraub |
-| **Schneespaltende Klinge** | Blade Momentum | Verstärkte Stagger-Angriffe |
+| **Höllische Zwillingsklingen** | Blazing Wrath (Kampfwut) | **Flamelash** – Burst-Modus mit Lebensraub |
+| **Schnee-trennende Klinge** | Blade Momentum | Verstärkte Stagger-Angriffe |
 | **Panacea Fan** | Dewdrops (Tautropfen) | Heilung verstärken, Auferstehung |
-| **Tintenfässchen-Fächer** | Riding the Wind | Luftkombos verstärken |
+| **Tintenfass-Fächer** | Riding the Wind | Luftkombos verstärken |
 | **Stormbreaker Speer** | Fighting Spirit | Schilde + Taunt verstärken |
 | **Thundercry Blade** | Battle Will | Konter-Mechaniken verstärken |
 
@@ -131,7 +131,7 @@ Jede Waffe hat eine **eigene Ressource**, die sich durch Aktionen füllt:
 Eine der wichtigsten Mechaniken für Bosse:
 - Jeder erfolgreiche Angriff baut Stagger auf (unsichtbarer Wert)
 - Bei voller Stagger-Leiste: **Boss wird betäubt** → massives Schadensfenster
-- **Schneespaltende Klinge** ist die einzige Waffe mit aktivem Stagger-Build
+- **Schnee-trennende Klinge** ist die einzige Waffe mit aktivem Stagger-Build
 
 **Zusammenhang:** Stagger-Builds + hoher Burst = Boss in Sekunden zerlegt
 
@@ -176,7 +176,7 @@ Z.B. 2-teilig Ming Jin Ying + 2-teilig Qian Jun Li = maximaler Burst.
 ---
 
 ### Flamelash (Flammenpeitsche) 🔥
-Der Burst-Modus der **Inferno-Zwillingsklingen**:
+Der Burst-Modus der **Höllische Zwillingsklingen**:
 - Aktiviert, wenn **Blazing Wrath** voll ist
 - Verstärkte Angriffe + **Lebensraub**
 - Extrem hoher Schaden für kurze Zeit
@@ -213,7 +213,7 @@ Bosse können auf verschiedenen Stufen gespielt werden:
 |:------|:--------|
 | **Was zuerst skillen?** | Waffen-Skills (per Skill Theft) > Inner Way > Mystic Arts |
 | **Welche Waffe für mich?** | Einsteiger: Bellstrike-Splendor. Heiler: Silkbind-Deluge. Sekiro-Fans: Stonesplit-Strength |
-| **Wie Boss-Schaden maximieren?** | Stagger aufbauen (Schneespaltende Klinge) → Flamelash (Zwillingsklingen) |
+| **Wie Boss-Schaden maximieren?** | Stagger aufbauen (Schnee-trennende Klinge) → Flamelash (Zwillingsklingen) |
 | **Wie überleben?** | Guardian Palm + Cloud Steps + Panacea Fan als Zweitwaffe |
 | **Was farmen?** | Tuning-Steine (wöchentlich), Loong Keys, Ansehen für Händler |
 | **Wann Legend-Modus wählen?** | Nie beim ersten Boss! Erst wenn ihr das Spiel kennt |

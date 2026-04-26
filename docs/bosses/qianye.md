@@ -14,7 +14,7 @@ Qianye ist ein agiler Schwertkämpfer mit **zwei Phasen**. In Phase 2 wechselt s
 
 | Aspekt | Empfehlung |
 |--------|-----------|
-| **Waffen** | Panacea Fan + Infernal Twinblades / Schneespaltende Klinge |
+| **Waffen** | Panacea Fan + Infernal Twinblades / Schnee-trennende Klinge |
 | **Mystik** | Guardian Palm, Leaping Toad, Meridian Touch, Cloud Steps |
 | **Fokus** | Parier-Timing üben – ihre Angriffe sind schnell |
 
@@ -53,7 +53,7 @@ Qianye ist ein agiler Schwertkämpfer mit **zwei Phasen**. In Phase 2 wechselt s
 |-------|-----------|
 | **Panacea Fan** | Heilung für Phase 2 |
 | **Infernal Twinblades** | Parier-Konter mit hohem Burst |
-| **Schneespaltende Klinge** | Stagger aufbauen für Extra-Schaden |
+| **Schnee-trennende Klinge** | Stagger aufbauen für Extra-Schaden |
 
 ---
 

@@ -23,8 +23,8 @@ Eingeführt mit **Patch 1.5 "As Snow Falls"** – die Liangzhou-Wüstenregion.
 
 | Waffe | Begründung |
 |-------|-----------|
-| **Schneespaltende Klinge** ⭐ | Stagger gegen schnelle Angriffe – perfekt für Parier-Konter |
-| **Tintenfässchen-Fächer** | Sicherer Fernkampf gegen ihre Nahkampf-Angriffe |
+| **Schnee-trennende Klinge** ⭐ | Stagger gegen schnelle Angriffe – perfekt für Parier-Konter |
+| **Tintenfass-Fächer** | Sicherer Fernkampf gegen ihre Nahkampf-Angriffe |
 | **Panacea Fan** | Heilung während der langen Blitzsturm-Phasen |
 
 ---

@@ -46,7 +46,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🧵 Silkbind – Deluge (Heiler)
 
-### Allheilmittel-Fächer (Panacea Fan)
+### Allheil-Fächer (Panacea Fan)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -66,7 +66,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🧵 Silkbind – Jade (Fernkampf-DPS)
 
-### Tintenfässchen-Fächer (Inkwell Fan)
+### Tintenfass-Fächer (Inkwell Fan)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -77,7 +77,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 | *Lingering Bone Mark* | Ressource | Markierungen auf Gegnern für Extra-Schaden | – |
 | *Riding the Wind* | Ressource | Mobilität für Luft-Kombos | – |
 
-### Frühlings-Schirm (Vernal Umbrella)
+### Frühlingsschirm (Vernal Umbrella)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -88,7 +88,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🎋 Bamboocut – Wind (Burst-DPS)
 
-### Inferno-Zwillingsklingen (Infernal Twinblades)
+### Höllische Zwillingsklingen (Infernal Twinblades)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -97,7 +97,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 | **Flamelash ⭐** | **Ultimate/Burst** | Verwandlung: verstärkte Angriffe + Lebensraub | ? |
 | *Blazing Wrath* | Ressource | Füllt sich bei aggressiven Aktionen → aktiviert Flamelash | – |
 
-### Sterblicher Seilpfeil (Mortal Rope Dart)
+### Tödlicher Seilpfeil (Mortal Rope Dart)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -108,7 +108,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🎋 Bamboocut – Dust (AoE-Kontrolle)
 
-### Immerquell-Schirm (Everspring Umbrella)
+### Ewiger-Frühlings-Schirm (Everspring Umbrella)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -116,7 +116,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 | **Cyclone Waltz** | Aktiv (AoE) | Großer AoE-Wirbel | ? |
 | **Dreamwrought Bubbles** | Aktiv (Charge) | Aufgeladener AoE-Angriff | ? |
 
-### Ungezügelter Seilpfeil (Unfettered Rope Dart)
+### Ungebundener Seilpfeil (Unfettered Rope Dart)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -127,7 +127,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🪨 Stonesplit – Might (Tank)
 
-### Sturmbringer-Speer (Stormbreaker Spear)
+### Sturmbrecher-Speer (Stormbreaker Spear)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -136,7 +136,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 | **Fury Spear** | Aktiv (Charge) | Aufgeladener Stoßangriff mit "Drumbeat"-Buff | ? |
 | *Fighting Spirit* | Ressource | Wird durch Blocken/Taunt aufgeladen | – |
 
-### Donnerschrei-Klinge (Thundercry Blade)
+### Donnerklage-Klinge (Thundercry Blade)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -149,7 +149,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 
 ## 🪨 Stonesplit – Strength (Stagger-DPS)
 
-### Schneespaltende Klinge (Snowparting Blade) ⭐ Meta
+### Schnee-trennende Klinge (Snowparting Blade) ⭐ Meta
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|
@@ -160,7 +160,7 @@ Alle bekannten Skills pro Waffe, sortiert nach Kampfkunst-Pfad.
 | *Blade Momentum* | Ressource | Baut sich durch Paraden und Angriffe auf | – |
 | *Inner Passion* | Buff | Verstärkter Zustand für erhöhten Schaden | – |
 
-### Phalanxbrecher-Klinge (Phalanxbane Blade)
+### Phalanx-Brecher-Klinge (Phalanxbane Blade)
 
 | Skill | Typ | Beschreibung | CD |
 |-------|:---:|-------------|:--:|

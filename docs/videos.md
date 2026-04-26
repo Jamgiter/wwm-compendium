@@ -142,7 +142,7 @@ Waffen, Gear-Sets, Innere Kampfkünste, Mystic Arts und Solo-Tipps für Blutungs
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/t8zfWr0KJA4" frameborder="0" allowfullscreen></iframe>
 
-High-End-Meta-Guide für Schneespaltende Klinge & Mo Blade. Skills, Rotationen, Stats, Gear, Consumables.
+High-End-Meta-Guide für Schnee-trennende Klinge & Mo Blade. Skills, Rotationen, Stats, Gear, Consumables.
 
 ---
 

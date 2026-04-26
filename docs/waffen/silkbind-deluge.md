@@ -6,7 +6,7 @@ Der einzige spezialisierte Heil-Pfad in Where Winds Meet. Unverzichtbar für Gru
 
 ---
 
-## Allheilmittel-Fächer (Panacea Fan) ⭐ Heiler #1
+## Allheil-Fächer (Panacea Fan) ⭐ Heiler #1
 
 | Eigenschaft | Details |
 |------------|---------|

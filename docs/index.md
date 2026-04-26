@@ -14,7 +14,7 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">⚔️ Waffen</h3>
-<p>Alle 14 Waffen in 7 Kampfkunst-Pfaden mit Skills, Stärken & Schwächen.</p>
+<p>Alle 16 Waffen in 7 Kampfkunst-Pfaden mit Skills, Stärken & Schwächen.</p>
 <a href="/wwm-compendium/waffen/">Zu den Waffen →</a>
 </div>
 
@@ -74,7 +74,7 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 
 Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 
-- [x] Waffen-Grundlagen (14 Waffen, 7 Pfade)
+- [x] Waffen-Grundlagen (16 Waffen, 7 Pfade)
 - [x] Pfade + Innere Kampfkünste
 - [x] Ausrüstungs-Sets & Optimierung
 - [x] Boss-Guides (14 Story + 20+ Weltbosse)

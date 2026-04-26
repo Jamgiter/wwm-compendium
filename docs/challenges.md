@@ -38,7 +38,7 @@ Ein harter Einzelkampf gegen einen geschickten Mönch. Setzt auf schnelle Kombos
 **Taktik:**
 - **Paraden** sind der Schlüssel – seine Angriffe sind schnell, aber alle parierbar
 - Nach seinen 3-Schlag-Kombos gibt es ein großes Konter-Fenster
-- Empfohlene Waffen: **[Schneespaltende Klinge](./waffen/stonesplit-strength)** (Stagger) oder **[Tintenfässchen-Fächer](./waffen/silkbind-jade)** (Fernkampf)
+- Empfohlene Waffen: **[Schnee-trennende Klinge](./waffen/stonesplit-strength)** (Stagger) oder **[Tintenfass-Fächer](./waffen/silkbind-jade)** (Fernkampf)
 
 ---
 
@@ -53,7 +53,7 @@ Ein harter Einzelkampf gegen einen geschickten Mönch. Setzt auf schnelle Kombos
 Ein klassischer Wellenkampf: 10 Wellen mit steigendem Schwierigkeitsgrad.
 
 **Taktik:**
-- **AoE-Waffen** sind hier extrem wertvoll – **[Immerquell-Schirm](./waffen/bamboocut-dust)** oder **Inferno-Zwillingsklingen**
+- **AoE-Waffen** sind hier extrem wertvoll – **[Ewiger-Frühlings-Schirm](./waffen/bamboocut-dust)** oder **Höllische Zwillingsklingen**
 - Zwischen den Wellen kurz heilen und Buffs auffrischen
 - Ab Welle 7 kommen Elite-Gegner → dann auf Einzelziel-Fokus umschalten
 
@@ -71,7 +71,7 @@ Ein Duell gegen einen Schwertmeister. Reines 1v1 – keine Abkürzungen.
 
 **Taktik:**
 - **Nur Paraden zählen** – Ausweichen ist sekundär
-- **[Schneespaltende Klinge](./waffen/stonesplit-strength)** ist die beste Wahl – Parade-Schaden + Stagger
+- **[Schnee-trennende Klinge](./waffen/stonesplit-strength)** ist die beste Wahl – Parade-Schaden + Stagger
 - Der Boss hat zwei Phasen: In Phase 2 werden seine Angriffe schneller
 - **Meridian Touch** bereithalten, um seine Ultimate-Attacke zu unterbrechen
 
@@ -82,7 +82,7 @@ Ein Duell gegen einen Schwertmeister. Reines 1v1 – keine Abkürzungen.
 1. **Max-Level sein** – Challenges sind nicht zum Leveln da
 2. **Ausrüstung optimieren** – Richtige Sets + Affixe machen den Unterschied (siehe [Ausrüstung](./ausruestung))
 3. **Verbrauchsgüter einpacken** – 3× Heilungs-Pillen + Buffs sind Pflicht
-4. **Schneespaltende Klinge** ist die #1-Waffe für die meisten Challenges
+4. **Schnee-trennende Klinge** ist die #1-Waffe für die meisten Challenges
 5. **Panacea Fan als Sekundär** – Heilung in langen Kämpfen
 6. **Nicht aufgeben** – Die Challenges sind designed, um dich zu fordern. Jeder Versuch lehrt dich die Muster!
 
