@@ -52,6 +52,36 @@ Die richtigen Substats auf deiner Waffe sind entscheidend. Hier die wichtigsten 
 | **LP** | 神力-生命 | +X% Maximale HP | ★★★ (Tank) |
 | **Parade-Schaden** | 神力-招架 | +X% Parade-Schaden | ★★★ (Sustain) |
 
+### Allgemeine Top-Affixe (fast überall gut)
+- **Max Physical Attack** (Höchster physischer Angriff)
+- **Power** (Macht)
+- **Affinity Rate** (Affinitätsrate)
+- **Physical Penetration** (Physische Durchdringung)
+- **Agility** (für Crit Rate)
+- **Max HP** / **Defense** (für Sustain)
+
+> ❌ **Vermeide** **Min Attack**-Rolls, wenn möglich.
+
+### Beste Affixe pro Pfad
+
+| Pfad / Waffentyp | Beispiele | Beste Affixe (Priorität) | Attunement | Hinweis |
+|:-----------------|:----------|:-------------------------|:-----------|:--------|
+| **Bellstrike-Splendor** | Nameless Sword / Spear | Max Bellstrike Attack, Power, Max Physical Attack, Affinity Rate, Precision Rate | Bellstrike-Splendor | Affinity-Build → Max Attack priorisieren |
+| **Bellstrike-Umbra** | Strategic Sword / Heavenquaker | Max Bellstrike Attack, Max Physical Attack, Affinity Rate, Physical Penetration, Momentum | Bellstrike-Umbra | Bleed/Burst – sehr stark aktuell |
+| **Stonesplit-Might** | Stormbreaker Spear / Thundercry Blade | Max Stonesplit Attack, Power, Max HP, Physical Defense, Stagger | Stonesplit-Might | Tank/AoE – viel Defense & HP |
+| **Stonesplit-Strength** | Snowparting Blade / Phalanxbane | Max Stonesplit Attack, Precision, Critical Rate, Physical Penetration | Stonesplit-Strength | Single-Target Stagger |
+| **Silkbind-Jade** | Inkwell Fan / Vernal Umbrella | Max Silkbind Attack, Agility, Affinity Rate, Critical Rate, Max Physical Attack | Silkbind-Jade | Ranged DPS – viel Crit & Agility |
+| **Silkbind-Deluge** | Panacea Fan / Soulshade Umbrella | Max Silkbind Attack, Max HP, Healing Bonus, Defense, Agility | Silkbind-Deluge | Healer – Healing + Sustain |
+| **Bamboocut-Wind** | Infernal Twinblades / Mortal Rope Dart | Max Bamboocut Attack, Agility, Critical Rate, Physical Penetration, Affinity Rate | Bamboocut-Wind | Assassin/Mobility – hohe Crit |
+| **Bamboocut-Dust** | Everspring Umbrella / Unfettered Rope Dart | Max Bamboocut Attack, Affinity Rate, Control Duration, Max Physical Attack | Bamboocut-Dust | AoE/Control |
+
+### Tipps zum Abstimmen
+- **Recommended Attributes checken** – im Martial Arts Talent-Menü zeigt das Spiel dir genau, was dein Build braucht.
+- **Guaranteed Gold/Legendary Material** (geopferte Ausrüstung) für die wichtigen Slots nutzen.
+- **Attunement** (letzter Slot) immer auf deinen **Hauptpfad** setzen → gibt den stärksten Bonus.
+- Für **Hybrid-Builds** (z. B. Fan + Schirm) die Affixe beider Pfade mischen.
+- **Zielwerte:** ~100 % Precision Rate, 50–70 %+ Crit Rate, hohes Max Attack.
+
 ---
 
 ## 🔧 Tuning-System (调律)
