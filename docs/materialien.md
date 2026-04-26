@@ -7,13 +7,28 @@
 
 ## 💰 Währungen
 
-| Währung | Verwendung | Quelle |
-|---------|-----------|--------|
-| **长铸 Lang Zhu (Longboon)** 🔵 | Hauptwährung – Waffen, Rüstung, Skills | Quests, Verkauf, Events |
-| **铜钱 Tongqian (Kupfer)** 🟡 | Verbrauchsgüter, Materialien, Tränke | Drops, Truhen, Verkauf |
-| **Ansehenspunkte** ⭐ | Regionale Händler freischalten | Nebenquests, Gebietsaktivitäten |
-| **Challenge-Tokens** 💎 | Challenge-Belohnungs-Händler | Herausforderungen in Liangzhou |
-| **Spezial-Tokens** 🏅 | Seltene/versteckte Händler | Bosse, Events |
+In Where Winds Meet gibt es **ca. 12 Haupt-Währungen** – von der simplen Münze bis zur Premium-Perle. Alle findest du im **Geldbeutel (Money Bag)**.
+
+| Deutsch (gängig) | Englisch | Wöchentl. Limit | Hauptverwendung |
+|:-----------------|:---------|:---------------:|:----------------|
+| **Münze / Tong Bao** (Zhou & Song) | Coin (Zhou / Song) | ~175.500 | Allgemeine Käufe, Ausrüstung-Upgrades, tägliche Ausgaben |
+| **Echo-Jade** 🟢 | Echo Jade | ❌ Kein Limit | Innere Wege, Mystic Skills, Activity Shop, Kosmetik, Tuning |
+| **Jade-Fisch** 🐟 | Jade Fish | 20.000 | Activity Shop (Materialien, Development, Breakthroughs) |
+| **Handelsmünze** 🪙 | Commerce Coin | ❌ Kein Limit | Mini-Spiele (Pitch-Pot, Mahjong), Straßenverkäufer, Feng's Tradhall |
+| **Schatzgeld** 💎 | Treasure Money | ❌ Kein Limit | Ghost Market & Gold-Selling Cave (Premium-Kosmetik ohne Echtgeld) |
+| **Jianghu-Ruf** ⭐ | Jianghu Reputation | 1.200 | Sekten-Shop (Kosmetik, Housing) |
+| **Vier-Meere-Brief / Abenteuer-Slip** 📜 | Adventure Slip / Four Seas Letters | 1.000 | Four Seas Shop (Kosmetik, Housing) |
+| **Vierfach-Münze** 🔶 | Fourfold Coins | 1.500 | Bounty Shop (Kosmetik, Housing) |
+| **Harmonie-Amulett / Harmonie-Münze** 🤝 | Harmony Charm / Harmony Coin | 2.000 | Brotherhood Shop (Kosmetik, Housing) |
+| **Hundert-Handel-Schatzmünze** 🏪 | Hundred Trades Treasure Coins | 2.500 | Karriere-Shop (Kosmetik, Housing) |
+| **Battle-Pass-Münze** 🎫 | Battle Pass Coin | ❌ Kein Limit (XP-Cap) | Battle Pass Shop (Kosmetik, Belohnungen) |
+| **Echo-Perle / Changming-Perle** 🔮 | Echo Bead / Pearl | ❌ Kein Limit | Premium-Währung (Echtgeld) – Pulls, Kosmetik, alles |
+
+### Kurzfassung
+- **Grundwährung:** Münze (Coin) – bekommst du überall.
+- **Wichtig für Progression:** Echo-Jade + Jade-Fisch.
+- **Premium:** Echo-Perle (kaufbar).
+- **Aktivitäts-spezifisch:** Reputation, Harmony, Fourfold etc. für Kosmetik und Housing.
 
 ---
 
