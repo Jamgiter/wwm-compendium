@@ -40,6 +40,7 @@ export default defineConfig({
         text: 'Info',
         items: [
           { text: 'FAQ', link: '/faq' },
+          { text: 'Mini-Spiele', link: '/minispiele' },
           { text: 'Karten', link: '/karten' },
           { text: 'Glossar', link: '/glossar' },
           { text: 'Videos', link: '/videos' },
