@@ -9,7 +9,7 @@ Alles zu Pferden in **Where Winds Meet** – von der Zähmung über Ausrüstung 
 
 Nicht jedes Pferd ist gleich! Es gibt verschiedene Rassen mit unterschiedlichen Werten:
 
-| Pferd | Geschwindigkeit | Ausdauer | Bindung | Besonderheit | Fundort |
+| Pferd | Tempo | Ausdauer | Bindung | Besonderheit | Fundort |
 |:-----|:---------------:|:--------:|:-------:|-------------|---------|
 | **Wildpferd** ⬜ | ⭐⭐ | ⭐⭐ | ⭐ | Standard, überall zu finden | Alle Regionen |
 | **Reitpferd** 🟩 | ⭐⭐⭐ | ⭐⭐ | ⭐⭐ | Solides Allround-Tier | Pferderanches |
