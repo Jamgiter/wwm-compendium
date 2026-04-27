@@ -46,7 +46,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 
 ---
 
-## Tier-Liste (Stand April 2026)
+## Tier-Liste (Stand April 2026) {#tier-liste}
 
 > Basierend auf Community-Einschätzungen nach Patch 1.5 "As Snow Falls"
 
