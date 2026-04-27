@@ -91,6 +91,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🏰 Außenposten</h3>
+<p>Feindliche Lager & Festungen – einmalige Belohnungen (Sets, Waffen, Echo-Jade) und wiederholbares Farming für 20 Energy.</p>
+<a href="/wwm-compendium/aussenposten">Zu den Außenposten →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">📖 Kompendium</h3>
 <p>Das Ingame-Kompendium – 16 Kategorien, Punkte-System, Meilenstein-Belohnungen und Tipps für 100%.</p>
 <a href="/wwm-compendium/kompendium">Zum Kompendium →</a>
@@ -144,6 +150,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Mystische Künste (Mystic Arts – Meridian Touch, Wallstride, Contortion uvm.)
 - [x] Innere Wege (37 Pfade, Mentaltechniken, Recycling, Builds)
 - [x] Täglicher & wöchentlicher Guide (Prioritäten nach Spielphase)
+- [x] Außenposten (Outposts) – Standorte & Belohnungen
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
