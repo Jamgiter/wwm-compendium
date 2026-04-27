@@ -337,11 +337,11 @@ body:not(.dark):has(.VPContent .vp-doc h1:first-child)::before {
   }
 }
 
-/* ---- Footer-Logo ---- */
-.footer-logo {
+/* ---- Footer-Logo (zentriert) ---- */
+.footer-logo-centered {
+  display: block;
+  margin: 4px auto 0;
   height: 24px;
   width: auto;
-  vertical-align: middle;
-  margin-right: 4px;
   border-radius: 4px;
 }
