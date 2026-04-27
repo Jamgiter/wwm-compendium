@@ -124,7 +124,7 @@ export default defineConfig({
 
     footer: {
       message: 'Fan-Projekt zu Where Winds Meet von NetEase | <a href="/wwm-compendium/impressum">Impressum & Datenschutz</a>',
-      copyright: '<img src="/wwm-compendium/jmlog90ro.gif" alt="Logo" class="footer-logo"> Design & Creator J.Muck — DS v4 | Hermes Agent',
+      copyright: 'Design & Creator J.Muck <img src="/wwm-compendium/jmlog90ro.gif" alt="Logo" class="footer-logo"> — DS v4 | Hermes Agent',
     },
 
     search: {
