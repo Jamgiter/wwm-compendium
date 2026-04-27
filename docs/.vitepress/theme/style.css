@@ -336,3 +336,12 @@ body:not(.dark):has(.VPContent .vp-doc h1:first-child)::before {
     flex-direction: column;
   }
 }
+
+/* ---- Footer-Logo ---- */
+.footer-logo {
+  height: 24px;
+  width: auto;
+  vertical-align: middle;
+  margin-right: 4px;
+  border-radius: 4px;
+}
