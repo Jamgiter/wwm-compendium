@@ -126,6 +126,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/daily-guide">Zum Täglichen →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🗺️ Seitenverwaltung</h3>
+<p>Alle ~45 Seiten des Wikis auf einen Blick – Waffen, Bosse, Items, Systeme und mehr.</p>
+<a href="/wwm-compendium/seitenverwaltung">Zur Seitenverwaltung →</a>
+</div>
+
 </div>
 
 ---
@@ -158,6 +164,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Täglicher & wöchentlicher Guide (Prioritäten nach Spielphase)
 - [x] Außenposten (Outposts) – Standorte & Belohnungen
 - [x] Hexi-Guide – Regionsübersicht, Mechaniken & Prioritäten
+- [x] Seitenverwaltung – Alle Seiten auf einen Blick
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

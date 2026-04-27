@@ -46,6 +46,7 @@ export default defineConfig({
         text: 'Info',
         items: [
           { text: 'FAQ', link: '/faq' },
+          { text: 'Seitenverwaltung', link: '/seitenverwaltung' },
           { text: 'Hexi-Guide', link: '/hexi' },
           { text: 'Mini-Spiele', link: '/minispiele' },
           { text: 'Karten', link: '/karten' },
