@@ -97,6 +97,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🏜️ Hexi-Guide</h3>
+<p>Die Wüstenregion – Regionen, neue Mechaniken, Prioritäten, Bosse, NPCs und Waffen der neuesten Erweiterung.</p>
+<a href="/wwm-compendium/hexi">Zum Hexi-Guide →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">📖 Kompendium</h3>
 <p>Das Ingame-Kompendium – 16 Kategorien, Punkte-System, Meilenstein-Belohnungen und Tipps für 100%.</p>
 <a href="/wwm-compendium/kompendium">Zum Kompendium →</a>
@@ -151,6 +157,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Innere Wege (37 Pfade, Mentaltechniken, Recycling, Builds)
 - [x] Täglicher & wöchentlicher Guide (Prioritäten nach Spielphase)
 - [x] Außenposten (Outposts) – Standorte & Belohnungen
+- [x] Hexi-Guide – Regionsübersicht, Mechaniken & Prioritäten
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
