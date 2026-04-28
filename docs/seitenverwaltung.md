@@ -77,6 +77,8 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | [Materialien](./materialien) | Währungen, Crafting, Tuning, Tränke, Skill-Items |
 | [Händler](./haendler) | NPC-Händler & Materialien pro Region |
 | [Housing](./housing) | Bauen, Mieten, Blueprints, NPCs, Produktion |
+| [Berufe](./berufe) | Handwerk & Heilung – Crafting, Heiler-Beruf, Combat-Healing |
+| [Essen](./essen) | Buff-Food, Recovery & Sammel-Buffs – die besten Rezepte |
 
 ### 🏛️ Sekten & Soziales
 | Seite | Beschreibung |
@@ -110,11 +112,11 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 
 | Kennzahl | Wert |
 |:---------|:----:|
-| **Seiten gesamt** | ~45 |
+| **Seiten gesamt** | ~47 |
 | **Waffen-Guides** | 8 Pfade |
 | **Boss-Guides** | 14 Story + 4 Weltboss-Regionen + Mini-Bosse |
 | **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou |
-| **Letztes Update** | 27. April 2026 |
+| **Letztes Update** | 28. April 2026 |
 
 ---
 
