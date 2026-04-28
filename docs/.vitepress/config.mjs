@@ -41,6 +41,7 @@ export default defineConfig({
           { text: 'Materialien', link: '/materialien' },
           { text: 'Housing', link: '/housing' },
           { text: 'Berufe', link: '/berufe' },
+          { text: 'Essen', link: '/essen' },
         ],
       },
       {

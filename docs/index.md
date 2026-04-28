@@ -138,6 +138,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/berufe">Zu den Berufen →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🍲 Essen</h3>
+<p>Buff-Food, Recovery-Essen und Sammel-Buffs – die besten Rezepte, Zutaten und Tipps f&uuml;r maximale Stats.</p>
+<a href="/wwm-compendium/essen">Zu Essen →</a>
+</div>
+
 </div>
 
 ---
@@ -172,6 +178,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Hexi-Guide – Regionsübersicht, Mechaniken & Prioritäten
 - [x] Seitenverwaltung – Alle Seiten auf einen Blick
 - [x] Berufe (Handwerk & Heilung) – Crafting, Heiler-Beruf & Combat-Healing
+- [x] Essen (Cooking) – Buff-Food, Recovery & Sammel-Buffs
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
