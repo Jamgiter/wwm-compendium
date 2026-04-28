@@ -132,6 +132,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <a href="/wwm-compendium/seitenverwaltung">Zur Seitenverwaltung →</a>
 </div>
 
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🛠️ Berufe</h3>
+<p>Handwerk &amp; Heilung – Crafting-Stationen, Heiler-Beruf, Heiltränke und Combat-Healing für Support-Builds.</p>
+<a href="/wwm-compendium/berufe">Zu den Berufen →</a>
+</div>
+
 </div>
 
 ---
@@ -165,6 +171,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Außenposten (Outposts) – Standorte & Belohnungen
 - [x] Hexi-Guide – Regionsübersicht, Mechaniken & Prioritäten
 - [x] Seitenverwaltung – Alle Seiten auf einen Blick
+- [x] Berufe (Handwerk & Heilung) – Crafting, Heiler-Beruf & Combat-Healing
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

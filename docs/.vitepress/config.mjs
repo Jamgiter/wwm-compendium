@@ -40,6 +40,7 @@ export default defineConfig({
           { text: 'Reittiere', link: '/pferde' },
           { text: 'Materialien', link: '/materialien' },
           { text: 'Housing', link: '/housing' },
+          { text: 'Berufe', link: '/berufe' },
         ],
       },
       {
