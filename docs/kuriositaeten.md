@@ -50,51 +50,25 @@ In Qinghe gibt es **5 Arten** mit mehreren Fundorten pro Art (insgesamt **ca. 30
 
 ## 🏯 Regionale Kuriositäten (Kaifeng)
 
-Auch in Kaifeng gibt es **5 Arten** mit eigenen Minispiel-Mechaniken (strukturell ähnlich zu Qinghe, aber regionsspezifische Fundorte).
+Auch in Kaifeng gibt es **5 Arten** mit eigenen Minispiel-Mechaniken (insgesamt **ca. 55–65 Stück**):
 
-| Deutsche Übersetzung | Englischer Name | Sammelmethode | Fundort-Tipps |
-|:--------------------|:----------------|:--------------|:--------------|
-| **Donnermarder** 🐾 | Thunder Mink / Lightning Sable | Bei **Gewitter** den Donnerköder (Thunder Attractor) einsetzen – der Marder erscheint und muss gefangen werden | Östliche Klippen von Kaifeng-Stadt, nur bei Blitz und Regen |
-| **Irrlicht** 🔥 | Ghost Flame / Will-o'-Wisp | Nachts auf Friedhöfen Laternen in **bestimmter Reihenfolge** anzünden → das Irrlicht erscheint | Grab des unbekannten Gelehrten (südlich der Stadt) |
-| **Steinaffe** 🐒 | Stone Monkey / Rock Ape | **Steintafel-Memory-Spiel** lösen – richtige Reihenfolge der Symbole finden | Steingarten (Stone Forest) östlich der Stadt, nahe Dragon's Gate |
-| **Phantomfalter** 🦋 | Illusion Butterfly / Mirage Butterfly | In der **Morgendämmerung** am nebligen See mit dem **Kescher** fangen | Westsee (West Lake), Schwebender Pavillon (Floating Pavilion) |
-| **Jade-Tausendfüßler** 🐛 | Jade Centipede | **Vibrationsgerät** auf rissigem Boden einsetzen – der Tausendfüßler gräbt sich an die Oberfläche | Verlassener Jadesteinbruch (Abandoned Jade Quarry), nordwestliche Minen |
+| Deutsch (gängig) | Englisch | Sammelmethode | Häufigkeit / Tipp |
+|:-----------------|:---------|:--------------|:-------------------|
+| **Mondstrahl-Kröte** 🐸 | Moonbeam Toad | Goldene Kröte, die schnell weghüpft – mit **Lightness**-Skill verfolgen und einfangen | Feuchte Gebiete, oft in der Nähe von Wasser |
+| **Mitternachtsnager** 🐀 | Midnight Nibbler | Große Ratte in Kisten, Stein- oder Tonhaufen versteckt – Haufen zerstören und jagen | Häufig in Städten und Ruinen |
+| **Herzberuhigender Zweig** 🌿 | Heartsoothe Twig / Osmanthus Twig | Vögel fliegen mit glitzernden Zweigen im Kreis – mit **Pfeil** abschießen | Überall in der Luft beobachten |
+| **Schwalbennest** 🪺 | Swallow's Rest | Nester auf Dächern, Bäumen oder hohen Gebäuden – hochklettern und interagieren | Hoch gelegene Orte |
+| **Donnerflaum** ☁️ | Thunder Fluff | Fluffige Wesen, die bei Annäherung fliehen oder spezielle Geräusche machen | Offene Felder und Gärten |
 
-> **Hinweis:** Die Minispiele in Kaifeng sind aufwändiger als in Qinghe – besonders **Donnermarder** und **Irrlicht** sind wetter-/zeitabhängig. Am besten zuerst die **Mystery of Five Tones**-Quest starten (siehe unten), um zu wissen, welche Arten du brauchst.
+> **Tipp:** Es gibt auch einige spezielle/tiny Oddities (z. B. Elusive Nightshade). YouTube-Guides listen alle Locations detailliert auf.
 
 ### NPC-Sammler (Kaifeng)
 
 | NPC | Ort | Hinweis |
 |:----|:----|:--------|
-| **Bai Ji** (百机) | Zuerst am **Südtor von Kaifeng** (nach Erreichen eines bestimmten Ruf-Levels), später im **Palace of Supreme Oneness** (Nordwesten) | Kleine Einführungsquest nötig – er bittet dich, eine Ratte zu fangen |
+| **Bai Ji** (百机) | **Nordwestecke von Kaifeng City**, nahe **Palace of Supreme Oneness** | Kleine Einführungsquest nötig |
 
-**Wichtig:** Für den vollen Handel mit Bai Ji und die Freischaltung aller Melodies of Peace-Boni in Kaifeng musst du die Quest **„Oddity: Mystery of Five Tones“** abschließen.
-
-### Walkthrough: Mystery of Five Tones (五音之谜)
-
-Die **Mystery of Five Tones** ist eine optionale Questreihe in Kaifeng, mit der du alle 5 Kuriositäten-Arten sammelst und besondere Belohnungen freischaltest.
-
-| Schritt | Beschreibung |
-|:--------|:-------------|
-| **1. Bai Ji finden** | Am **Südtor von Kaifeng** – sprich ihn an, nachdem du genug Ruf gesammelt hast |
-| **2. Erste Kuriosität abgeben** | Gib eine beliebige Kaifeng-Kuriosität ab → Bai Ji erwähnt die Legende der **Fünf Töne** (宫商角徵羽) |
-| **3. Alle 5 Arten sammeln** | Donnermarder, Irrlicht, Steinaffe, Phantomfalter & Jade-Tausendfüßler – jede Art einmal bei Bai Ji abgeben |
-| **4. Fünf-Töne-Ritual** | Bai Ji gibt dir einen **„Five Tones Token“** und nennt dir **5 Orte** in Kaifeng, an denen du die Töne spielen kannst |
-| **5. Orte besuchen** | Jeden Ort mit dem Token aufsuchen und interagieren: |
-| | 🏯 **Glockenturm (Bell Tower)** – Gong-Ton (宫) |
-| | 🥁 **Trommelturm (Drum Tower)** – Shang-Ton (商) |
-| | 🐉 **Phönix-Pavillon (Phoenix Pavilion)** – Jue-Ton (角) |
-| | 🌙 **Mondtor (Moon Gate)** – Zhi-Ton (徵) |
-| | 📚 **Kaiserliche Akademie (Imperial Academy)** – Yu-Ton (羽) |
-| **6. Rückkehr zu Bai Ji** | Nach allen 5 Orten: Belohnung erhalten |
-
-**Belohnungen:**
-- Titel **„Meister der Fünf Töne“** (Master of Five Tones)
-- Einzigartiges **Kostüm**
-- Dauerhafter **Stat-Boost** für Kaifeng-Region
-- Vollständiger Zugang zu **Bai Jis Melodies of Peace-Baum**
-
-> **Tipp:** Sammle die Oddities nicht wahllos – hebe dir für das Ritual je eine von jeder Art auf, sonst musst du nochmal nachsammeln!
+**Wichtig:** Für den vollen Handel mit Bai Ji und die Freischaltung aller Melodies of Peace-Boni in Kaifeng musst du die passende Quest abschließen.
 
 ---
 
