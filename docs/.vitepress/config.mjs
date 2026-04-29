@@ -125,7 +125,7 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Fan-Projekt zu Where Winds Meet von NetEase | <a href="/impressum">Impressum & Datenschutz</a>',
+      message: 'Fan-Projekt zu Where Winds Meet von NetEase | <a href="/impressum">Impressum &amp; Datenschutz</a> | <a href="https://jamgrid.de">jamgrid.de</a>',
       copyright: 'Design & Creator J.Muck — DS v4 | Hermes Agent<br><img src="/jmlogo.jpg" alt="Logo" class="footer-logo-centered">',
     },
 
