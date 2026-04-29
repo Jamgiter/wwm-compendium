@@ -267,7 +267,7 @@ body:not(.dark):has(.VPContent .vp-doc h1:first-child)::before {
   height: 100vh;
   background: 
     linear-gradient(180deg, rgba(250,246,240,0.85) 0%, rgba(250,246,240,0.50) 50%, rgba(250,246,240,0.85) 100%),
-    url('/wwm-compendium/wwm-bg-light.png') center center / cover no-repeat;
+    url('/wwm-bg-light.png') center center / cover no-repeat;
   z-index: -1;
   pointer-events: none;
 }
@@ -286,7 +286,7 @@ body:not(.dark):has(.VPContent .vp-doc h1:first-child)::before {
   height: 100vh;
   background: 
     linear-gradient(180deg, rgba(13,13,18,0.75) 0%, rgba(13,13,18,0.50) 50%, rgba(13,13,18,0.75) 100%),
-    url('/wwm-compendium/wwm-bg.png') center center / cover no-repeat;
+    url('/wwm-bg.png') center center / cover no-repeat;
   z-index: -1;
   pointer-events: none;
 }

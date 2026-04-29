@@ -122,4 +122,4 @@ Dein Pferd braucht Aufmerksamkeit:
 
 ---
 
-> 🔄 **Diese Seite wird erweitert** – exakte Fundorte für legendäre Pferde, Stats und detaillierte Zähmungs-Tipps folgen. Hinweise gerne per [GitHub-Issue](https://github.com/Jamgiter/wwm-compendium/issues/new)!
+> 🔄 **Diese Seite wird erweitert** – exakte Fundorte für legendäre Pferde, Stats und detaillierte Zähmungs-Tipps folgen. Hinweise gerne per [GitHub-Issue](https://github.com/Jamgiter/issues/new)!

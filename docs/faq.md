@@ -169,4 +169,4 @@ Der **Tuning-Händler in Kaifeng** verkauft sie, aber:
 
 ---
 
-> 🔄 **Noch offene Fragen?** Schreib uns ein [GitHub-Issue](https://github.com/Jamgiter/wwm-compendium/issues/new) – wir ergänzen das FAQ regelmäßig!
+> 🔄 **Noch offene Fragen?** Schreib uns ein [GitHub-Issue](https://github.com/Jamgiter/issues/new) – wir ergänzen das FAQ regelmäßig!

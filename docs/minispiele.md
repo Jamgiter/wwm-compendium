@@ -170,4 +170,4 @@ Tarn- und Schleicht-Minigame.
 
 ---
 
-> 🔄 **Diese Seite wächst mit der Community** – wenn du ein neues Minigame entdeckst oder detailliertere Tipps hast, melde dich per [GitHub-Issue](https://github.com/Jamgiter/wwm-compendium/issues/new)!
+> 🔄 **Diese Seite wächst mit der Community** – wenn du ein neues Minigame entdeckst oder detailliertere Tipps hast, melde dich per [GitHub-Issue](https://github.com/Jamgiter/issues/new)!

@@ -5,10 +5,10 @@ export default defineConfig({
   appearance: 'dark',
   description: 'Where Winds Meet – Waffen-Guides, Boss-Strategien & Pfad-Optimierung',
   lang: 'de-DE',
-  base: '/wwm-compendium/',
+  base: '/',
 
   themeConfig: {
-    logo: '/wwm-compendium/logo.svg',
+    logo: '/logo.svg',
 
     nav: [
       { text: 'Start', link: '/' },
@@ -125,8 +125,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: 'Fan-Projekt zu Where Winds Meet von NetEase | <a href="/wwm-compendium/impressum">Impressum & Datenschutz</a>',
-      copyright: 'Design & Creator J.Muck — DS v4 | Hermes Agent<br><img src="/wwm-compendium/jmlogo.jpg" alt="Logo" class="footer-logo-centered">',
+      message: 'Fan-Projekt zu Where Winds Meet von NetEase | <a href="/impressum">Impressum & Datenschutz</a>',
+      copyright: 'Design & Creator J.Muck — DS v4 | Hermes Agent<br><img src="/jmlogo.jpg" alt="Logo" class="footer-logo-centered">',
     },
 
     search: {

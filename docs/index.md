@@ -15,133 +15,133 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">⚔️ Waffen</h3>
 <p>Alle 16 Waffen in 7 Kampfkunst-Pfaden mit Skills, Stärken & Schwächen.</p>
-<a href="/wwm-compendium/waffen/">Zu den Waffen →</a>
+<a href="/waffen/">Zu den Waffen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏗️ Pfad-Planer</h3>
 <p>Welche Waffe für welchen Boss? Mit Boss-Matchups & Mystic-Arts-Ranking.</p>
-<a href="/wwm-compendium/builds">Zu den Pfaden →</a>
+<a href="/builds">Zu den Pfaden →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">⚙️ Ausrüstung</h3>
 <p>Sets, Affixe, Tuning-System, Verbrauchsgüter und Stat-Prioritäten.</p>
-<a href="/wwm-compendium/ausruestung">Zur Ausrüstung →</a>
+<a href="/ausruestung">Zur Ausrüstung →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">👹 Bosse</h3>
 <p>14 Story-Bosse + 20 Weltbosse mit Taktiken, Phasen & Waffen-Empfehlungen.</p>
-<a href="/wwm-compendium/bosses/">Zu den Bossen →</a>
+<a href="/bosses/">Zu den Bossen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">⚡ Herausforderungen</h3>
 <p>12 Liangzhou-Herausforderungen aus Patch 1.5 – Skinny Arhat, The Blade Awaits & mehr.</p>
-<a href="/wwm-compendium/challenges">Zu den Herausforderungen →</a>
+<a href="/challenges">Zu den Herausforderungen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">❓ FAQ</h3>
 <p>Schnelle Antworten auf die häufigsten Einsteiger-Fragen – Waffen, Systeme, Händler & mehr.</p>
-<a href="/wwm-compendium/faq">Zum FAQ →</a>
+<a href="/faq">Zum FAQ →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🧰 Materialien</h3>
 <p>Währungen, Erze, Kräuter, Tränke, Tuning-Mats, Skill-Items – was du wofür brauchst.</p>
-<a href="/wwm-compendium/materialien">Zu den Materialien →</a>
+<a href="/materialien">Zu den Materialien →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏺 Kuriositäten</h3>
 <p>Oddities, Melodies of Peace-Baum, regionale & spezielle Fundstücke und Belohnungen.</p>
-<a href="/wwm-compendium/kuriositaeten">Zu den Kuriositäten →</a>
+<a href="/kuriositaeten">Zu den Kuriositäten →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🐎 Reittiere</h3>
 <p>Pferde-Rassen, Zähmung, Zubehör, Kampf zu Pferd und Pflege – alles zu Reittieren.</p>
-<a href="/wwm-compendium/pferde">Zu den Reittieren →</a>
+<a href="/pferde">Zu den Reittieren →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🎮 Mini-Spiele</h3>
 <p>Bogenschießen, Schach, Mahjong, Ringkampf, Angeln, Dämonenglocken & viele mehr.</p>
-<a href="/wwm-compendium/minispiele">Zu den Mini-Spielen →</a>
+<a href="/minispiele">Zu den Mini-Spielen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">📜 Quests</h3>
 <p>Hauptstory, Campaigns, Jianghu Legacy & Exploration – alle wichtigen Quests pro Region.</p>
-<a href="/wwm-compendium/quests">Zu den Quests →</a>
+<a href="/quests">Zu den Quests →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏠 Housing</h3>
 <p>Bauen & Wohnen – Freischaltung, Baumodus, Materialien, Blueprints, Mieten, NPCs & Tipps.</p>
-<a href="/wwm-compendium/housing">Zu Housing →</a>
+<a href="/housing">Zu Housing →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏯 Sekten</h3>
 <p>Sekten & Soziales – alle beitretbaren Fraktionen, Beitritt, Ränge, Voting, Brotherhood & Empfehlungen.</p>
-<a href="/wwm-compendium/sekten">Zu den Sekten →</a>
+<a href="/sekten">Zu den Sekten →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏰 Außenposten</h3>
 <p>Feindliche Lager & Festungen – einmalige Belohnungen (Sets, Waffen, Echo-Jade) und wiederholbares Farming für 20 Energy.</p>
-<a href="/wwm-compendium/aussenposten">Zu den Außenposten →</a>
+<a href="/aussenposten">Zu den Außenposten →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏜️ Hexi-Guide</h3>
 <p>Die Wüstenregion – Regionen, neue Mechaniken, Prioritäten, Bosse, NPCs und Waffen der neuesten Erweiterung.</p>
-<a href="/wwm-compendium/hexi">Zum Hexi-Guide →</a>
+<a href="/hexi">Zum Hexi-Guide →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">📖 Kompendium</h3>
 <p>Das Ingame-Kompendium – 16 Kategorien, Punkte-System, Meilenstein-Belohnungen und Tipps für 100%.</p>
-<a href="/wwm-compendium/kompendium">Zum Kompendium →</a>
+<a href="/kompendium">Zum Kompendium →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">⚡ Mystische Künste</h3>
 <p>Mystic Arts – alle aktiven Fähigkeiten unabhängig von der Waffe: Meridian Touch, Guardian Palm, Wallstride, Contortion & mehr.</p>
-<a href="/wwm-compendium/mystische-kuenste">Zu den Mystischen Künsten →</a>
+<a href="/mystische-kuenste">Zu den Mystischen Künsten →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🧘 Innere Wege</h3>
 <p>Passives Talent-System – 37 Pfade, bis zu 4 gleichzeitig, Mentaltechniken, Recycling & Build-Empfehlungen.</p>
-<a href="/wwm-compendium/innere-wege">Zu den Inneren Wegen →</a>
+<a href="/innere-wege">Zu den Inneren Wegen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">📅 Tägliches</h3>
 <p>Tägliche & wöchentliche To-dos mit Prioritäten – Händler, Bosse, Tuning, Kuriositäten, Inner Way & mehr.</p>
-<a href="/wwm-compendium/daily-guide">Zum Täglichen →</a>
+<a href="/daily-guide">Zum Täglichen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🗺️ Seitenverwaltung</h3>
 <p>Alle ~45 Seiten des Wikis auf einen Blick – Waffen, Bosse, Items, Systeme und mehr.</p>
-<a href="/wwm-compendium/seitenverwaltung">Zur Seitenverwaltung →</a>
+<a href="/seitenverwaltung">Zur Seitenverwaltung →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🛠️ Berufe</h3>
 <p>Handwerk &amp; Heilung – Crafting-Stationen, Heiler-Beruf, Heiltränke und Combat-Healing für Support-Builds.</p>
-<a href="/wwm-compendium/berufe">Zu den Berufen →</a>
+<a href="/berufe">Zu den Berufen →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🍲 Essen</h3>
 <p>Buff-Food, Recovery-Essen und Sammel-Buffs – die besten Rezepte, Zutaten und Tipps f&uuml;r maximale Stats.</p>
-<a href="/wwm-compendium/essen">Zu Essen →</a>
+<a href="/essen">Zu Essen →</a>
 </div>
 
 </div>

@@ -59,4 +59,4 @@ Hier findest du alle wichtigen Karten für **Where Winds Meet** – perfekt zum 
 
 ---
 
-*Die Karte wird regelmäßig von der Community aktualisiert. Hinweise zu fehlenden POIs oder neuen Regionen gerne per [GitHub-Issue](https://github.com/Jamgiter/wwm-compendium/issues/new) melden!*
+*Die Karte wird regelmäßig von der Community aktualisiert. Hinweise zu fehlenden POIs oder neuen Regionen gerne per [GitHub-Issue](https://github.com/Jamgiter/issues/new) melden!*

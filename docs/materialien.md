@@ -168,4 +168,4 @@ In Where Winds Meet gibt es **ca. 12 Haupt-Währungen** – von der simplen Mün
 
 ---
 
-> 🔄 **Diese Seite wird erweitert** – exakte Drop-Raten, Preise und Koordinaten können aus dem Spiel ergänzt werden. Fund-Hinweise gerne per [GitHub-Issue](https://github.com/Jamgiter/wwm-compendium/issues/new) melden!
+> 🔄 **Diese Seite wird erweitert** – exakte Drop-Raten, Preise und Koordinaten können aus dem Spiel ergänzt werden. Fund-Hinweise gerne per [GitHub-Issue](https://github.com/Jamgiter/issues/new) melden!
