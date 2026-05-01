@@ -31,6 +31,7 @@ export default defineConfig({
       { text: 'Quests', link: '/quests' },
       { text: 'Außenposten', link: '/aussenposten' },
       { text: 'Sekten', link: '/sekten' },
+      { text: 'Gilden', link: '/gilden' },
       {
         text: 'Items',
         items: [

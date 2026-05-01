@@ -84,6 +84,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | Seite | Beschreibung |
 |:------|:-------------|
 | [Sekten](./sekten) | 8 Fraktionen, Beitritt, Ränge, Voting, Brotherhood |
+| [Gilden](./gilden) | Gilden-System (Hundred Industries) – Typen, Beitritt, Vorteile, Gebäude, Aktivitäten & Guild Wars |
 
 ### 📖 Systeme & Wissen
 | Seite | Beschreibung |
@@ -112,11 +113,11 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 
 | Kennzahl | Wert |
 |:---------|:----:|
-| **Seiten gesamt** | ~47 |
+| **Seiten gesamt** | ~48 |
 | **Waffen-Guides** | 8 Pfade |
 | **Boss-Guides** | 14 Story + 4 Weltboss-Regionen + Mini-Bosse |
 | **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou |
-| **Letztes Update** | 28. April 2026 |
+| **Letztes Update** | 1. Mai 2026 |
 
 ---
 

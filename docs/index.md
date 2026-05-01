@@ -91,6 +91,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🏴‍☠️ Gilden</h3>
+<p>Gilden-System (Hundred Industries) – Gildentypen, Beitritt, Vorteile, Geb&auml;ude, Aktivit&auml;ten & Guild Wars.</p>
+<a href="/gilden">Zu den Gilden →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">🏰 Außenposten</h3>
 <p>Feindliche Lager & Festungen – einmalige Belohnungen (Sets, Waffen, Echo-Jade) und wiederholbares Farming für 20 Energy.</p>
 <a href="/aussenposten">Zu den Außenposten →</a>
@@ -179,6 +185,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Seitenverwaltung – Alle Seiten auf einen Blick
 - [x] Berufe (Handwerk & Heilung) – Crafting, Heiler-Beruf & Combat-Healing
 - [x] Essen (Cooking) – Buff-Food, Recovery & Sammel-Buffs
+- [x] Gilden (Hundred Industries – Gildentypen, Vorteile, Gebäude, Aktivitäten & Guild Wars)
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---
