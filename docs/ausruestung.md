@@ -184,4 +184,32 @@ Vor jedem schweren Bosskampf solltest du dich eindecken:
 
 ---
 
-> 💡 **Pro-Tipp:** Mit dem **传律 (Pass Law)**-System kannst du Set-Boni zwischen Items übertragen. So lassen sich z. B. 2-teilig Adlererhebung + 2-teilig Formbiegung kombinieren. In der aktuellen Meta (Patch 1.5) dominieren **Adlererhebung + Falkenflügel** (Allround) und **Formbiegung + Jadegeschirr** (Melee).
+> 💡 **Pro-Tipp:** Mit dem **传律 (Pass Law)**-System kannst du Set-Boni zwischen Items übertragen. So lassen sich z. B. 2-teilig Adlererhebung + 2-teilig Formbiegung kombinieren. In der aktuellen Meta (Patch 1.6) dominieren **Adlererhebung + Falkenflügel** (Allround) und **Formbiegung + Jadegeschirr** (Melee).
+
+---
+
+## 📈 Patch 1.6 – Neue Progression-Caps 🆕
+
+Mit **Patch 1.6 „Flows of Dreams"** wurden die Caps erhöht:
+
+| Bereich | Neuer Cap | Hinweis |
+|:--------|:---------:|:--------|
+| **Charakter-Level** | **Lv. 95** | Erhöhtes Max-Level |
+| **Gear-Tier** | **Tier 91** | Neue höchste Stufe |
+| **Neues Arsenal** | **Tier-86-Arsenal** | Zusätzliche Ausrüstungsstufe |
+| **Gear-Enhancement** | **Level 46–50** | Neues Material: **Howling Ore: Vanguard** (Season Shop) |
+| **Gear Tuning/Attuning** | **Neue Attribute** | Zusätzliche Tuning-Optionen |
+| **Mystic Skill Breakthrough** | **Tier 6 Stage 9** | Höchste Breakthrough-Stufe |
+| **Medicine Chest** | **Lv. 15** | Erhöhtes Max-Level für Heilkiste |
+| **Solo-Mode** | **Lv. 14-Clarity** | Neue Solo-Herausforderungsstufe |
+
+### Season Catch-up-System 🆕
+
+Mit Patch 1.6 gibt es **Trace Jades** für neue/späte Spieler:
+- Günstigere Upgrades für alte Gear
+- Ermöglicht schnelleren Anschluss ans Endgame
+- Erhältlich im Season Shop
+
+### Neue Tuning-Attribute 🆕
+
+Patch 1.6 hat neue Attribute fürs Gear Tuning/Attuning hinzugefügt. Details folgen mit Community-Daten.

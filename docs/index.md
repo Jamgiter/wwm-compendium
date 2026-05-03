@@ -103,8 +103,8 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
-<h3 style="margin-top: 0">🏜️ Hexi-Guide</h3>
-<p>Die Wüstenregion – Regionen, neue Mechaniken, Prioritäten, Bosse, NPCs und Waffen der neuesten Erweiterung.</p>
+<h3 style="margin-top: 0">🏜️ Hexi-Guide & Patch 1.6 🆕</h3>
+<p>Qinchuan (Grasland) ist freigeschaltet! World Boss Snowplum Requiem, Idle Wind, neue Caps (Lv. 95/Tier 91) und Events.</p>
 <a href="/hexi">Zum Hexi-Guide →</a>
 </div>
 
@@ -186,6 +186,7 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Berufe (Handwerk & Heilung) – Crafting, Heiler-Beruf & Combat-Healing
 - [x] Essen (Cooking) – Buff-Food, Recovery & Sammel-Buffs
 - [x] Gilden (Hundred Industries – Gildentypen, Vorteile, Gebäude, Aktivitäten & Guild Wars)
+- [x] Patch 1.6 „Flows of Dreams" – Qinchuan, Snowplum Requiem, Idle Wind, neue Caps & Events 🆕
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

@@ -17,6 +17,7 @@ Du kannst mehrere Mystic Arts gleichzeitig ausrüsten – die Anzahl der Slots e
 | **Wandlaufen – Schnellschritt** 💨 | Wallstride – Swiftstride | Schneller Vorwärtsdash an Wänden entlang – maximale Mobilität in Kämpfen | **Melodies of Peace**-Baum (Kuriositäten abgeben) | ⭐⭐ Fortgeschritten |
 | **Verdrehung** 🌀 | Contortion | Spezielle Interaktion mit **Special Oddities** (Patch 1.3) – ermöglicht das Jagen von Phantom-Kreaturen | Nebenquest (Nightshade NPC) | ⭐⭐ Spezial / Oddities |
 | **Flöte der Gezeiten** 🎵 | Flute of the Tides | Musik-basierte Mechanik – neue Mystic Art aus der Hexi-Erweiterung | Hexi-Hauptstory (Chapter 3) | ⭐⭐ Endgame |
+| **Idle Wind** 🌬️🆕 | Idle Wind | Verwandle dich in einen Windhauch und schwebe frei durch **Qinchuan** – hervorragend für Erkundung | Patch 1.6 – Qinchuan | ⭐⭐⭐ Erkundung |
 
 ---
 
@@ -45,6 +46,7 @@ Du kannst mehrere Mystic Arts gleichzeitig ausrüsten – die Anzahl der Slots e
 | Mystic Art | Einsatz |
 |:-----------|:--------|
 | **Flöte der Gezeiten** | Neue Mechanik aus Hexi – genaue Wirkung noch in Erkundung |
+| **Idle Wind** 🆕 | Schwebe-Fähigkeit für Qinchuan – maximale Mobilität zum Erkunden |
 
 ---
 
@@ -57,6 +59,7 @@ Du kannst mehrere Mystic Arts gleichzeitig ausrüsten – die Anzahl der Slots e
 | 🏺 **Melodies of Peace-Baum** | Wandlaufen – Schattenstoß, Wandlaufen – Schnellschritt |
 | ⭐ **Special Oddities (Patch 1.3)** | Verdrehung (Contortion) |
 | 🏜️ **Hexi-Hauptstory** | Flöte der Gezeiten |
+| 🌬️ **Patch 1.6 – Qinchuan** | Idle Wind 🆕 |
 
 ---
 

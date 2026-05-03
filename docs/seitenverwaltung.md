@@ -66,7 +66,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 ### 🏯 Regionen
 | Seite | Beschreibung |
 |:------|:-------------|
-| [Hexi-Guide](./hexi) | Wüsten-Region mit Mechaniken, Bossen & Prioritäten |
+| [Hexi-Guide](./hexi) | Wüsten-Region inkl. **Qinchuan** (Patch 1.6) 🆕 – Mechaniken, Bosse, Idle Wind, Events & Prioritäten |
 
 ### ⚙️ Ausrüstung & Items
 | Seite | Beschreibung |
@@ -90,7 +90,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | Seite | Beschreibung |
 |:------|:-------------|
 | [Kompendium](./kompendium) | Ingame-Kompendium – 16 Kategorien, Punkte, Meilensteine |
-| [Mystische Künste](./mystische-kuenste) | Mystic Arts – Meridian Touch, Wallstride, Contortion uvm. |
+| [Mystische Künste](./mystische-kuenste) | Mystic Arts – Meridian Touch, Wallstride, Contortion, Idle Wind 🆕 uvm. |
 | [Innere Wege](./innere-wege) | 37 Pfade, Mentaltechniken, Recycling & Builds |
 | [Glossar](./glossar) | Alle Systeme & Zusammenhänge erklärt |
 | [FAQ](./faq) | Schnelle Antworten für Einsteiger |
@@ -113,11 +113,11 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 
 | Kennzahl | Wert |
 |:---------|:----:|
-| **Seiten gesamt** | ~48 |
+| **Seiten gesamt** | ~50 |
 | **Waffen-Guides** | 8 Pfade |
-| **Boss-Guides** | 14 Story + 4 Weltboss-Regionen + Mini-Bosse |
-| **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou |
-| **Letztes Update** | 1. Mai 2026 |
+| **Boss-Guides** | 14 Story + 4 Weltboss-Regionen + Mini-Bosse + 1 neuer World Boss 🆕 |
+| **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou, **Qinchuan** 🆕 |
+| **Letztes Update** | 3. Mai 2026 (Patch 1.6 „Flows of Dreams") |
 
 ---
 
