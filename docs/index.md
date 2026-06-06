@@ -103,9 +103,15 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
-<h3 style="margin-top: 0">🏜️ Hexi-Guide & Patch 1.6 🆕</h3>
+<h3 style="margin-top: 0">🏜️ Hexi-Guide & Patch 1.6</h3>
 <p>Qinchuan (Grasland) ist freigeschaltet! World Boss Snowplum Requiem, Idle Wind, neue Caps (Lv. 95/Tier 91) und Events.</p>
 <a href="/hexi">Zum Hexi-Guide →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🏯 Patch 1.7 – Imperial Palace 🆕</h3>
+<p>Neues Gebiet: Kaiserpalast! Pfad-Tutorial, Journey into Jianghu, Arena-Revamp mit Revive & Mystic Trial, Gear-Optimierungen.</p>
+<a href="/daily-guide">Zu den Patch Notes →</a>
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
@@ -186,7 +192,8 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Berufe (Handwerk & Heilung) – Crafting, Heiler-Beruf & Combat-Healing
 - [x] Essen (Cooking) – Buff-Food, Recovery & Sammel-Buffs
 - [x] Gilden (Hundred Industries – Gildentypen, Vorteile, Gebäude, Aktivitäten & Guild Wars)
-- [x] Patch 1.6 „Flows of Dreams" – Qinchuan, Snowplum Requiem, Idle Wind, neue Caps & Events 🆕
+- [x] Patch 1.6 „Flows of Dreams" – Qinchuan, Snowplum Requiem, Idle Wind, neue Caps & Events
+- [x] Patch 1.7 „Imperial Palace" – Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp 🆕
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

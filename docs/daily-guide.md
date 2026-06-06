@@ -2,7 +2,7 @@
 
 Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was sich täglich und wöchentlich lohnt.
 
-> 🆕 **Patch 1.6 „Flows of Dreams"** – Neue Events, Season Catch-up, Surething Shop und höhere Caps.
+> 🆕 **Patch 1.7 "Imperial Palace"** – Neues Gebiet: Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp, Mystic Skill Trial, Gear-QoL.
 
 ---
 
@@ -10,15 +10,15 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 
 | Aktivität | Belohnung | Aufwand | Priorität |
 |:----------|:----------|:-------:|:---------:|
-| ✅ **Händler-Check** (tägliches Sortiment) | Grundmaterialien, Kräuter | ⏱️ 2 Min | 🔥🔥 |
-| ✅ **Tägliche Quests** | Lang Zhu, Ansehen, XP | ⏱️ 10 Min | 🔥🔥🔥 |
-| ✅ **Angel-Wettbewerbe** | Fisch, Kochzutaten | ⏱️ 5 Min | 🔥🔥 |
-| ✅ **Kuriositäten sammeln** | Melodies of Peace-Fortschritt | ⏱️ 15 Min | 🔥🔥🔥 |
-| ✅ **Sammel-Route** (Erze, Kräuter, Holz) | Materialien für Crafting & Housing | ⏱️ 10 Min | 🔥🔥 |
-| ✅ **Half-Year Companionship** 🆕 | Anniversary-Shop, Belohnungen | ⏱️ 10 Min | 🔥🔥🔥 |
-| ✅ **Surething Shop-Check** 🆕 | Retro-Kosmetik mit Surething Feathers | ⏱️ 2 Min | 🔥🔥 |
+| ✅ **Händler-Check** (tägliches Sortiment) | Grundmaterialien, Kräuter | ⏱️ 2 Min | 🔥🔥 |
+| ✅ **Tägliche Quests** | Lang Zhu, Ansehen, XP | ⏱️ 10 Min | 🔥🔥🔥 |
+| ✅ **Angel-Wettbewerbe** | Fisch, Kochzutaten | ⏱️ 5 Min | 🔥🔥 |
+| ✅ **Kuriositäten sammeln** | Melodies of Peace-Fortschritt | ⏱️ 15 Min | 🔥🔥🔥 |
+| ✅ **Sammel-Route** (Erze, Kräuter, Holz) | Materialien für Crafting & Housing | ⏱️ 10 Min | 🔥🔥 |
+| ✅ **Half-Year Companionship** 🆕 | Anniversary-Shop, Belohnungen | ⏱️ 10 Min | 🔥🔥🔥 |
+| ✅ **Surething Shop-Check** 🆕 | Retro-Kosmetik mit Surething Feathers | ⏱️ 2 Min | 🔥🔥 |
 
-### Empfohlene Morgen-Routine (15 Min)
+### Empfohlene Morgen-Routine (15 Min)
 
 1. **Händler abklappern** – tägliches Sortiment checken (seltene Mats mitnehmen)
 2. **Tägliche Quests** – schnell erledigt, gute Belohnungen
@@ -32,35 +32,35 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 
 | Aktivität | Belohnung | Aufwand | Reset | Priorität |
 |:----------|:----------|:-------:|:-----:|:---------:|
-| ⭐ **Tuning-Händler** (Kaifeng) | Tuning-Steine (limitiert!) | ⏱️ 5 Min | Montag | 🔥🔥🔥 |
-| ⭐ **Weltbosse** | Loong Keys, Set-Items, Echo-Jade | ⏱️ 30 Min | Montag | 🔥🔥🔥 |
-| ⭐ **Neuer World Boss: Snowplum Requiem** 🆕 | Memoir Gear, Decoration | ⏱️ 10 Min | Montag | 🔥🔥🔥 |
-| ⭐ **Wöchentlicher Händler** | Seltene Items, Set-Teile | ⏱️ 5 Min | Montag | 🔥🔥 |
-| ⚔️ **Herausforderungen** (Liangzhou) | Challenge-Tokens | ⏱️ 20 Min | Montag | 🔥🔥 |
-| 🏪 **Season Shop** (Inner Way-Noten) | 20 Innere-Wege-Punkte | ⏱️ 5 Min | Saison | 🔥🔥🔥 |
-| 🏯 **Sekten-Voting** | Ruf, Shop-Zugang | ⏱️ 5 Min | Wöchentlich | 🔥🔥 |
-| 🏺 **Kuriositäten-Händler** | Alle Regionen abgeben | ⏱️ 10 Min | Einmalig | 🔥🔥🔥 |
+| ⭐ **Tuning-Händler** (Kaifeng) | Tuning-Steine (limitiert!) | ⏱️ 5 Min | Montag | 🔥🔥🔥 |
+| ⭐ **Weltbosse** | Loong Keys, Set-Items, Echo-Jade | ⏱️ 30 Min | Montag | 🔥🔥🔥 |
+| ⭐ **Neuer World Boss: Snowplum Requiem** | Memoir Gear, Decoration | ⏱️ 10 Min | Montag | 🔥🔥🔥 |
+| ⭐ **Wöchentlicher Händler** | Seltene Items, Set-Teile | ⏱️ 5 Min | Montag | 🔥🔥 |
+| ⚔️ **Herausforderungen** (Liangzhou) | Challenge-Tokens | ⏱️ 20 Min | Montag | 🔥🔥 |
+| 🏪 **Season Shop** (Inner Way-Noten) | 20 Innere-Wege-Punkte | ⏱️ 5 Min | Saison | 🔥🔥🔥 |
+| 🏯 **Sekten-Voting** | Ruf, Shop-Zugang | ⏱️ 5 Min | Wöchentlich | 🔥🔥 |
+| 🏺 **Kuriositäten-Händler** | Alle Regionen abgeben | ⏱️ 10 Min | Einmalig | 🔥🔥🔥 |
 | 🎫 **Battle Pass** | Kosmetik, Mats, Münzen | ⏱️ variabel | Saison | 🔥🔥 |
-| 🔄 **Inner Way-Konvertierung** | Pfad-Fortschritt übertragen (4× pro Saison) | ⏱️ 5 Min | Saison | 🔥🔥 |
-| 🌬️ **Idle Wind-Erkundung** 🆕 | Qinchuan-Erkundung per Schweben | ⏱️ 15 Min | Einmalig | 🔥🔥 |
-| 🏪 **Serpent's Fang** 🆕 | 5-Spieler Sword Trial | ⏱️ 20 Min | Wöchentlich | 🔥🔥 |
-| 🏪 **Bloodstained Sands: Supreme** 🆕 | 10-Spieler Hero's Realm | ⏱️ 30 Min | Wöchentlich | 🔥🔥 |
+| 🔄 **Inner Way-Konvertierung** (500 Echo Jade) | Pfad-Fortschritt übertragen | ⏱️ 5 Min | Saison | 🔥🔥 |
+| 🌬️ **Idle Wind-Erkundung** | Qinchuan-Erkundung per Schweben | ⏱️ 15 Min | Einmalig | 🔥🔥 |
+| 🏪 **Serpent's Fang** | 5-Spieler Sword Trial | ⏱️ 20 Min | Wöchentlich | 🔥🔥 |
+| 🏪 **Bloodstained Sands: Supreme** | 10-Spieler Hero's Realm | ⏱️ 30 Min | Wöchentlich | 🔥🔥 |
 
-### Empfohlene Wochen-Routine (1 h)
+### Empfohlene Wochen-Routine (1 h)
 
 | Schritt | Was | Zeit |
 |:-------:|:----|:----:|
-| 1 | **Tuning-Händler** in Kaifeng – sofort nach Reset (Montag) | 5 Min |
-| 2 | **Weltbosse** – alle verfügbaren Bosse einmal pro Woche (inkl. Snowplum Requiem) | 30 Min |
-| 3 | **Wöchentlicher Händler** + Season Shop | 5 Min |
-| 4 | **Herausforderungen** in Liangzhou | 20 Min |
-| 5 | **Sekten-Voting** + Kuriositäten abgeben | 10 Min |
+| 1 | **Tuning-Händler** in Kaifeng – sofort nach Reset (Montag) | 5 Min |
+| 2 | **Weltbosse** – alle verfügbaren Bosse einmal pro Woche (inkl. Snowplum Requiem) | 30 Min |
+| 3 | **Wöchentlicher Händler** + Season Shop | 5 Min |
+| 4 | **Herausforderungen** in Liangzhou | 20 Min |
+| 5 | **Sekten-Voting** + Kuriositäten abgeben | 10 Min |
 
 ---
 
-## 🆕 Patch 1.6 – Neue Events & Systeme
+## 🆕 Patch 1.6 – Flows of Dreams (bestehend)
 
-### Half-Year Companionship 🆕
+### Half-Year Companionship
 | Info | Detail |
 |:-----|:-------|
 | **Zeitraum** | Bis **24. Juni 2026** |
@@ -68,7 +68,7 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 | **Belohnungen** | Kosmetik, Materialien, Währung |
 | **Priorität** | 🔥🔥🔥 – Zeitlich begrenzt! |
 
-### Surething Shop 🆕
+### Surething Shop
 | Info | Detail |
 |:-----|:-------|
 | **Typ** | Dauerhafter Shop |
@@ -76,19 +76,73 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 | **Inhalt** | Frühere Event-Kosmetik & Retro-Items |
 | **Tipp** | Regelmäßig checken – lohnt für Sammler |
 
-### Season Catch-up-System 🆕
+### Season Catch-up-System
 | Info | Detail |
 |:-----|:-------|
 | **System** | Trace Jades für neue/späte Spieler |
 | **Vorteil** | Günstigere Upgrades für alte Gear |
 | **Fundort** | Season Shop |
 
-### Let It Snow 🆕
+### Let It Snow
 | Info | Detail |
 |:-----|:-------|
 | **Event-Typ** | Befristet |
-| **Belohnung** | Snow Lion Mystic Skill „Stone Pier" |
+| **Belohnung** | Snow Lion Mystic Skill "Stone Pier" |
 | **Priorität** | 🔥🔥🔥 – Mystic Skill nicht verpassen! |
+
+---
+
+## 🆕 Patch 1.7 – Imperial Palace (27. Mai 2026)
+
+### 🏯 Kaiserpalast (Imperial Palace)
+| Info | Detail |
+|:-----|:-------|
+| **Neues Gebiet** | Imperial Palace – Schauplatz der neuen Handlungsbögen |
+| **Inhalt** | Neue Story-Quests, Erkundung & Herausforderungen im Palast |
+| **Freischaltung** | Über die Hauptquest in Qinchuan |
+
+### ⚔️ Pfad-Tutorial (Path Tutorial)
+| Info | Detail |
+|:-----|:-------|
+| **Feature** | Trainings-Stages für jede Kampfkunst |
+| **Inhalt** | Grundlagen, einzigartige Skills & Combos pro Waffe |
+| **Ziel** | Niedrigere Einstiegshürde für neue Pfade |
+| **Ausblick** | Benutzerdefinierte Combo-Aufnahmen in zukünftigen Updates |
+
+### 🗺️ A Journey into Jianghu
+| Info | Detail |
+|:-----|:-------|
+| **Feature** | Verbesserte Entwicklungsführung im "Improvement Guide" |
+| **Neu** | "Quick Enhance"-Knopf mit Material-Anzeige + Auto-Kauf |
+| **Ziel** | Klarere Orientierung für Fortschritt & Upgrades |
+
+### ⚙️ Gear & System-Optimierungen
+
+| Änderung | Detail |
+|:---------|:-------|
+| **Auto-Recycle Gear** | Gear Slot-Filter jetzt kombinierbar mit Tier/Rarity/Attribut-Filtern |
+| **Kampfkunst-Reset** | Kosten reduziert – 100% Münzen-Rückerstattung |
+| **Inner Way-Konvertierung** | Kosten auf 500 Echo Jade gesenkt (nach kostenlosen Versuchen) |
+| **Sandswirl Tail (T6)** | Doppelte Ernte in Qinchuan im Breeze-Modus |
+| **Gear Set-Wechsel** | Quick-Switch-Prompt beim Tragen gleicher Sets |
+| **Gear Attunement** | Quick-Switch für alle Equip-Slots beim Typ-Wechsel |
+| **Entwicklungsplan** | Batch-Replace beim Ersetzen von Gear in mehreren Plänen |
+| **Scroll & Script** | Nicht mehr im Kampf nutzbar (konsistent mit Food) |
+| **Energy-Belohnungen** | Sortier-Regeln optimiert für Campaign/Outpost/Joint Battle |
+
+### ⚔️ Arena-Änderungen
+
+| Änderung | Detail |
+|:---------|:-------|
+| **Mystic Skill Trial** | Custom Branches in Group Strategy & 3v3 Arena testbar |
+| **3v3 Revive** | 1x Wiederbelebung pro Match ohne Heiler; 15s Fenster, 10m Reichweite |
+| **Heiler-Nerf** | Panacea Fan "Resurrection" nur 1x nutzbar (T6 "Royal Remedy" ausgenommen) |
+| **Score-Boost** | 3v3: +20% Punkte in der neuen Season |
+| **Waffengleichheit** | Maximal 2x gleiche Kampfkunst pro Team in 3v3 |
+| **Perception Forest** | Boss-Markierungen, Team-Tracking, optimierte Grab-Spawns, steigender Gift-Schaden |
+| **Duel Arena** | Verbesserte Belohnungen, mehr Vorbereitungszeit, temporäre Unverwundbarkeit beim Verlassen |
+| **1v1 Arena** | Bonuspunkte beim Besiegen starker Gegner |
+| **QoL** | Emotes in Group Strategy, Sync-Bewegungs-Fertigkeiten, Hintergrundmusik |
 
 ---
 
@@ -100,7 +154,7 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 |:---------:|:----------|:------|
 | 1 | Hauptstory folgen | Schaltet Mechaniken & Gebiete frei |
 | 2 | Tägliche Quests | XP + erste Währung |
-| 3 | Kuriositäten sammeln | Melodies of Peace-Boni helfen enorm |
+| 3 | **Pfad-Tutorial** 🆕 | Waffen-Skills & Combos üben |
 
 ### Fortgeschritten (Level 25–50)
 
@@ -110,19 +164,21 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 | 2 | **Weltbosse** ⭐ | Loong Keys + Set-Items |
 | 3 | Tägliche Quests + Season Shop | Konstante Echo-Jade + Inner Way-Punkte |
 
-### Endgame (50+ / Hexi / Qinchuan)
+### Endgame (50+ / Hexi / Qinchuan / Imperial Palace 🆕)
 
 | Priorität | Aktivität | Warum |
 |:---------:|:----------|:------|
 | 1 | **Weltbosse + Tuning-Händler** | BiS-Gear und Upgrades |
-| 2 | **Half-Year Companionship** 🆕 | Anniversary – zeitlich begrenzt! |
-| 3 | **Snowplum Requiem** 🆕 | Neuer World Boss in Qinchuan |
-| 4 | **Serpent's Fang + Bloodstained Sands** 🆕 | Neue Multiplayer-Inhalte |
-| 5 | **Herausforderungen (Liangzhou)** | Challenge-Tokens für Belohnungen |
-| 6 | **Idle Wind-Erkundung** 🆕 | Qinchuan per Schweben erkunden |
-| 7 | **Inner Way-Konvertierung + Recycling** | Build-Optimierung |
-| 8 | **Housing-Produktion** | Passive Ressourcen |
+| 2 | **Half-Year Companionship** | Anniversary – zeitlich begrenzt! |
+| 3 | **Imperial Palace** 🆕 | Neue Quests, Erkundung & Herausforderungen |
+| 4 | **Arena mit neuen Features** 🆕 | Revive, Mystic Trial, bessere Belohnungen |
+| 5 | **Snowplum Requiem** | Neuer World Boss in Qinchuan |
+| 6 | **Serpent's Fang + Bloodstained Sands** | Neue Multiplayer-Inhalte |
+| 7 | **Herausforderungen (Liangzhou)** | Challenge-Tokens für Belohnungen |
+| 8 | **Idle Wind-Erkundung** | Qinchuan per Schweben erkunden |
+| 9 | **Inner Way-Konvertierung (500 Jade) + Recycling** | Build-Optimierung |
+| 10 | **Housing-Produktion** | Passive Ressourcen |
 
 ---
 
-> 🔄 **Stand Patch 1.6 „Flows of Dreams"** – Neue Events, Catch-up-System, Surething Shop und höhere Caps integriert.
+> 🔄 **Stand Patch 1.7 "Imperial Palace"** – Neues Gebiet, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp, Gear-Optimierungen.
