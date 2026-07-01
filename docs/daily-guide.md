@@ -2,7 +2,8 @@
 
 Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was sich täglich und wöchentlich lohnt.
 
-> 🆕 **Patch 1.7 "Imperial Palace"** – Neues Gebiet: Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp, Mystic Skill Trial, Gear-QoL.
+> 🆕 **Patch 1.7 „Imperial Palace"** – Neues Gebiet: Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp, Mystic Skill Trial, Gear-QoL.
+
 
 ---
 
@@ -112,12 +113,11 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 ### 🗺️ A Journey into Jianghu
 | Info | Detail |
 |:-----|:-------|
-| **Feature** | Verbesserte Entwicklungsführung im "Improvement Guide" |
-| **Neu** | "Quick Enhance"-Knopf mit Material-Anzeige + Auto-Kauf |
+| **Feature** | Verbesserte Entwicklungsführung im „Improvement Guide" |
+| **Neu** | „Quick Enhance"-Knopf mit Material-Anzeige + Auto-Kauf |
 | **Ziel** | Klarere Orientierung für Fortschritt & Upgrades |
 
 ### ⚙️ Gear & System-Optimierungen
-
 | Änderung | Detail |
 |:---------|:-------|
 | **Auto-Recycle Gear** | Gear Slot-Filter jetzt kombinierbar mit Tier/Rarity/Attribut-Filtern |
@@ -135,10 +135,10 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 | Änderung | Detail |
 |:---------|:-------|
 | **Mystic Skill Trial** | Custom Branches in Group Strategy & 3v3 Arena testbar |
-| **3v3 Revive** | 1x Wiederbelebung pro Match ohne Heiler; 15s Fenster, 10m Reichweite |
-| **Heiler-Nerf** | Panacea Fan "Resurrection" nur 1x nutzbar (T6 "Royal Remedy" ausgenommen) |
+| **3v3 Revive** | 1× Wiederbelebung pro Match ohne Heiler; 15s Fenster, 10m Reichweite |
+| **Heiler-Nerf** | Panacea Fan „Resurrection" nur 1× nutzbar (T6 „Royal Remedy" ausgenommen) |
 | **Score-Boost** | 3v3: +20% Punkte in der neuen Season |
-| **Waffengleichheit** | Maximal 2x gleiche Kampfkunst pro Team in 3v3 |
+| **Waffengleichheit** | Maximal 2× gleiche Kampfkunst pro Team in 3v3 |
 | **Perception Forest** | Boss-Markierungen, Team-Tracking, optimierte Grab-Spawns, steigender Gift-Schaden |
 | **Duel Arena** | Verbesserte Belohnungen, mehr Vorbereitungszeit, temporäre Unverwundbarkeit beim Verlassen |
 | **1v1 Arena** | Bonuspunkte beim Besiegen starker Gegner |
@@ -181,4 +181,4 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 
 ---
 
-> 🔄 **Stand Patch 1.7 "Imperial Palace"** – Neues Gebiet, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp, Gear-Optimierungen.
+> 🔄 **Stand Patch 1.7 „Imperial Palace"** – Kaiserpalast, Pfad-Tutorial, Arena-Revamp & Gear-Optimierungen integriert. Siehe [Patch 1.8 – Housing & Companions](./housing).

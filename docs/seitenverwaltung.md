@@ -67,6 +67,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | Seite | Beschreibung |
 |:------|:-------------|
 | [Hexi-Guide](./hexi) | Wüsten-Region inkl. **Qinchuan** (Patch 1.6) 🆕 – Mechaniken, Bosse, Idle Wind, Events & Prioritäten |
+| [Patch 1.7 – Imperial Palace 🆕](./daily-guide) | Kaiserpalast, Pfad-Tutorial, Arena-Revamp, Gear-Optimierungen |
 
 ### ⚙️ Ausrüstung & Items
 | Seite | Beschreibung |
@@ -76,7 +77,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | [Reittiere & Pferde](./pferde) | Rassen, Zähmung, Zubehör, Kampf & Pflege |
 | [Materialien](./materialien) | Währungen, Crafting, Tuning, Tränke, Skill-Items |
 | [Händler](./haendler) | NPC-Händler & Materialien pro Region |
-| [Housing](./housing) | Bauen, Mieten, Blueprints, NPCs, Produktion |
+| [Housing](./housing) | Bauen, Mieten, Blueprints, NPCs, Produktion & Blissful Retreat 🆕 |
 | [Berufe](./berufe) | Handwerk & Heilung – Crafting, Heiler-Beruf, Combat-Healing |
 | [Essen](./essen) | Buff-Food, Recovery & Sammel-Buffs – die besten Rezepte |
 
@@ -117,7 +118,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | **Waffen-Guides** | 8 Pfade |
 | **Boss-Guides** | 14 Story + 4 Weltboss-Regionen + Mini-Bosse + 1 neuer World Boss 🆕 |
 | **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou, **Qinchuan** 🆕 |
-| **Letztes Update** | 3. Mai 2026 (Patch 1.6 „Flows of Dreams") |
+| **Letztes Update** | 25. Juni 2026 (Patch 1.8 „One Day in Qinghe – Companions Make Home") |
 
 ---
 

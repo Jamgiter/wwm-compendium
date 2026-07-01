@@ -1,5 +1,17 @@
 # 🏠 Housing & Bauen
 
+> 🆕 **Patch 1.8 „One Day in Qinghe – Companions Make Home" (25. Juni 2026)**
+> Das große Lifestyle-Update bringt **Blissful Retreat** (Qinghe Bamboo Retreat) als persönliche Heimatbasis zurück. Nach langer Reise kehrst du nach Hause zurück, baust es wieder auf und holst alte Gefährten zurück.
+>
+> **Neue Features:**
+> - 🏡 **Blissful Retreat** – deine alte Heimat in Qinghe wird zur Basis ausgebaut
+> - 🐱 **Tier-Begleiter** – Katzen (wachsen über Zeit) & Gänse (chaotische Abenteuer)
+> - 👥 **NPC-Begleiter** – alte Gefährten ziehen mit dir ein und teilen den Alltag
+> - 🌾 **Farming & Home-Management** – Pflanzen anbauen, Ressourcen verwalten
+> - 🎮 **Slice-of-Life-Aktivitäten** – plaudern unterm Dach, abendliche Teestunden, gemütliches Beisammensein
+>
+> *„Dies ist dein Zuhause, der Ausgangspunkt deiner Jianghu-Reise – nie wieder allein unterwegs."*
+
 In *Where Winds Meet* kannst du **überall in der Spielwelt bauen** – es gibt keine festen Grundstücke. Ob Pavillon am Wasser, Turm auf dem Berg oder gemietete Stadtvilla: Die ganze Welt ist dein Spielplatz.
 
 ---
