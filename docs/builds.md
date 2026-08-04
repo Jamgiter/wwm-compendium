@@ -15,7 +15,15 @@ Finde die optimale Waffen-Konfiguration + Innere Kampfkünste für jeden Boss.
 | **Twin Lions** | 🪨 Sturmbrecher-Speer (Tank) | 🔥 Zwillingsklingen (schnell ausschalten) | 🧵 Einzelziel-Fokus |
 | **Ghost Master** | 🎋 Ewiger-Frühlings-Schirm (AoE) | 🔥 Zwillingsklingen | ❌ Alle Einzelziel-Waffen |
 
-> *Legende: 🪨 Stonesplit · 🔥 Bamboocut · 🧵 Silkbind · 🔔 Bellstrike · 🎋 Bamboocut-Dust · 🔨 Stonesplit-Might*
+> *Legende: 🪨 Stonesplit · 🔥 Bamboocut · 🧵 Silkbind · 🔔 Bellstrike · 🎋 Bamboocut-Dust · 🔨 Stonesplit-Might · 🥊 Bamboocut-Kite (neu, Patch 2.0)*
+
+---
+
+## 🥊 Neuer Pfad: Bamboocut – Kite (Patch 2.0 „Unseen Approach", 23.07.2026)
+
+Mit **Patch 2.0** kommt der neue Pfad **Bamboocut – Kite** mit der brandneuen Waffe **Gauntlets (Himmelswille-Handschuhe)** und dem **Himmelsgreif-Seilpfeil** ins Spiel. Beide sind laut offiziellen Patch-Notes auf **Bosskämpfe und Arena** ausgelegt.
+
+> ⚠️ **Meta-Status:** Der Pfad ist neu — konkrete Boss-Matchup-Einstufungen folgen mit Community-Erfahrung. Erste Eindrücke & Fähigkeiten: [Bamboocut – Kite](./waffen/bamboocut-kite). Kostenlos testbar im **New Armament Drill**-Event (bis 20.08.2026).
 
 ---
 

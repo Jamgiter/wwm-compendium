@@ -1,8 +1,8 @@
 
 # ⚔️ Waffen-Übersicht
 
-In **Where Winds Meet** gibt es **16 Waffen**, aufgeteilt in **7 Kampfkunst-Pfade (Martial Arts Paths)**.
-Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedlichen Spezialisierungen.
+In **Where Winds Meet** gibt es **18 Waffen**, aufgeteilt in **8 Kampfkunst-Pfade (Martial Arts Paths)**.
+Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedlichen Spezialisierungen. Seit **Patch 2.0 (23.07.2026)** gibt es mit **Bamboocut – Kite** einen neuen Pfad und die neue Waffe **Gauntlets (Handschuhe)**.
 
 ---
 
@@ -16,6 +16,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | [Silkbind – Jade](./silkbind-jade) | Tintenfass-Fächer + Frühlingsschirm | Fernkampf-DPS | ⭐⭐⭐⭐⭐ |
 | [Bamboocut – Wind](./bamboocut-wind) | Höllische Zwillingsklingen + Tödlicher Seilpfeil | Aggro-Burst-DPS | ⭐⭐⭐⭐ |
 | [Bamboocut – Dust](./bamboocut-dust) | Ewiger-Frühlings-Schirm + Ungebundener Seilpfeil | AoE-Kontrolle | ⭐⭐⭐⭐ |
+| [Bamboocut – Kite](./bamboocut-kite) 🆕 | Himmelswille-Handschuhe + Himmelsgreif-Seilpfeil | Nahkampf-Burst / Vielseitig | ⭐⭐⭐ |
 | [Stonesplit – Might](./stonesplit-might) | Sturmbrecher-Speer + Donnerklage-Klinge | **Tank** | ⭐⭐⭐ |
 | [Stonesplit – Strength](./stonesplit-strength) | Schnee-trennende Klinge + Phalanx-Brecher-Klinge | Parade/Stagger-DPS | ⭐⭐⭐⭐⭐ |
 
@@ -37,6 +38,8 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | Tödlicher Seilpfeil | Wind | Mittel | A | A | B | C |
 | Ewiger-Frühlings-Schirm | Dust | Fern | C | B | **S** | B |
 | Ungebundener Seilpfeil | Dust | Mittel | B | A | A | B |
+| Himmelswille-Handschuhe | Kite 🆕 | Kurz | A | S | B | B |
+| Himmelsgreif-Seilpfeil | Kite 🆕 | Mittel/Lang | A | A | B | B |
 | Sturmbrecher-Speer | Might | Lang | B | C | **S** | **S** |
 | Donnerklage-Klinge | Might | Mittel | A | B | A | **S** |
 | Schnee-trennende Klinge | Strength | Mittel | **S** | A | **S** | B |
@@ -56,6 +59,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | <span class="tier-a">A-Tier</span> | Allheil-Fächer + Seelenschatten-Schirm, Namenloses Schwert/Speer, Frühlingsschirm | Unverzichtbar im Group-Content, solider DPS, flexibler Fernkampf mit Schirm-Konter |
 | <span class="tier-b">B-Tier</span> | Sturmbrecher-Speer + Donnerklage-Klinge, Strategisches Schwert/Speer | Starke Tanks, gute Blutungs-Waffen |
 | <span class="tier-c">C-Tier</span> | Ewiger-Frühlings-Schirm + Ungebundener Seilpfeil | Situativ nützlich, aber schwächer im Einzelziel |
+| <span class="tier-new">Neu (2.0)</span> | Himmelswille-Handschuhe + Himmelsgreif-Seilpfeil | Neuer Pfad seit Patch 2.0 – Meta-Einstufung folgt mit Community-Erfahrung |
 
 ---
 

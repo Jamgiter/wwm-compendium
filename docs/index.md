@@ -115,6 +115,12 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">⛰️ Patch 2.0 – Unseen Approach 🆕</h3>
+<p>Großes Update: Hidden Mountain-Gebiet, neue Waffe Gauntlets, Pfad Bamboocut: Kite, Sekte Mohist Hill, neue Weltbosse & Level-Cap Lv. 100!</p>
+<a href="/hidden-mountain">Zum Hidden Mountain-Guide →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
 <h3 style="margin-top: 0">📖 Kompendium</h3>
 <p>Das Ingame-Kompendium – 16 Kategorien, Punkte-System, Meilenstein-Belohnungen und Tipps für 100%.</p>
 <a href="/kompendium">Zum Kompendium →</a>
@@ -195,6 +201,8 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Patch 1.6 „Flows of Dreams" – Qinchuan, Snowplum Requiem, Idle Wind, neue Caps & Events 🆕
 - [x] Patch 1.7 „Imperial Palace" – Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp 🆕
 - [x] Patch 1.8 „One Day in Qinghe" – Blissful Retreat, Companion-Tiere, Housing-Lifestyle 🆕
+- [x] Patch 1.8 Hotfixes (25.06./02.07./17.07.) – Optimierungen & Bugfixes
+- [x] Patch 2.0 „Unseen Approach" – Hidden Mountain, Gauntlets, Bamboocut: Kite, Mohist Hill, Weltbosse, Lv. 100 🆕
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
 
 ---

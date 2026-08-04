@@ -29,6 +29,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | [Silkbind – Jade](./waffen/silkbind-jade) | Tintenfässchen-Fächer |
 | [Bamboocut – Wind](./waffen/bamboocut-wind) | Frühlingsschirm |
 | [Bamboocut – Dust](./waffen/bamboocut-dust) | Ewiger-Frühlings-Schirm, Ungebundener Seilpfeil |
+| [Bamboocut – Kite](./waffen/bamboocut-kite) 🆕 | Himmelswille-Handschuhe (Gauntlets), Himmelsgreif-Seilpfeil |
 | [Stonesplit – Might](./waffen/stonesplit-might) | Donnerklage-Klinge |
 | [Stonesplit – Strength](./waffen/stonesplit-strength) | Schnee-trennende Klinge |
 
@@ -55,6 +56,7 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 |:-------|:------|
 | [Qinghe-Region](./bosses/weltbosse-qinghe) | [Kaifeng-Region](./bosses/weltbosse-kaifeng) |
 | [Hexi-Region](./bosses/weltbosse-hexi) | [Liangzhou-Region](./bosses/weltbosse-liangzhou) |
+| [Hidden Mountain](./bosses/weltbosse-hidden-mountain) 🆕 | Ci & Cuo + Ironheart Centipede (Patch 2.0) |
 
 ### 📜 Quests & Aktivitäten
 | Seite | Beschreibung |
@@ -66,8 +68,9 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 ### 🏯 Regionen
 | Seite | Beschreibung |
 |:------|:-------------|
-| [Hexi-Guide](./hexi) | Wüsten-Region inkl. **Qinchuan** (Patch 1.6) 🆕 – Mechaniken, Bosse, Idle Wind, Events & Prioritäten |
-| [Patch 1.7 – Imperial Palace 🆕](./daily-guide) | Kaiserpalast, Pfad-Tutorial, Arena-Revamp, Gear-Optimierungen |
+| [Hexi-Guide](./hexi) | Wüsten-Region inkl. **Qinchuan** (Patch 1.6) – Mechaniken, Bosse, Idle Wind, Events & Prioritäten |
+| [Hidden Mountain-Guide](./hidden-mountain) 🆕 | **Patch 2.0** – Verborgener Berg nördlich von Qinghe, Mohist Hill, Main Chapter „Bringer of Embers", Oddities & Belohnungen |
+| [Patch 1.7 – Imperial Palace](./daily-guide) | Kaiserpalast, Pfad-Tutorial, Arena-Revamp, Gear-Optimierungen |
 
 ### ⚙️ Ausrüstung & Items
 | Seite | Beschreibung |
@@ -114,11 +117,11 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 
 | Kennzahl | Wert |
 |:---------|:----:|
-| **Seiten gesamt** | ~50 |
-| **Waffen-Guides** | 8 Pfade |
-| **Boss-Guides** | 14 Story + 4 Weltboss-Regionen + Mini-Bosse + 1 neuer World Boss 🆕 |
-| **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou, **Qinchuan** 🆕 |
-| **Letztes Update** | 25. Juni 2026 (Patch 1.8 „One Day in Qinghe – Companions Make Home") |
+| **Seiten gesamt** | ~55 |
+| **Waffen-Guides** | 9 Pfade (inkl. Bamboocut – Kite 🆕) |
+| **Boss-Guides** | 14 Story + 5 Weltboss-Regionen (inkl. Hidden Mountain 🆕) + Mini-Bosse |
+| **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou, Qinchuan, **Hidden Mountain** 🆕 |
+| **Letztes Update** | 04. August 2026 (Patch 2.0 „Unseen Approach") |
 
 ---
 

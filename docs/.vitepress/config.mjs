@@ -32,6 +32,7 @@ export default defineConfig({
       { text: 'Außenposten', link: '/aussenposten' },
       { text: 'Sekten', link: '/sekten' },
       { text: 'Gilden', link: '/gilden' },
+      { text: 'Hidden Mountain', link: '/hidden-mountain' },
       {
         text: 'Items',
         items: [
@@ -76,6 +77,7 @@ export default defineConfig({
             { text: 'Silkbind – Jade', link: '/waffen/silkbind-jade' },
             { text: 'Bamboocut – Wind', link: '/waffen/bamboocut-wind' },
             { text: 'Bamboocut – Dust', link: '/waffen/bamboocut-dust' },
+            { text: 'Bamboocut – Kite 🆕', link: '/waffen/bamboocut-kite' },
             { text: 'Stonesplit – Might', link: '/waffen/stonesplit-might' },
             { text: 'Stonesplit – Strength', link: '/waffen/stonesplit-strength' },
           ],
@@ -116,6 +118,7 @@ export default defineConfig({
             { text: 'Kaifeng-Region', link: '/bosses/weltbosse-kaifeng' },
             { text: 'Hexi-Region', link: '/bosses/weltbosse-hexi' },
             { text: 'Liangzhou-Region', link: '/bosses/weltbosse-liangzhou' },
+            { text: 'Hidden Mountain 🆕', link: '/bosses/weltbosse-hidden-mountain' },
           ],
         },
       ],

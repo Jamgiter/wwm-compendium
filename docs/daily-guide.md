@@ -2,7 +2,7 @@
 
 Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was sich täglich und wöchentlich lohnt.
 
-> 🆕 **Patch 1.7 „Imperial Palace"** – Neues Gebiet: Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp, Mystic Skill Trial, Gear-QoL.
+> 🆕 **Patch 2.0 „Unseen Approach"** – Neues Gebiet **Hidden Mountain** (nördlich von Qinghe), neue Waffe **Gauntlets**, Pfad **Bamboocut: Kite**, Sekte **Mohist Hill**, Level-Cap **Lv. 100**, Gear **Tier 96**. Siehe [Hidden Mountain-Guide](./hidden-mountain).
 
 
 ---
@@ -56,6 +56,46 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 | 3 | **Wöchentlicher Händler** + Season Shop | 5 Min |
 | 4 | **Herausforderungen** in Liangzhou | 20 Min |
 | 5 | **Sekten-Voting** + Kuriositäten abgeben | 10 Min |
+
+---
+
+## 🆕 Patch 2.0 – Unseen Approach (23. Juli 2026)
+
+### ⛰️ Hidden Mountain – neues Gebiet
+| Info | Detail |
+|:-----|:-------|
+| **Freischaltung** | Lv. 32 + Main Chapter „Haven Astray" |
+| **Inhalt** | Neues Gebiet nördlich von Qinghe, Mohist Hill-Sekte, 2 Weltbosse, Main Chapter „Bringer of Embers" |
+| **Belohnungen** | Set „Dyed Azure", Ohrringe „Armillary Stud", Namensschild „Artless Skill", Echo Jade |
+| **Priorität** | 🔥🔥🔥 – Haupt-Content der neuen Version! |
+
+### 🥊 Neue Waffe: Gauntlets (Handschuhe)
+| Info | Detail |
+|:-----|:-------|
+| **Pfad** | Bamboocut: Kite (neu) |
+| **Waffen** | Himmelswille-Handschuhe + Himmelsgreif-Seilpfeil |
+| **Erwerb** | Mohist Hill beitreten / Universal-Love-Shop / Main Chapter 2 abschließen |
+| **Tipp** | Im „New Armament Drill"-Event (bis 20.08.) kostenlos testen! |
+
+### ⬆️ Level-Cap & Gear (S4: Forged Ahead)
+| Info | Detail |
+|:-----|:-------|
+| **Level-Cap** | **Lv. 100** (Solo-Modus Lv. 16: Enlightenment) |
+| **Gear** | **Tier 96** erhältlich, Tier-91-Arsenal, Gear-Enhancement 56–60 |
+| **Neues Material** | Howling Ore: Mirage (Season Shop, montags Restock) |
+| **Tuning** | Tier-96-Tuning/Attuning + **Gear Tuning Reset** (Modulating Stone, Tier 100) |
+
+### 🎯 Aktuelle Events (Stand 04.08.)
+| Event | Zeitraum | Inhalt |
+|:------|:---------|:-------|
+| **Cutie Clash** | bis 20.08. | Companion-PvP (3v3/1v1) – Belohnung: Dazzling Duchess Bundle |
+| **Mountain Autumn** | 30.07.–20.08. | Gearwheel Trial, Case Files, Contest of Ingenuity |
+| **New Armament Drill** | bis 20.08. | Bamboocut: Kite kostenlos testen |
+| **Pilgrim Notes** | bis 20.08. | Hidden-Mountain-Challenges & Foto-Erkundung |
+| **Summer Spree** | 06.08.–20.08. | Beat the Heat, Summer Cooking, Top Melon-Matte |
+| **Fragrant Orchid** | bis 20.08. | Elite/Premium Battle Pass (Set „Fragrant Orchid") |
+
+> ⚠️ **Hinweis:** Buff-Food wurde in **Vitality Food** und **Attack Food** aufgeteilt – beide Effekte koexistieren jetzt (Max-HP + Physischer Angriff gleichzeitig). Auto-Buff unterstützt beides.
 
 ---
 
@@ -181,4 +221,4 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 
 ---
 
-> 🔄 **Stand Patch 1.7 „Imperial Palace"** – Kaiserpalast, Pfad-Tutorial, Arena-Revamp & Gear-Optimierungen integriert. Siehe [Patch 1.8 – Housing & Companions](./housing).
+> 🔄 **Stand Patch 2.0 „Unseen Approach"** – Hidden Mountain, Gauntlets, Bamboocut: Kite, Mohist Hill, Lv. 100 & Gear Tier 96 integriert. Siehe [Hidden Mountain-Guide](./hidden-mountain) und [Housing & Companions](./housing).

@@ -18,8 +18,9 @@ Es gibt **11 Sekten** insgesamt, davon sind aktuell (Stand April 2026) **6–8
 | **Samtiger Schatten** 🌫️ | Velvet Shade | Seelenschatten-Schirm (Soulshade Umbrella) | Support / Control | Ästhetik & Performance-Fokus |
 | **Maskierte Truppe** 🎭 | Masked Troupe | Verschiedene (Performance) | Entertainer / Theater | Show-Elemente & Kosmetik |
 | **Einsame Wolke** ☁️ | Lone Cloud | Mobile / Solo Builds | Einzelgänger | Wenig Regeln |
+| **Mohist Hill** ⚙️ 🆕 | Mohist Hill | **Himmelswille-Handschuhe (Gauntlets)** + Himmelsgreif-Seilpfeil | Handwerker / Mechanik – der Welt helfen | Universal Love, Bau-Mechanik, Divinecraft |
 
-**Weitere (teilweise noch nicht verfügbar):** Hollow Vale, Inkbound Order, Mohist Hill.
+**Weitere (teilweise noch nicht verfügbar):** Hollow Vale, Inkbound Order.
 
 ---
 
@@ -37,6 +38,46 @@ Es gibt **11 Sekten** insgesamt, davon sind aktuell (Stand April 2026) **6–8
 | **Himmelspforte** | Quest in **Harvestfall Village** starten |
 
 > **Tipp:** Du kannst die Sekte später wechseln, aber das kostet eine Strafe (Münzen oder Quest).
+
+---
+
+## ⚙️ Mohist Hill 🆕 (Patch 2.0 „Unseen Approach")
+
+Mit **Patch 2.0 (23.07.2026)** ist **Mohist Hill** beitretbar — die neue Sekte im Gebiet **Hidden Mountain** (nördlich von Qinghe).
+
+| Eigenschaft | Detail |
+|:------------|:-------|
+| **Ort** | Hidden Mountain — hinter schwebendem Tor & Wasserfall, über gefährliche Pässe erreichbar |
+| **Beitritt** | **Lv. 10** + Hidden Mountain Main Chapter **„Haven Astray"** abschließen (oder besondere Bauleistung / Empfehlung des Meisters) |
+| **Waffe** | **Himmelswille-Handschuhe (Heavenwill Gauntlets)** + Himmelsgreif-Seilpfeil (Skygrasp Rope Dart) — Pfad **Bamboocut: Kite** |
+| **Philosophie** | Mohisten sind aufrecht und prinzipientreu. Sie ziehen sich aus der Welt zurück, vergessen sie aber nie: Wo immer Leid herrscht, helfen sie — heimlich, mit Mechanismen. Ziel: **Universelle Liebe (Universal Love)** |
+
+### Ränge & Aufstieg
+
+| Rang | Beschreibung |
+|:-----|:-------------|
+| **Apprentice** | Einstieg |
+| **Waterworks Master** | Nach Forschungs-Schwerpunkt, Mentoren-Studium & veröffentlichten Erkenntnissen |
+| **Great Mohist** | Höchster Rang — Kandidaten fürs Sektenoberhaupt reichen Baudaten zur **Blind-Review** ein (faire Wahlchance) |
+
+### Sekten-Features
+
+- ⚙️ **Enhanced Construction:** Blueprint-Limit & Bauteil-Lagerlimit im Freien Bauen stark erhöht
+- ✨ **Neue Divinecraft-Effekte:** Permanente Freischaltung, Divinecraft-Verbesserungskomponenten für alle Server-Wanderer herzustellen
+- 📦 **Construction Material Support Pack:** Wöchentlich, je nach Rang in der Sekte
+
+### Disziplin-Besonderheit
+
+Mohist-Hill-Schüler können auf Reisen außerhalb von Hidden Mountain von mysteriösen Angreifern überfallen werden. Deshalb hat die Sekte die traditionelle Disziplin durch **Freiluftbäder** ersetzt — Einsicht gewinnen, Körper und Geist erholen.
+
+### Sekten-Shop (Reputation)
+
+- Set **Mountain Silhouette** + Avatar + exklusives Namensschild
+- Posen **Summon Eagle**, **Mo Ruler**, **Soaring High**
+- Sekten-Inschrift **Mohist Hill**
+- Zusätzlich: separater Shop **„Universal Love"** — auch für **Nicht-Mitglieder** geöffnet
+
+> 🔗 Weitere Infos: [Hidden Mountain-Guide](./hidden-mountain) · [Waffe: Bamboocut – Kite](./waffen/bamboocut-kite)
 
 ---
 
