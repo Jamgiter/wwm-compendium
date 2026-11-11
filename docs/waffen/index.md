@@ -1,8 +1,8 @@
 
 # ⚔️ Waffen-Übersicht
 
-In **Where Winds Meet** gibt es **18 Waffen**, aufgeteilt in **8 Kampfkunst-Pfade (Martial Arts Paths)**.
-Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedlichen Spezialisierungen. Seit **Patch 2.0 (23.07.2026)** gibt es mit **Bamboocut – Kite** einen neuen Pfad und die neue Waffe **Gauntlets (Handschuhe)**.
+In **Where Winds Meet** gibt es **20 Waffen**, aufgeteilt in **10 Kampfkunst-Pfade (Martial Arts Paths)**.
+Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedlichen Spezialisierungen. Seit **Patch 2.0 (23.07.2026)** gibt es mit **Bamboocut – Kite** einen neuen Pfad und die neue Waffe **Gauntlets (Handschuhe)**. Mit **Patch 2.1 „Clouded Revelation"** (Pfadstart **03.09.2026**) kam **Bamboocut – Draught** dazu — der erste Bamboocut-Pfad mit **Zwillingsklingen**.
 
 ---
 
@@ -16,7 +16,8 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | [Silkbind – Jade](./silkbind-jade) | Tintenfass-Fächer + Frühlingsschirm | Fernkampf-DPS | ⭐⭐⭐⭐⭐ |
 | [Bamboocut – Wind](./bamboocut-wind) | Höllische Zwillingsklingen + Tödlicher Seilpfeil | Aggro-Burst-DPS | ⭐⭐⭐⭐ |
 | [Bamboocut – Dust](./bamboocut-dust) | Ewiger-Frühlings-Schirm + Ungebundener Seilpfeil | AoE-Kontrolle | ⭐⭐⭐⭐ |
-| [Bamboocut – Kite](./bamboocut-kite) 🆕 | Himmelswille-Handschuhe + Himmelsgreif-Seilpfeil | Nahkampf-Burst / Vielseitig | ⭐⭐⭐ |
+| [Bamboocut – Kite](./bamboocut-kite) | Himmelswille-Handschuhe + Himmelsgreif-Seilpfeil | Nahkampf-Burst / Vielseitig | ⭐⭐⭐ |
+| [Bamboocut – Draught](./bamboocut-draught) 🆕 | Himmelsschlag-Handschuhe + Gespaltene Zwillingsklingen | Nahkampf-Aggression / Boss & Arena | ⭐⭐⭐ |
 | [Stonesplit – Might](./stonesplit-might) | Sturmbrecher-Speer + Donnerklage-Klinge | **Tank** | ⭐⭐⭐ |
 | [Stonesplit – Strength](./stonesplit-strength) | Schnee-trennende Klinge + Phalanx-Brecher-Klinge | Parade/Stagger-DPS | ⭐⭐⭐⭐⭐ |
 
@@ -39,13 +40,15 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | Ewiger-Frühlings-Schirm | Dust | Fern | C | B | **S** | B |
 | Ungebundener Seilpfeil | Dust | Mittel | B | A | A | B |
 | Himmelswille-Handschuhe | Kite 🆕 | Kurz | A | S | B | B |
-| Himmelsgreif-Seilpfeil | Kite 🆕 | Mittel/Lang | A | A | B | B |
+| Himmelsgreif-Seilpfeil | Kite | Mittel/Lang | A | A | B | B |
+| Himmelsschlag-Handschuhe | Draught 🆕 | Kurz | – | – | – | – |
+| Gespaltene Zwillingsklingen | Draught 🆕 | Kurz/Mittel | – | – | – | – |
 | Sturmbrecher-Speer | Might | Lang | B | C | **S** | **S** |
 | Donnerklage-Klinge | Might | Mittel | A | B | A | **S** |
 | Schnee-trennende Klinge | Strength | Mittel | **S** | A | **S** | B |
 | Phalanx-Brecher-Klinge | Strength | Mittel | **S** | B | A | B |
 
-> *S = Hervorragend, A = Stark, B = Gut, C = Durchschnitt, D = Schwach*
+> *S = Hervorragend, A = Stark, B = Gut, C = Durchschnitt, D = Schwach. „–“ = noch keine verlässlichen Community-Werte (Pfad seit 03.09.2026).*
 
 ---
 
@@ -60,6 +63,7 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 | <span class="tier-b">B-Tier</span> | Sturmbrecher-Speer + Donnerklage-Klinge, Strategisches Schwert/Speer | Starke Tanks, gute Blutungs-Waffen |
 | <span class="tier-c">C-Tier</span> | Ewiger-Frühlings-Schirm + Ungebundener Seilpfeil | Situativ nützlich, aber schwächer im Einzelziel |
 | <span class="tier-new">Neu (2.0)</span> | Himmelswille-Handschuhe + Himmelsgreif-Seilpfeil | Neuer Pfad seit Patch 2.0 – Meta-Einstufung folgt mit Community-Erfahrung |
+| <span class="tier-new">Neu (2.1)</span> | Himmelsschlag-Handschuhe + Gespaltene Zwillingsklingen | Pfad seit 03.09.2026, laut Everstone besonders stark in Bosskampf & Arena – noch keine breite Datenlage |
 
 ---
 
@@ -71,3 +75,4 @@ Jeder Pfad enthält 2 Waffen mit einem gemeinsamen Kampfstil, aber unterschiedli
 - **High-Skill-DPS**: **Stonesplit – Strength** – Paraden + Stagger wie in Sekiro
 - **Burst-Schaden**: **Bamboocut – Wind** – non-stop Aggression mit Flamelash
 - **Safe-Fernkampf**: **Silkbind – Jade** – Luft-Combo-Potential, hohe Mobilität
+- **Aggressive Bosser**: **Bamboocut – Draught** – trunkener Kranich, ziehender Drache: hoher Druck, kaum Lücken
