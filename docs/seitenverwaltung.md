@@ -16,9 +16,9 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 ### ⚔️ Waffen
 | Seite | Beschreibung |
 |:------|:-------------|
-| [Waffen-Übersicht](./waffen/) | Alle 16 Waffen + Tier-Liste + Vergleich |
+| [Waffen-Übersicht](./waffen/) | Alle 22 Waffen + Tier-Liste + Vergleich |
 | [Pfad-Planer](./builds) | Boss-Matchups, 3 Build-Typen & Mystic-Arts-Ranking |
-| [Fähigkeiten](./skills) | Skills aller 16 Waffen mit Ressourcen-Typen |
+| [Fähigkeiten](./skills) | Skills aller Waffen mit Ressourcen-Typen |
 
 **Waffen-Pfade:**
 | Pfad | Waffen |
@@ -29,7 +29,9 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 | [Silkbind – Jade](./waffen/silkbind-jade) | Tintenfässchen-Fächer |
 | [Bamboocut – Wind](./waffen/bamboocut-wind) | Frühlingsschirm |
 | [Bamboocut – Dust](./waffen/bamboocut-dust) | Ewiger-Frühlings-Schirm, Ungebundener Seilpfeil |
-| [Bamboocut – Kite](./waffen/bamboocut-kite) 🆕 | Himmelswille-Handschuhe (Gauntlets), Himmelsgreif-Seilpfeil |
+| [Bamboocut – Kite](./waffen/bamboocut-kite) | Himmelswille-Handschuhe (Gauntlets), Himmelsgreif-Seilpfeil |
+| [Bamboocut – Draught](./waffen/bamboocut-draught) 🆕 | Himmelsschlag-Handschuhe, Gespaltene Zwillingsklingen (Patch 2.1) |
+| [Silkbind – Wings](./waffen/silkbind-wings) 🆕 | Hüfttrommel (Waist Drum), Weidenbiege-Fächer (Patch 2.3) |
 | [Stonesplit – Might](./waffen/stonesplit-might) | Donnerklage-Klinge |
 | [Stonesplit – Strength](./waffen/stonesplit-strength) | Schnee-trennende Klinge |
 
@@ -56,7 +58,8 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 |:-------|:------|
 | [Qinghe-Region](./bosses/weltbosse-qinghe) | [Kaifeng-Region](./bosses/weltbosse-kaifeng) |
 | [Hexi-Region](./bosses/weltbosse-hexi) | [Liangzhou-Region](./bosses/weltbosse-liangzhou) |
-| [Hidden Mountain](./bosses/weltbosse-hidden-mountain) 🆕 | Ci & Cuo + Ironheart Centipede (Patch 2.0) |
+| [Hidden Mountain](./bosses/weltbosse-hidden-mountain) | Ci & Cuo, Ironheart Centipede (2.0) + Inkpincer Scorpion, Cloudclutch Serpent (2.1), Golden Colossus Taicu (2.2) |
+| [Qingzhou](./bosses/weltbosse-qingzhou) 🆕 | Tidewatcher, Old Raftsman, Shuttlecock Champion (Patch 2.3) |
 
 ### 📜 Quests & Aktivitäten
 | Seite | Beschreibung |
@@ -117,11 +120,11 @@ Alle Seiten des WWM Compendiums auf einen Blick. Hier siehst du, welche Inhalte 
 
 | Kennzahl | Wert |
 |:---------|:----:|
-| **Seiten gesamt** | ~55 |
-| **Waffen-Guides** | 9 Pfade (inkl. Bamboocut – Kite 🆕) |
-| **Boss-Guides** | 14 Story + 5 Weltboss-Regionen (inkl. Hidden Mountain 🆕) + Mini-Bosse |
-| **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou, Qinchuan, **Hidden Mountain** 🆕 |
-| **Letztes Update** | 04. August 2026 (Patch 2.0 „Unseen Approach") |
+| **Seiten gesamt** | ~58 |
+| **Waffen-Guides** | 11 Pfade / 22 Waffen (inkl. Draught 🆕, Wings 🆕) |
+| **Boss-Guides** | 14 Story + 7 Weltboss-Regionen (inkl. Hidden Mountain, Qingzhou 🆕) + Mini-Bosse |
+| **Regionen** | Qinghe, Kaifeng, Hexi/Liangzhou, Qinchuan, Hidden Mountain, **Qingzhou/Penglai** 🆕, **Hutuo** (ab 13./14.11.) 🆕 |
+| **Letztes Update** | 11. November 2026 (Patches 2.1–2.3 + Jubiläum „Hutuo") |
 
 ---
 

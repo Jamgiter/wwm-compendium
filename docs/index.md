@@ -115,7 +115,31 @@ Waffen-Analysen, Boss-Strategien und optimierte Pfade.
 </div>
 
 <div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
-<h3 style="margin-top: 0">⛰️ Patch 2.0 – Unseen Approach 🆕</h3>
+<h3 style="margin-top: 0">🏯 Jubiläum – Hutuo 🆕</h3>
+<p>Ab 13./14.11.: Kriegsregion Hutuo, Schlacht an der Zhongdu-Brücke, zwei Brettspiele, Doppelspeer (Ende Nov.) und die größten Jubiläumsbelohnungen bisher.</p>
+<a href="/quests">Zur Hutuo-Übersicht →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">📖 Patch 2.3 – Friends From Afar 🆕</h3>
+<p>Qingzhou & Penglai, Pfad Silkbind – Wings (Waist Drum + Willowbend Fan), Sekte Inkbound Order, drei neue Weltbosse und Kampagne Mount Tai Blizzard.</p>
+<a href="/waffen/silkbind-wings">Zum Wings-Guide →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">⚔️ Patch 2.2 – Perilous Eminence</h3>
+<p>Story-Fortsetzung „Bringer of Embers", Kampagne Skyward City Ruins, Transdust Ruins (Extraktions-PvP), Wildtrail Journal, Gilden-Statistiken.</p>
+<a href="/daily-guide">Zu den Patch Notes →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">🎋 Patch 2.1 – Clouded Revelation</h3>
+<p>Hidden Mountain Vertiefung, Pfad Bamboocut – Draught, Gleiter „Chasing the Sky", Event Cloudtop Ascent, zwei neue Weltbosse.</p>
+<a href="/waffen/bamboocut-draught">Zum Draught-Guide →</a>
+</div>
+
+<div style="flex: 1; min-width: 200px; padding: 1.5rem; border: 1px solid var(--vp-c-divider); border-radius: 8px; background: var(--vp-c-bg-soft);">
+<h3 style="margin-top: 0">⛰️ Patch 2.0 – Unseen Approach</h3>
 <p>Großes Update: Hidden Mountain-Gebiet, neue Waffe Gauntlets, Pfad Bamboocut: Kite, Sekte Mohist Hill, neue Weltbosse & Level-Cap Lv. 100!</p>
 <a href="/hidden-mountain">Zum Hidden Mountain-Guide →</a>
 </div>
@@ -202,8 +226,14 @@ Dieses Projekt wächst mit der Community. Folgende Bereiche sind in Planung:
 - [x] Patch 1.7 „Imperial Palace" – Kaiserpalast, Pfad-Tutorial, Journey into Jianghu, Arena-Revamp 🆕
 - [x] Patch 1.8 „One Day in Qinghe" – Blissful Retreat, Companion-Tiere, Housing-Lifestyle 🆕
 - [x] Patch 1.8 Hotfixes (25.06./02.07./17.07.) – Optimierungen & Bugfixes
-- [x] Patch 2.0 „Unseen Approach" – Hidden Mountain, Gauntlets, Bamboocut: Kite, Mohist Hill, Weltbosse, Lv. 100 🆕
+- [x] Patch 2.0 „Unseen Approach" – Hidden Mountain, Gauntlets, Bamboocut: Kite, Mohist Hill, Weltbosse, Lv. 100
+- [x] Patch 2.1 „Clouded Revelation" – Bringer of Embers, Bamboocut: Draught, Mirkvale, Gleiter, Inkpincer Scorpion & Cloudclutch Serpent 🆕
+- [x] Patch 2.2 „Perilous Eminence" – Skyward City Ruins, Transdust Ruins, Wildtrail Journal, Golden Colossus Taicu 🆕
+- [x] Patch 2.3 „Friends From Afar" – Qingzhou/Penglai, Silkbind: Wings, Inkbound Order, drei Weltbosse 🆕
+- [x] Jubiläum „Hutuo" – Region, Zhongdu-Brücke, Brettspiele, Doppelspeer (angekündigt) 🆕
 - [ ] Detaillierte Cooldowns & Level-Daten (aus Spiel ergänzen)
+- [ ] Boss-Mechaniken 2.1–2.3 (sobald Community-Berichte vorliegen)
+- [ ] Inner Ways & BiS-Sets für Draught und Wings
 
 ---
 

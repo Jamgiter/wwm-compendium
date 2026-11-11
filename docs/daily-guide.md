@@ -99,6 +99,75 @@ Damit in *Where Winds Meet* nichts liegen bleibt – ein kompakter Guide, was si
 
 ---
 
+## 🆕 Patch 2.3 – Friends From Afar (15. Oktober 2026)
+
+### 📖 Qingzhou & Penglai
+Neue Gelehrten- und Hafenregion, erreichbar ab Lv. 32 über das Lost Chapter **[Away to Qingzhou]**. Kernorte: Inkbound Archives, Tianyi Tower, Tidegazing Pavilion. Details in den [Quests](./quests).
+
+### 🪶 Neuer Pfad: Silkbind – Wings
+**Waist Drum** (Museflow Waist Drum, über Legacy *Sea Shepherd*) und **Willowbend Fan** (über *Riddled Echoes*). Vollständiger Guide: [Silkbind – Wings](./waffen/silkbind-wings).
+
+### 🏯 Sekte Inkbound Order
+Gelehrtesekte von Penglai mit Beförderungspfad **[Core Disciple Trial]** → Rang *Mentor*. Details unter [Sekten](./sekten).
+
+### 🌊 Drei neue Weltbosse
+Tidewatcher, Old Raftsman, Shuttlecock Champion — Belohnungen und Kontext bei [Weltbosse – Qingzhou](./bosses/weltbosse-qingzhou).
+
+### 🎯 Events (Auswahl)
+- **Treasure-Laden Return** / **Mount Tai Blizzard**-Wiederholungen: Inschrift *Beyond the Cycle*
+- Season-Shop wechselt mit dem Update; Auftritts-Sets laufen gestaffelt (29.10., 01.11., 08.11.)
+
+---
+
+## 🆕 Patch 2.2 – Perilous Eminence (16. September 2026)
+
+### 📜 Story & Kampagne
+- Kapitel *A Bitter Winter* und *Sea of Sunfire* (Fortsetzung von **Bringer of Embers**)
+- Kampagne **Skyward City Ruins** — Belohnung: Gesichtsornament *Steadfast Veil*
+- Neuer Weltboss **Golden Colossus Taicu**
+
+### ⚔️ Neue Modi
+- **Transdust Ruins** (ab 23.09., Lv. 20 + Quest *Sands of Perils*): Extraktions-PvP mit vier Varianten (Solo, Trio, AI Solo, AI Trio), Sandsturm-Zonen, Sicherheitskoffer; Beute wird zu **Golden Treasure Token**
+- **Wildtrail Journal: Ruffled Up** — Gänse-Kampfmodus mit dem Begleiter
+
+### 🏰 Gilden
+Editierbares Gilden-Roster (Anpinnen), persönliche und Gilden-Saisonstatistiken im Gildenkrieg, korrigierte Boss-Talent-Zählung
+
+### 🐢 Events
+**Lucky Turtle Match** (16.09.–12.10.) und **Trekking for Treasures** (16.09.–15.10.)
+
+---
+
+## 🆕 Patch 2.1 – Clouded Revelation (20. August 2026)
+
+### ⛰️ Hidden Mountain geht weiter
+- Kapitel *Muted Skies* + *Gold Crow Fall*
+- Kampagne **Mirkvale**, Legacy **Evershift Labyrinth** (Bd. V) und **Ephemeral Glory** (Bd. III)
+- Zwei Weltbosse: **Inkpincer Scorpion**, **Cloudclutch Serpent** (beide brauchen *Contortion*)
+- **Gleiter-Modus „Chasing the Sky"**: Solo-Zeitfahren und Mehrspieler-Rennen
+
+### 🎋 Neuer Pfad: Bamboocut – Draught
+Ab **03.09.2026**: **Skystrike Gauntlets** (Jiu Qiansui im Martial Fellowship) und **Riven Twinblades** (Qinghe-Legacy *Echoes of Old Battles*). Guide: [Bamboocut – Draught](./waffen/bamboocut-draught).
+
+### 🎯 Events
+- **Cloudtop Ascent** — gemeinsamer Wiederaufbau der Cloudstair, serverseitiger Fortschritt, danach Fahrt zur Heaven's Threshold
+- **Jianghu Bounty** (27.08.–17.09.) — Energy-Modul, Bounty-Coins, Aufträge für andere Spieler ausschreiben
+- **New Armament Drill** (03.–15.09.) — Draught kostenlos testen
+
+---
+
+## 🆕 Jubiläum – Hutuo (ab 13./14. November 2026)
+
+- **Region Hutuo** mit der Schlacht an der **Zhongdu-Brücke**
+- Festung **„Hutuo-Fluss"** mit Khitan-General **Xiao Han**
+- **Zwei Brettspiele:** Horse Racing Chess und Jianghu Tactics
+- **Doppelspeer** (双槍) Ende November, Choreografie von Yuen Woo-ping
+- Jubiläumsbelohnungen in bislang größtem Umfang; 100 Mio. Spieler weltweit (August 2026)
+
+> ⚠️ Hutuo startet erst am 13./14.11. — Inhalte sind angekündigt, nicht erlebt. Belohnungslisten und Boss-Mechaniken folgen, sobald der Patch live ist.
+
+---
+
 ## 🆕 Patch 1.6 – Flows of Dreams (bestehend)
 
 ### Half-Year Companionship

@@ -27,6 +27,9 @@ Hier findest du alle wichtigen Karten für **Where Winds Meet** – perfekt zum 
 | **Moonveil Mountain** ⛰️ | Hochgebirge mit schneebedeckten Gipfeln |
 | **Granary of Plenty** 🌽 | Fruchtbare Ebenen – Nahrung und Materialien |
 | **Sundara Land** 🌅 | Warme Küstenregion im Südosten |
+| **Hidden Mountain** ⛰️ 🆕 | Mohisten-Region (Patch 2.0) — Heaven's Threshold, Mirkvale, Evershift Labyrinth, Pentad-Kessel; Weltbosse Inkpincer Scorpion & Cloudclutch Serpent (2.1), Golden Colossus Taicu (2.2) |
+| **Qingzhou / Penglai** 🌊 🆕 | Gelehrten- und Hafenregion (Patch 2.3, ab 29.10.) — Inkbound Archives, Tianyi Tower, Tidegazing Pavilion; Weltbosse Tidewatcher, Old Raftsman, Shuttlecock Champion |
+| **Hutuo** 🏯 🆕 | Kriegsregion zum ersten Jubiläum (ab 13./14.11.2026) — Schlacht an der Zhongdu-Brücke, Festung „Hutuo-Fluss", zwei neue Weltbosse |
 
 ---
 

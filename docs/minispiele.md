@@ -43,6 +43,18 @@ Entspannung pur! An fast jedem Gewässer kannst du angeln.
 
 ## 🎲 Brettspiele & Kartenspiele
 
+### 🐎 Horse Racing Chess (打馬棋) 🆕
+
+**Seit:** Jubiläums-Update „Hutuo" (13./14.11.2026)
+
+Ein Brettspiel, in dem du selbst die Figur bist. Du ziehst über das Brett, würfelst dich vorwärts und versuchst, als Erste/r das Ziel zu erreichen — unterwegs tauchen Erinnerungen an deine eigene Jianghu-Reise auf: erlebte Mystic Arts, markante Szenen, alte Weggefährten. Gedacht als leichter, geselliger Wettlauf, nicht als Statistik-Optimierung.
+
+### ♟️ Jianghu Tactics (江湖弈) 🆕
+
+**Seit:** Jubiläums-Update „Hutuo" (13./14.11.2026)
+
+Das strategische Gegenstück: Figuren aufstellen, Ausrüstung zuweisen, Fähigkeiten pro Runde kombinieren — und daraus eine eigene Aufstellung bauen, die gegen die des Gegners antritt. Der Ausgang hängt an Aufstellung und Rundenwahl, nicht an Reaktionszeit. Für Spieler, die lieber planen als prügeln.
+
 ### Schach (Xiangqi / Chinesisches Schach)
 Das klassische Strategiespiel gegen NPCs.
 - **Regeln:** Ähnlich wie westliches Schach, aber mit anderen Figuren und Bewegungsmustern

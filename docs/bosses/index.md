@@ -58,6 +58,22 @@ Diese Bosse müssen für den Story-Fortschritt besiegt werden:
 | Pocketrupt Circus | Hexi | [→ Guide](./weltbosse-hexi) |
 | Everdeer | Hexi | [→ Guide](./weltbosse-hexi) |
 
+### Hidden Mountain (Patch 2.0–2.2)
+| Boss | Gebiet | Guide |
+|------|--------|:-----:|
+| Ci & Cuo | Seen außerhalb von Mohist City | [→ Guide](./weltbosse-hidden-mountain) |
+| Ironheart Centipede | Hidden Mountain | [→ Guide](./weltbosse-hidden-mountain) |
+| Inkpincer Scorpion 🆕 | Rand von Mohist City (*Contortion*) | [→ Guide](./weltbosse-hidden-mountain) |
+| Cloudclutch Serpent 🆕 | Kessel der „Fünf Wunder" (*Contortion*) | [→ Guide](./weltbosse-hidden-mountain) |
+| Golden Colossus Taicu 🆕 | Hidden Mountain | [→ Guide](./weltbosse-hidden-mountain) |
+
+### Qingzhou (Patch 2.3)
+| Boss | Gebiet | Guide |
+|------|--------|:-----:|
+| Tidewatcher | Schlickbänke | [→ Guide](./weltbosse-qingzhou) |
+| Old Raftsman | Flussufer | [→ Guide](./weltbosse-qingzhou) |
+| Shuttlecock Champion | Dragonfall Camp | [→ Guide](./weltbosse-qingzhou) |
+
 ### Liangzhou-Region (Patch 1.5)
 | Boss | Gebiet | Guide |
 |------|--------|:-----:|

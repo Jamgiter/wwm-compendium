@@ -81,6 +81,28 @@ Mohist-Hill-Schüler können auf Reisen außerhalb von Hidden Mountain von myste
 
 ---
 
+## 📖 Inkbound Order (Tintenbund) 🆕 (Patch 2.3 „Friends From Afar")
+
+Die Gelehrtesekte von **Penglai** in Qingzhou. Kein göttlicher Segen, kein müheloser Himmel: Jeder Ziegel, jede Halle wurde von Hand gebaut, durch Gelehrsamkeit bewahrt und durch Ehrgeiz weitergegeben. Über der Stadt wacht die Weisenstatue, auf dem Gipfel hängt die **Clarion Chime**, die ihre donnernde Stimme nur zu alten Riten erhebt. Im Zentrum steht der **Tianyi Tower** — die erste Bibliothek des Reiches, mit tausenden Regalen von Bambusstreifen bis zu kaiserlichen Drucken.
+
+### Zugang
+
+- **Qingzhou freischalten:** Lv. 32 + Qinghe-Hauptkapitel *[Heaven Has No Pier]*, dann Lost Chapter *[Away to Qingzhou]*
+- Die Sekte öffnet mit dem Regional-Update am **29. Oktober 2026**
+
+### Ränge & Aufstieg
+
+- Mit 2.3 kam der **Beförderungspfad** dazu: Die Prüfung **[Core Disciple Trial]** führt zum Rang **Mentor**
+- Höhere Ränge schalten Sekteninhalte und Belohnungen frei
+
+### Verbundene Kampfkünste
+
+- **Museflow Waist Drum** (Waist Drum, Masked Troupe) — über die Qingzhou-Legacy *[Sea Shepherd]*
+- **Willowbend Fan** (Silver Needle) — über die Qingzhou-Legacy *[Riddled Echoes]*
+- Beide bilden den Pfad **Silkbind – Wings**; laut Everstone teilen sie „tiefe Wurzeln" mit dem Inkbound Order
+
+> ⚠️ Shop-Sortiment und Reputationsbelohnungen des Ordens sind noch nicht vollständig dokumentiert — hier wird nachgezogen, sobald belastbare Daten vorliegen.
+
 ## 📊 Ränge & Voting
 
 | Rang | Beschreibung |

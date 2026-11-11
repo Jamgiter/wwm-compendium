@@ -116,4 +116,25 @@ Hidden Mountain ist Heimat der **Mohist Hill**-Sekte — einem überlebenden Zwe
 
 ---
 
-*Stand: Patch 2.0 „Unseen Approach" (23.07.2026).*
+## 🆕 Patch 2.1 – Clouded Revelation (20.08.2026)
+
+Hidden Mountain wird zum Schauplatz der zweiten Story-Hälfte:
+
+- **Heaven's Threshold** — die Wolkenstufen werden im Server-Event **Cloudtop Ascent** gemeinsam mit den Mohisten und Dorfbewohnern wiederaufgebaut; ist die Treppe fertig, führt sie zur Schwelle des Berges
+- **Mirkvale** (Kampagne) — die Qiongqi-Artificers haben das Tal gestürmt, die Öfen stehen kalt; mit **Xiaoba** zurück in die Werkstätten. Wiederholbar: Accessoire **Chime Mallet**
+- **Evershift Labyrinth** (Jianghu Legacy Bd. V) — unter dem Divinecraft Pavilion; wer Großmeister werden will, muss hier hindurch. Belohnung u. a. **Mystic Skill Bursting Nine**
+- **Ephemeral Glory** (Legacy Bd. III) — Ruinen der alten Mohisten-Stadt im Südwesten, bronzene Glocken, tausend Jahre Geschichte
+- **Gleiter-Modus „Chasing the Sky"** — Solo-Zeitfahren und Mehrspieler-Rennen über die Gipfel
+- **Zwei neue Weltbosse:** Inkpincer Scorpion und Cloudclutch Serpent (beide verlangen den Mystic Skill **Contortion**)
+- **Neuer Pfad Bamboocut – Draught** ab 03.09. — siehe [Draught-Guide](./waffen/bamboocut-draught)
+
+## 🆕 Patch 2.2 – Perilous Eminence (16.09.2026)
+
+- **Story:** *A Bitter Winter* + *Sea of Sunfire* — die Fremden strömen herein, die Debatten der Ältesten enden jäh
+- **Kampagne Skyward City Ruins** — die gescheiterte Himmelsstadt der Mohisten, drei Jahre nach dem Fall; wiederholbar für das Gesichtsornament **Steadfast Veil**
+- **Neuer Weltboss:** Golden Colossus Taicu
+- **Transdust Ruins** (ab 23.09.) — Extraktions-PvP, das in der Region verwurzelt ist (Beute aus Ruinen, Sicherheitskoffer, Sandsturm-Zonen)
+
+---
+
+*Stand: Patch 2.2 „Perilous Eminence" (16.09.2026), ergänzt am 11.11.2026.*
